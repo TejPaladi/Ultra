@@ -1,0 +1,501 @@
+proposal_link,team_size,team,req_skills,covered_skills,coverage_pct,goodness_ultra,objective,solver_status,candidate_count,candidate_limit
+https://www.nsf.gov/pubs/2026/nsf26000/nsf26000.htm,1,['Hayley Gutierrez'],4,4,100.0,0.4,12.826566113810205,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26001/nsf26001.htm,2,"['Robert Smith', 'Jerry Mayo']",6,6,100.0,0.4458333333333333,19.46339699147962,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26002/nsf26002.htm,2,"['Marissa Flores', 'Kendra Meadows']",4,4,100.0,0.4875,13.176253546992982,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26003/nsf26003.htm,2,"['Brandon Campos', 'Jennifer Keller']",4,4,100.0,0.4875,13.179048839689083,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26004/nsf26004.htm,1,['Elizabeth Keller'],4,4,100.0,0.4,13.13382308027349,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26005/nsf26005.htm,1,['Rebecca Pennington'],3,3,100.0,0.4,9.626949222016286,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26006/nsf26006.htm,2,"['Adam Henderson', 'Dawn Nielsen']",4,4,100.0,0.4875,13.083312941875418,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26007/nsf26007.htm,1,['Steven Davis'],2,2,100.0,0.4,6.618431937430133,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26008/nsf26008.htm,2,"['Crystal Soto', 'Hailey Ford']",8,8,100.0,0.440625,26.075528582119706,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26009/nsf26009.htm,3,"['Hayley Gutierrez', 'Seth Moore', 'Samantha Burns']",8,8,100.0,0.496875,25.96874042076743,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26010/nsf26010.htm,1,['Patrick Rivera'],2,2,100.0,0.4,6.411473076250793,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26011/nsf26011.htm,1,['Michelle Morales'],3,3,100.0,0.4,9.858542473317929,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26012/nsf26012.htm,2,"['Michael West', 'Courtney Hendrix']",7,7,100.0,0.425,22.861092686564128,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26013/nsf26013.htm,2,"['Curtis Andersen', 'Andrew Munoz']",7,7,100.0,0.425,22.95217695266026,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26014/nsf26014.htm,2,"['Kevin Delacruz', 'Anna Robbins']",8,8,100.0,0.440625,26.153777469924936,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26015/nsf26015.htm,2,"['Jennifer Nguyen', 'Jason Mcdonald']",7,7,100.0,0.46071428571428574,22.98436950733378,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26016/nsf26016.htm,1,['Sara Odonnell'],2,2,100.0,0.4,6.514170927105724,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26017/nsf26017.htm,2,"['Benjamin Dunn', 'Kevin Nichols']",6,6,100.0,0.4666666666666667,19.58474382758944,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26018/nsf26018.htm,2,"['John Byrd', 'Anthony Grant']",8,8,100.0,0.440625,25.978914231864508,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26019/nsf26019.htm,1,['Michael Palmer'],2,2,100.0,0.4,6.518802096481292,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26020/nsf26020.htm,1,['Cassandra Hughes'],3,3,100.0,0.4,9.96425026281716,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26021/nsf26021.htm,1,['Sharon Jacobs'],2,2,100.0,0.4,6.479170655026291,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26022/nsf26022.htm,2,"['Diane Kline', 'Michelle Goodwin']",4,4,100.0,0.4875,13.142254406211716,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26023/nsf26023.htm,2,"['Tanya Bush', 'Carol Long']",7,7,100.0,0.44285714285714284,22.730474064011144,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26024/nsf26024.htm,2,"['Patricia Garza', 'Jonathan Jones']",5,5,100.0,0.45,16.142651923999722,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26025/nsf26025.htm,2,"['Michelle Koch', 'Christopher Townsend']",6,6,100.0,0.4666666666666667,19.54584073162194,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26026/nsf26026.htm,2,"['Brian Bonilla', 'Robert Shields']",5,5,100.0,0.475,16.32602475056452,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26027/nsf26027.htm,2,"['Deborah Patton', 'Kaitlyn Jones']",5,5,100.0,0.475,16.382438892068254,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26028/nsf26028.htm,2,"['Diana Suarez', 'Caroline Martin']",4,4,100.0,0.4875,12.878346667902981,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26029/nsf26029.htm,2,"['Crystal Goodman', 'Cindy Williams']",6,6,100.0,0.4666666666666667,19.396536634714273,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26030/nsf26030.htm,2,"['Lindsey King', 'Rachael Taylor']",6,6,100.0,0.4458333333333333,19.438840968789027,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26031/nsf26031.htm,2,"['Ann Curry', 'Joseph Alexander']",7,7,100.0,0.44285714285714284,22.938564081054043,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26032/nsf26032.htm,2,"['John Weeks', 'Angela Richards']",5,5,100.0,0.5,16.260221004081103,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26033/nsf26033.htm,1,['Danielle Schwartz'],3,3,100.0,0.4,9.771832330713881,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26034/nsf26034.htm,2,"['Kurt Solis', 'Jennifer Martinez']",7,7,100.0,0.44285714285714284,22.772216298630642,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26035/nsf26035.htm,2,"['Anthony Montgomery', 'Kristy Patrick']",5,5,100.0,0.475,16.216542849655596,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26036/nsf26036.htm,2,"['Diana Ross', 'Anthony Powers']",5,5,100.0,0.45,16.378339339442874,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26037/nsf26037.htm,1,['Stephen Cunningham'],2,2,100.0,0.4,6.548804346785091,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26038/nsf26038.htm,2,"['Hannah Donovan', 'Heather Hansen']",6,6,100.0,0.4666666666666667,19.37843648165352,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26039/nsf26039.htm,1,['Margaret Baker'],4,4,100.0,0.4,13.062341440297285,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26040/nsf26040.htm,2,"['Keith Johnson', 'Krystal Lara']",5,5,100.0,0.45,16.21438590589394,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26041/nsf26041.htm,1,['Megan Morrison'],2,2,100.0,0.4,6.553010760421988,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26042/nsf26042.htm,2,"['Phillip Williams Jr.', 'Michael Miller']",5,5,100.0,0.5,16.442102805622465,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26043/nsf26043.htm,2,"['Stephanie Collins', 'Maria Mccoy']",5,5,100.0,0.45,16.306249957936434,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26044/nsf26044.htm,1,['Benjamin Camacho'],2,2,100.0,0.4,6.430891162107895,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26045/nsf26045.htm,2,"['Amy Stevens', 'Eric Aguilar']",7,7,100.0,0.46071428571428574,22.793748159889976,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26046/nsf26046.htm,1,['Jessica Morris DVM'],2,2,100.0,0.4,6.544008174521598,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26047/nsf26047.htm,1,['Nathan Lucas'],2,2,100.0,0.4,6.528703167464004,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26048/nsf26048.htm,2,"['Rick Sharp', 'Larry Beck']",7,7,100.0,0.44285714285714284,22.926713304320437,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26049/nsf26049.htm,1,['Michelle Koch'],3,3,100.0,0.4,9.82673054791622,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26050/nsf26050.htm,2,"['Paul Armstrong', 'Margaret Ball']",5,5,100.0,0.45,16.37343098031719,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26051/nsf26051.htm,1,['Susan Murphy'],3,3,100.0,0.4,9.842510016126063,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26052/nsf26052.htm,2,"['Elizabeth Turner', 'Bryan Gomez']",5,5,100.0,0.475,16.195417777317395,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26053/nsf26053.htm,2,"['Caitlin Kennedy', 'Brittany Nguyen']",7,7,100.0,0.425,22.638894335121165,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26054/nsf26054.htm,1,['Jeffrey Hill'],2,2,100.0,0.4,6.518802096481292,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26055/nsf26055.htm,2,"['Brett Arnold', 'Bianca Hamilton']",6,6,100.0,0.4666666666666667,19.75651903360907,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26056/nsf26056.htm,1,['Chloe Ramirez'],3,3,100.0,0.4,9.695983777418782,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26057/nsf26057.htm,2,"['Cory Ward DVM', 'Jason Bird']",7,7,100.0,0.46071428571428574,22.730439612152924,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26058/nsf26058.htm,2,"['Raymond Walker', 'Jose Parks']",5,5,100.0,0.45,16.395083586352495,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26059/nsf26059.htm,1,['Michael Barry'],2,2,100.0,0.4,6.467268446366109,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26060/nsf26060.htm,2,"['Jacob Moore', 'Theresa Moore']",7,7,100.0,0.425,23.03406272717674,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26061/nsf26061.htm,2,"['Jonathan Newman', 'Amanda Elliott']",8,8,100.0,0.440625,26.067308016783482,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26062/nsf26062.htm,2,"['Ashley Wolfe', 'Richard Patterson']",7,7,100.0,0.44285714285714284,22.825968508528348,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26063/nsf26063.htm,2,"['Maria Mccoy', 'Regina Dominguez']",6,6,100.0,0.4666666666666667,19.78733383924183,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26064/nsf26064.htm,2,"['James Mueller', 'Gregory Leonard']",6,6,100.0,0.4458333333333333,19.585042214819914,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26065/nsf26065.htm,2,"['Kaitlyn Jones', 'Terry Gomez']",4,4,100.0,0.4875,13.082558509549932,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26066/nsf26066.htm,2,"['Melissa White', 'Rachael Carter']",8,8,100.0,0.45625,26.0192366184408,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26067/nsf26067.htm,2,"['Pamela Oliver', 'John Guerra']",4,4,100.0,0.4875,13.151184190624019,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26068/nsf26068.htm,2,"['Thomas Wright', 'Susan Hall']",8,8,100.0,0.425,26.050199341851766,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26069/nsf26069.htm,2,"['Richard Ferguson', 'Stephanie Sanchez']",6,6,100.0,0.4666666666666667,19.569227040264323,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26070/nsf26070.htm,2,"['Shawn Johnson', 'Elizabeth Jordan']",8,8,100.0,0.440625,25.95254631086201,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26071/nsf26071.htm,2,"['Adrian Johnson', 'Megan Daniel DDS']",8,8,100.0,0.425,26.150196058319835,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26072/nsf26072.htm,2,"['Dominic Johnson', 'Margaret Clark']",6,6,100.0,0.4666666666666667,19.67177356823988,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26073/nsf26073.htm,2,"['Katrina Rodriguez', 'Chad Dennis']",6,6,100.0,0.425,19.665279148489052,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26074/nsf26074.htm,2,"['Michelle Koch', 'Alexandra Alvarez MD']",6,6,100.0,0.425,19.64502737425309,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26075/nsf26075.htm,1,['Clinton Fischer'],3,3,100.0,0.4,9.934348525127778,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26076/nsf26076.htm,2,"['Brandon King', 'Julia Raymond']",6,6,100.0,0.4458333333333333,19.569302749521547,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26077/nsf26077.htm,1,['April Petersen'],4,4,100.0,0.4,13.04312048925459,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26078/nsf26078.htm,2,"['Pamela Oliver', 'Victor Cain']",5,5,100.0,0.5,16.21381181622379,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26079/nsf26079.htm,2,"['Brian Huerta', 'Phyllis Myers']",7,7,100.0,0.44285714285714284,22.889521987919686,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26080/nsf26080.htm,2,"['Victoria Tucker', 'Troy Hernandez']",4,4,100.0,0.4875,13.030299743664234,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26081/nsf26081.htm,2,"['Paula Murphy', 'Crystal Washington']",4,4,100.0,0.4875,13.105609380053416,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26082/nsf26082.htm,2,"['Diane Stone', 'Andrew Rodriguez']",5,5,100.0,0.475,16.26865004326407,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26083/nsf26083.htm,2,"['Taylor York', 'Ryan Espinoza']",5,5,100.0,0.475,16.46238587047431,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26084/nsf26084.htm,1,['Brandon Mclean'],4,4,100.0,0.4,13.150073696339991,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26085/nsf26085.htm,2,"['Stephanie Edwards', 'Andrea Cain']",6,6,100.0,0.4458333333333333,19.469422776765157,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26086/nsf26086.htm,2,"['Keith Mills', 'Maria Mccoy']",6,6,100.0,0.4666666666666667,19.67647573754644,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26087/nsf26087.htm,2,"['Sarah Lee', 'Phillip Williams Jr.']",8,8,100.0,0.440625,25.97254528970437,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26088/nsf26088.htm,2,"['Richard Hernandez', 'Richard Grimes']",7,7,100.0,0.44285714285714284,22.850876439784706,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26089/nsf26089.htm,1,['Adrienne Richardson'],3,3,100.0,0.4,9.815656514766353,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26090/nsf26090.htm,1,['Renee Watkins'],3,3,100.0,0.4,9.740043618017523,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26091/nsf26091.htm,2,"['Taylor York', 'Ronald Bailey']",6,6,100.0,0.4666666666666667,19.6809581677935,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26092/nsf26092.htm,3,"['Samantha Burns', 'Anthony Grant', 'Stephanie West']",8,8,100.0,0.496875,26.085849786617448,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26093/nsf26093.htm,2,"['Andrea Ruiz', 'Audrey Pace']",5,5,100.0,0.45,16.38288851486314,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26094/nsf26094.htm,1,['Amanda Howard'],2,2,100.0,0.4,6.655858342949251,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26095/nsf26095.htm,2,"['Janet Young', 'Cynthia Orr']",6,6,100.0,0.4458333333333333,19.399093712213705,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26096/nsf26096.htm,2,"['Bryan Gomez', 'Erin Baker']",7,7,100.0,0.44285714285714284,22.803162378133454,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26097/nsf26097.htm,1,['Stephanie West'],3,3,100.0,0.4,9.84804867924073,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26098/nsf26098.htm,1,['Cody Wilson'],4,4,100.0,0.4,13.240505570950853,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26099/nsf26099.htm,2,"['Michael Miller', 'Megan Morrison']",7,7,100.0,0.44285714285714284,22.78382465285462,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26100/nsf26100.htm,1,['Angela Daugherty'],2,2,100.0,0.4,6.488179724968656,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26101/nsf26101.htm,1,['Maria Stewart'],3,3,100.0,0.4,9.911051951583978,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26102/nsf26102.htm,3,"['David Hayes', 'Jacob Hall', 'Valerie Schaefer']",8,8,100.0,0.496875,26.120118947987528,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26103/nsf26103.htm,2,"['Eric Lucas', 'Jeffrey Mcdonald']",4,4,100.0,0.4875,13.087780453531083,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26104/nsf26104.htm,1,['Monique Herring'],2,2,100.0,0.4,6.549097244029069,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26105/nsf26105.htm,2,"['Matthew Fleming', 'Crystal Washington']",4,4,100.0,0.4875,13.157333203759485,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26106/nsf26106.htm,1,['Jeffrey Hill'],2,2,100.0,0.4,6.514005924217799,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26107/nsf26107.htm,1,['Linda Johnson'],2,2,100.0,0.4,6.538509995410991,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26108/nsf26108.htm,2,"['Robin Collins', 'Maria Mccoy']",5,5,100.0,0.475,16.294578768978607,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26109/nsf26109.htm,2,"['Cynthia Orr', 'Debbie Thomas']",5,5,100.0,0.45,16.117783071373072,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26110/nsf26110.htm,2,"['Tony Abbott', 'Brett Young']",5,5,100.0,0.45,16.46921799360145,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26111/nsf26111.htm,1,['Christopher Gray'],3,3,100.0,0.4,9.573832051376534,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26112/nsf26112.htm,2,"['Michael Jacobson', 'Megan Daniel DDS']",6,6,100.0,0.4666666666666667,19.685707851302137,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26113/nsf26113.htm,2,"['Cindy Glover', 'Mrs. Diana Ramos']",6,6,100.0,0.4458333333333333,19.69626830134999,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26114/nsf26114.htm,2,"['Kyle Lopez', 'Roger Hernandez']",4,4,100.0,0.4875,13.225247590824152,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26115/nsf26115.htm,1,['Samuel Cooper'],2,2,100.0,0.4,6.650872963598036,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26116/nsf26116.htm,2,"['Bruce Perez', 'Martin Hebert']",6,6,100.0,0.4666666666666667,19.626454855975837,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26117/nsf26117.htm,1,['Dr. Nathaniel Harris'],2,2,100.0,0.4,6.59464591427433,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26118/nsf26118.htm,1,['Michael Palmer'],2,2,100.0,0.4,6.42036202366804,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26119/nsf26119.htm,1,['Victoria Gomez'],3,3,100.0,0.4,9.570576394288537,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26120/nsf26120.htm,1,['Kenneth Gonzalez'],3,3,100.0,0.4,9.854776187728199,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26121/nsf26121.htm,1,['Jacob Burnett'],2,2,100.0,0.4,6.639051224632869,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26122/nsf26122.htm,2,"['Jacob Ford', 'Mark Berg']",6,6,100.0,0.4666666666666667,19.55023291652907,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26123/nsf26123.htm,2,"['Sarah Holt', 'Patrick Rivera']",5,5,100.0,0.45,16.453057584164377,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26124/nsf26124.htm,2,"['Natalie Miles', 'Rebecca Collins']",4,4,100.0,0.4875,13.180898101696918,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26125/nsf26125.htm,2,"['Katherine Gordon', 'Johnathan Colon']",7,7,100.0,0.46071428571428574,22.962848781553358,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26126/nsf26126.htm,2,"['Mr. Eric Bruce DVM', 'Michelle Clark']",6,6,100.0,0.4458333333333333,19.613373041269647,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26127/nsf26127.htm,2,"['David Meyer', 'Tony Wood']",5,5,100.0,0.5,16.13319762663549,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26128/nsf26128.htm,2,"['Natalie Santiago', 'Valerie Schaefer']",4,4,100.0,0.4875,13.184274525191023,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26129/nsf26129.htm,2,"['Yolanda Hunt', 'Kenneth King']",6,6,100.0,0.4458333333333333,19.537185911434538,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26130/nsf26130.htm,3,"['Terry Gomez', 'Anthony Osborn', 'Samuel Collins']",7,7,100.0,0.5035714285714286,22.797612914040645,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26131/nsf26131.htm,2,"['Megan Lopez', 'Andrew Ashley']",4,4,100.0,0.4875,13.191966787758389,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26132/nsf26132.htm,2,"['Allison Carpenter', 'Derek Schaefer']",8,8,100.0,0.425,26.097625555158185,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26133/nsf26133.htm,1,['Mary Carter'],3,3,100.0,0.4,9.763388086220596,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26134/nsf26134.htm,2,"['Diane Kline', 'Christy Lewis']",8,8,100.0,0.425,26.132823596400105,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26135/nsf26135.htm,1,['Casey Webb'],3,3,100.0,0.4,9.737875427606411,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26136/nsf26136.htm,1,['Zachary Walker'],2,2,100.0,0.4,6.39828607196884,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26137/nsf26137.htm,1,['Robin Collins'],2,2,100.0,0.4,6.548804346785091,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26138/nsf26138.htm,1,['April Petersen'],3,3,100.0,0.4,9.720735503292904,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26139/nsf26139.htm,2,"['Anthony George', 'Stephanie West']",4,4,100.0,0.4875,13.1424622374267,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26140/nsf26140.htm,2,"['Sandra Villegas', 'Daniel Hayes']",5,5,100.0,0.475,16.47409287992837,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26141/nsf26141.htm,2,"['Michelle Morales', 'Drew Hall']",6,6,100.0,0.4458333333333333,19.627571364415424,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26142/nsf26142.htm,2,"['Annette Serrano', 'Linda Johnson']",7,7,100.0,0.44285714285714284,22.658672067709947,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26143/nsf26143.htm,2,"['Isabel Davis', 'Alicia Mckay']",5,5,100.0,0.475,16.455333325906956,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26144/nsf26144.htm,2,"['Calvin Lawrence', 'Deborah Patton']",5,5,100.0,0.475,16.311252018838278,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26145/nsf26145.htm,1,['David Norris'],2,2,100.0,0.4,6.486343893624863,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26146/nsf26146.htm,2,"['Ryan Espinoza', 'Nicole Hall']",6,6,100.0,0.4458333333333333,19.59260455309958,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26147/nsf26147.htm,2,"['Anna Simmons', 'Lauren Novak']",4,4,100.0,0.4875,13.147518493557707,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26148/nsf26148.htm,2,"['Michelle Murray', 'Anthony Sanchez']",6,6,100.0,0.4458333333333333,19.640428432612932,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26149/nsf26149.htm,2,"['Victoria Chen', 'Steven Smith']",5,5,100.0,0.475,16.335055964431746,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26150/nsf26150.htm,1,['Anthony Powers'],2,2,100.0,0.4,6.506445072945949,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26151/nsf26151.htm,1,['Kevin King'],2,2,100.0,0.4,6.456930008418569,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26152/nsf26152.htm,1,['Cody Riley Jr.'],2,2,100.0,0.4,6.660322879139294,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26153/nsf26153.htm,2,"['Stephen Cunningham', 'Kristen Middleton']",5,5,100.0,0.45,16.295607372600088,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26154/nsf26154.htm,2,"['Brianna Murphy', 'Carol Wallace']",4,4,100.0,0.4875,12.952789579863708,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26155/nsf26155.htm,2,"['Taylor Jefferson', 'Krista Gonzalez']",4,4,100.0,0.4875,13.179956707397308,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26156/nsf26156.htm,1,['Peter Davis'],4,4,100.0,0.4,12.860758346071457,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26157/nsf26157.htm,3,"['Adrian Johnson', 'Brian Bonilla', 'Johnny Austin']",8,8,100.0,0.496875,26.134193501199654,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26158/nsf26158.htm,1,['Michael Decker'],2,2,100.0,0.4,6.672731757410535,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26159/nsf26159.htm,2,"['Jennifer Massey', 'Crystal Long']",8,8,100.0,0.45625,25.87913686852439,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26160/nsf26160.htm,1,['Samantha Burns'],3,3,100.0,0.4,9.816409660429818,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26161/nsf26161.htm,2,"['Robin Bailey', 'Jason Bird']",7,7,100.0,0.46071428571428574,22.82559388979929,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26162/nsf26162.htm,2,"['Joseph Cisneros', 'Angela Short']",7,7,100.0,0.44285714285714284,22.86691381149032,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26163/nsf26163.htm,1,['Cheryl Forbes'],2,2,100.0,0.4,6.411473076250793,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26164/nsf26164.htm,1,['Samuel Cooper'],2,2,100.0,0.4,6.634068998439779,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26165/nsf26165.htm,2,"['Michael Le', 'William Norris']",7,7,100.0,0.46071428571428574,22.939734517066103,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26166/nsf26166.htm,1,['Hannah Chavez'],3,3,100.0,0.4,9.818201797620516,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26167/nsf26167.htm,1,['Keith Johnson'],3,3,100.0,0.4,9.766368714358734,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26168/nsf26168.htm,2,"['John Jackson', 'Christopher Gray']",8,8,100.0,0.425,25.99775220661476,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26169/nsf26169.htm,1,['Victoria Tucker'],2,2,100.0,0.4,6.55362363322104,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26170/nsf26170.htm,2,"['Maria Simmons', 'Tracey Anderson']",6,6,100.0,0.4666666666666667,19.45471997245513,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26171/nsf26171.htm,2,"['Jason Mendoza', 'Clinton Fischer']",7,7,100.0,0.44285714285714284,22.930508221117666,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26172/nsf26172.htm,1,['Bobby Wolf'],2,2,100.0,0.4,6.639051224632869,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26173/nsf26173.htm,2,"['Stephanie Collins', 'Michael Dougherty']",8,8,100.0,0.425,25.94413917454315,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26174/nsf26174.htm,1,['Elizabeth Moore'],2,2,100.0,0.4,6.447755632142528,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26175/nsf26175.htm,2,"['Michael Decker', 'Dr. Dennis Sexton']",5,5,100.0,0.5,16.39995039953352,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26176/nsf26176.htm,3,"['John Brown', 'Audrey Fields', 'Anthony George']",8,8,100.0,0.496875,26.309801189153248,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26177/nsf26177.htm,2,"['Gabriel Patterson', 'Rodney Sanchez']",8,8,100.0,0.440625,26.19992646237538,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26178/nsf26178.htm,2,"['Jay Perez', 'Morgan West']",7,7,100.0,0.46071428571428574,22.90074456680496,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26179/nsf26179.htm,2,"['Amy Martin', 'Bobby Hughes']",4,4,100.0,0.4875,12.900842304010908,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26180/nsf26180.htm,2,"['Maria Mccoy', 'Richard Glass']",6,6,100.0,0.4666666666666667,19.707608504246906,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26181/nsf26181.htm,2,"['Samuel Collins', 'Joseph King']",4,4,100.0,0.4875,12.952332886876572,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26182/nsf26182.htm,2,"['Theresa Moore', 'Cindy Williams']",8,8,100.0,0.440625,25.760032704927387,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26183/nsf26183.htm,1,['Carmen Meyer'],2,2,100.0,0.4,6.616471536880703,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26184/nsf26184.htm,2,"['Barbara Stewart', 'Michael Patterson']",5,5,100.0,0.475,16.364731540268195,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26185/nsf26185.htm,2,"['Matthew Mccullough', 'Jacob Burnett']",6,6,100.0,0.4458333333333333,19.577172023849158,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26186/nsf26186.htm,2,"['Sara Odonnell', 'Rodney Jones']",4,4,100.0,0.4875,13.027348047921864,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26187/nsf26187.htm,2,"['Amy Pearson', 'Susan Woodard']",6,6,100.0,0.4458333333333333,19.615738321860807,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26188/nsf26188.htm,2,"['Christina Thomas', 'John Adams']",4,4,100.0,0.4875,12.97189159620004,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26189/nsf26189.htm,3,"['Kayla James', 'Brooke Anderson', 'Alexandra Alvarez MD']",7,7,100.0,0.5035714285714286,22.95905830101007,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26190/nsf26190.htm,2,"['Stephanie Sanchez', 'Martin Hebert']",6,6,100.0,0.4666666666666667,19.60808295374583,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26191/nsf26191.htm,1,['Misty Flynn'],2,2,100.0,0.4,6.500590760548698,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26192/nsf26192.htm,2,"['Megan Ryan', 'Jacqueline Lewis']",7,7,100.0,0.44285714285714284,22.84631763356079,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26193/nsf26193.htm,2,"['Nicole Hall', 'Charles Perry']",6,6,100.0,0.4666666666666667,19.54959807490152,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26194/nsf26194.htm,1,['Natasha Harris'],3,3,100.0,0.4,9.773809468580865,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26195/nsf26195.htm,2,"['Julia Pierce', 'John Adams']",7,7,100.0,0.44285714285714284,22.862252726378358,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26196/nsf26196.htm,2,"['Teresa Clark', 'Bryan Gomez']",7,7,100.0,0.47857142857142854,22.990846753158745,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26197/nsf26197.htm,2,"['Kevin Delacruz', 'Richard Ferguson']",7,7,100.0,0.44285714285714284,22.832708704152473,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26198/nsf26198.htm,1,['Hannah Ward'],3,3,100.0,0.4,9.686305505009184,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26199/nsf26199.htm,2,"['Alex Cunningham', 'Morgan West']",6,6,100.0,0.4666666666666667,19.36148792926522,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26200/nsf26200.htm,1,['Angelica Brennan'],3,3,100.0,0.4,9.74283821694854,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26201/nsf26201.htm,1,['Jeffrey Mcdonald'],2,2,100.0,0.4,6.593241688601575,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26202/nsf26202.htm,1,['Stephanie Baker'],4,4,100.0,0.4,13.042634934498754,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26203/nsf26203.htm,1,['Kevin King'],2,2,100.0,0.4,6.386971419811658,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26204/nsf26204.htm,2,"['Samuel Cooper', 'Christina Jenkins']",5,5,100.0,0.5,16.505961117817805,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26205/nsf26205.htm,1,['Sharon Lee'],2,2,100.0,0.4,6.495603219037658,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26206/nsf26206.htm,2,"['Jose Watson', 'Rachel Evans']",8,8,100.0,0.440625,26.353382493517667,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26207/nsf26207.htm,2,"['Mary Campbell', 'Bryan Myers']",8,8,100.0,0.440625,25.960524833609558,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26208/nsf26208.htm,2,"['Joshua Vang', 'Kristen Middleton']",4,4,100.0,0.4875,13.353283375026647,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26209/nsf26209.htm,1,['Phillip Robertson'],3,3,100.0,0.4,9.780824010873706,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26210/nsf26210.htm,1,['Gregory Cooper'],2,2,100.0,0.4,6.508998096384671,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26211/nsf26211.htm,2,"['Susan Murphy', 'Hannah Jacobs']",8,8,100.0,0.425,26.18354363668094,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26212/nsf26212.htm,2,"['Jose Watson', 'Jason Bird']",7,7,100.0,0.44285714285714284,23.018203304240487,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26213/nsf26213.htm,2,"['Garrett Blair', 'Andrew Munoz']",4,4,100.0,0.4875,13.107270604481918,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26214/nsf26214.htm,2,"['Larry Beck', 'Carla Cohen']",8,8,100.0,0.440625,26.076299807022224,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26215/nsf26215.htm,2,"['Aaron Smith', 'Benjamin Gilbert']",4,4,100.0,0.4875,12.962754391979415,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26216/nsf26216.htm,1,['Elizabeth Moore'],2,2,100.0,0.4,6.433366894690428,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26217/nsf26217.htm,2,"['Richard Anderson', 'Brandy Holt']",5,5,100.0,0.475,16.504511934084693,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26218/nsf26218.htm,2,"['Carmen Meyer', 'Kevin Gordon']",5,5,100.0,0.45,16.17331072003093,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26219/nsf26219.htm,2,"['Kenneth Gonzalez', 'Kayla James']",5,5,100.0,0.45,16.29202283052843,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26220/nsf26220.htm,2,"['Tonya Hurley', 'Amanda Elliott']",5,5,100.0,0.5,16.268107926528067,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26221/nsf26221.htm,2,"['Shannon Ruiz', 'Cameron Bruce']",7,7,100.0,0.44285714285714284,22.701548703704574,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26222/nsf26222.htm,2,"['Monique Herring', 'Danielle Schwartz']",3,3,100.0,0.4666666666666667,9.770115610952878,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26223/nsf26223.htm,2,"['Jacqueline Lewis', 'Mary Herrera']",4,4,100.0,0.4875,13.090642873571703,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26224/nsf26224.htm,2,"['Brooke Anderson', 'Carrie Johnson']",5,5,100.0,0.475,16.328026623675235,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26225/nsf26225.htm,2,"['Aaron Smith', 'Susan Hall']",6,6,100.0,0.425,19.7306126270869,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26226/nsf26226.htm,2,"['Bryan Gomez', 'Rachel Sims']",5,5,100.0,0.5,16.389057110225885,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26227/nsf26227.htm,2,"['Sarah Beasley', 'Nathaniel Snow']",4,4,100.0,0.4875,12.974358111634935,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26228/nsf26228.htm,2,"['Diana Ali', 'Jacob Ford']",7,7,100.0,0.46071428571428574,22.92576778357562,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26229/nsf26229.htm,2,"['Terry Gomez', 'Jeffrey Hill']",6,6,100.0,0.4458333333333333,19.501798020115803,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26230/nsf26230.htm,3,"['Dr. Dennis Sexton', 'Jasmine White', 'Terry Gomez']",8,8,100.0,0.5125,26.28941220454433,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26231/nsf26231.htm,1,['Monique Herring'],2,2,100.0,0.4,6.528894536711549,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26232/nsf26232.htm,2,"['Yolanda Hunt', 'Alexandra Alvarez MD']",4,4,100.0,0.4875,13.105489481097255,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26233/nsf26233.htm,3,"['Mr. Christopher Gardner', 'John Shelton', 'Kevin Delacruz']",8,8,100.0,0.5125,26.288189696788802,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26234/nsf26234.htm,3,"['Debra Mcdaniel', 'Tracey Anderson', 'Peter Norton']",8,8,100.0,0.496875,25.990689862684512,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26235/nsf26235.htm,1,['Louis Walters'],3,3,100.0,0.4,9.790740728846416,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26236/nsf26236.htm,2,"['Jason Mendoza', 'Ashley Hernandez']",6,6,100.0,0.4458333333333333,19.564402189100978,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26237/nsf26237.htm,2,"['Tiffany Crawford', 'Robert Short']",4,4,100.0,0.4875,12.986982801697582,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26238/nsf26238.htm,2,"['Stephanie Baker', 'John Adams']",5,5,100.0,0.475,16.247098883082824,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26239/nsf26239.htm,1,['Yolanda Anderson'],4,4,100.0,0.4,13.0589948090731,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26240/nsf26240.htm,2,"['James Sanchez', 'Mary Carter']",6,6,100.0,0.4458333333333333,19.524157834755236,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26241/nsf26241.htm,1,['Diana Ali'],3,3,100.0,0.4,9.83897154447778,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26242/nsf26242.htm,1,['Zachary Walker'],4,4,100.0,0.4,13.05514884951445,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26243/nsf26243.htm,2,"['Gregory Cooper', 'Krystal Anderson']",4,4,100.0,0.4875,12.99772272650378,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26244/nsf26244.htm,2,"['Crystal Washington', 'Mary Crane']",7,7,100.0,0.44285714285714284,22.927960000085932,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26245/nsf26245.htm,2,"['Mark Allen', 'Morgan West']",5,5,100.0,0.5,16.092386271234858,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26246/nsf26246.htm,2,"['Whitney Gallegos', 'Samuel Collins']",4,4,100.0,0.4875,13.159419612790241,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26247/nsf26247.htm,2,"['Rachael Carter', 'Alexandra Alvarez MD']",4,4,100.0,0.4875,13.159333706284595,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26248/nsf26248.htm,2,"['Travis Braun', 'Sarah Miller']",5,5,100.0,0.45,16.383205641128935,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26249/nsf26249.htm,2,"['Alicia Robinson', 'Eric Wolfe']",8,8,100.0,0.425,26.09232592255024,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26250/nsf26250.htm,2,"['Melanie Jones', 'Randall Harris']",6,6,100.0,0.4666666666666667,19.628022040990597,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26251/nsf26251.htm,2,"['Thomas Brown', 'Matthew Frazier']",6,6,100.0,0.425,19.61284713526341,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26252/nsf26252.htm,1,['Larry Mendoza'],3,3,100.0,0.4,9.74661741009462,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26253/nsf26253.htm,2,"['Jacob Moore', 'Tanya Bush']",5,5,100.0,0.45,16.427916119147408,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26254/nsf26254.htm,2,"['Adrienne Richardson', 'David Mccarthy']",8,8,100.0,0.45625,26.09220941600587,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26255/nsf26255.htm,2,"['Erica Nielsen', 'Carlos Anderson Jr.']",6,6,100.0,0.4666666666666667,19.358450333441215,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26256/nsf26256.htm,2,"['Rachael Taylor', 'David Mccarthy']",4,4,100.0,0.4875,13.010245733042007,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26257/nsf26257.htm,2,"['Jonathan Dunlap', 'Tyler Mcgee']",6,6,100.0,0.4458333333333333,19.438837154506174,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26258/nsf26258.htm,1,['Diana Ali'],3,3,100.0,0.4,9.786469893679822,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26259/nsf26259.htm,2,"['Lisa Tate', 'Roger Keller']",7,7,100.0,0.44285714285714284,22.7635142857536,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26260/nsf26260.htm,2,"['Tracy Moses', 'Stacey Green']",8,8,100.0,0.440625,26.079636051373654,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26261/nsf26261.htm,2,"['Elizabeth Moore', 'Jessica Page']",6,6,100.0,0.4875,19.525319958273617,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26262/nsf26262.htm,2,"['Michael Hopkins', 'Jason Gordon']",6,6,100.0,0.4666666666666667,19.581405836115614,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26263/nsf26263.htm,1,['Luis Ingram'],2,2,100.0,0.4,6.569292976605613,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26264/nsf26264.htm,3,"['Sarah Bullock', 'Brenda Thomas', 'James Ramos']",8,8,100.0,0.496875,25.87602762963881,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26265/nsf26265.htm,1,['Kristen Ruiz'],3,3,100.0,0.4,9.872371828872424,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26266/nsf26266.htm,3,"['Debbie Thomas MD', 'Brian Bonilla', 'Micheal Brown']",8,8,100.0,0.5125,26.201996677113957,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26267/nsf26267.htm,2,"['Crystal Soto', 'Steven Armstrong']",6,6,100.0,0.425,19.551621087374162,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26268/nsf26268.htm,1,['Brandon Mclean'],3,3,100.0,0.4,9.676935582448088,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26269/nsf26269.htm,1,['Tyler Mcgee'],3,3,100.0,0.4,9.821428491541761,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26270/nsf26270.htm,2,"['James Page DDS', 'Cindy Brown']",7,7,100.0,0.44285714285714284,22.70598328281842,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26271/nsf26271.htm,1,['Fred Rowe'],2,2,100.0,0.4,6.609005029776563,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26272/nsf26272.htm,2,"['Brianna Murphy', 'Teresa Clark']",5,5,100.0,0.45,16.1360464641117,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26273/nsf26273.htm,2,"['Jennifer Blankenship', 'Andrew Meadows']",7,7,100.0,0.44285714285714284,22.840257627080792,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26274/nsf26274.htm,1,['Ellen Fields'],2,2,100.0,0.4,6.568073145488075,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26275/nsf26275.htm,1,['Julia Raymond'],2,2,100.0,0.4,6.396398368742428,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26276/nsf26276.htm,1,['Gregory Cooper'],2,2,100.0,0.4,6.5797346474764495,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26277/nsf26277.htm,1,['Jacob Allen'],2,2,100.0,0.4,6.461772632894357,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26278/nsf26278.htm,3,"['Diane Stone', 'Joshua Williams', 'Melanie Jones']",7,7,100.0,0.5035714285714286,23.054852363606386,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26279/nsf26279.htm,2,"['Dennis Lewis', 'Benjamin Camacho']",5,5,100.0,0.45,16.342269329772602,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26280/nsf26280.htm,1,['Austin Williamson'],3,3,100.0,0.4,10.010248164152122,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26281/nsf26281.htm,3,"['Nicole Morton', 'Stephen Lambert', 'Regina Dominguez']",8,8,100.0,0.48125,26.261538417215906,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26282/nsf26282.htm,1,['Adrienne Richardson'],2,2,100.0,0.4,6.516649243120192,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26283/nsf26283.htm,1,['Cathy Bruce'],3,3,100.0,0.4,9.82960689492986,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26284/nsf26284.htm,2,"['Laura Thomas', 'John Freeman']",6,6,100.0,0.425,19.571723988064754,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26285/nsf26285.htm,2,"['Eric Wolfe', 'Alicia Reed']",4,4,100.0,0.4875,12.967550875989193,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26286/nsf26286.htm,2,"['John Weeks', 'Samantha Shannon']",5,5,100.0,0.45,16.238951105150694,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26287/nsf26287.htm,2,"['Anthony Mccarthy', 'Mary Crane']",5,5,100.0,0.45,16.2517556992821,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26288/nsf26288.htm,2,"['Bethany Bartlett', 'Hannah Ward']",6,6,100.0,0.4458333333333333,19.70545498813083,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26289/nsf26289.htm,2,"['Ryan Espinoza', 'Jasmine White']",4,4,100.0,0.4875,12.903912747291567,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26290/nsf26290.htm,2,"['Hannah Chavez', 'Patrick Rivera']",6,6,100.0,0.4666666666666667,19.981096792077757,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26291/nsf26291.htm,1,['Kevin Gordon'],2,2,100.0,0.4,6.671075670915555,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26292/nsf26292.htm,2,"['Caroline Martin', 'Richard Anderson']",7,7,100.0,0.425,22.732414963585043,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26293/nsf26293.htm,2,"['Jessica Pollard', 'Manuel Wilson']",5,5,100.0,0.475,16.372370856031928,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26294/nsf26294.htm,2,"['Dr. Nathaniel Harris', 'Sheila Martin']",8,8,100.0,0.440625,26.024585814785542,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26295/nsf26295.htm,2,"['Taylor Jefferson', 'Elizabeth Hernandez']",7,7,100.0,0.44285714285714284,22.97593610669447,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26296/nsf26296.htm,1,['Gregory Collins'],4,4,100.0,0.4,13.015633354574385,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26297/nsf26297.htm,1,['Marisa Bowen'],2,2,100.0,0.4,6.4715288078397215,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26298/nsf26298.htm,1,['Kevin Campbell'],4,4,100.0,0.4,13.208722142987016,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26299/nsf26299.htm,1,['Carol Green'],3,3,100.0,0.4,9.66004917044263,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26300/nsf26300.htm,2,"['Sarah Lee', 'George Kirby']",5,5,100.0,0.475,16.030895441895005,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26301/nsf26301.htm,1,['Christopher Daniels'],3,3,100.0,0.4,9.923269589995206,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26302/nsf26302.htm,2,"['Todd Nolan', 'William Lee']",5,5,100.0,0.5,16.473435060471008,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26303/nsf26303.htm,1,['Helen Moran'],3,3,100.0,0.4,9.777717102570225,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26304/nsf26304.htm,2,"['Lindsay Nunez', 'Samantha Burns']",8,8,100.0,0.45625,26.161419335244794,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26305/nsf26305.htm,1,['Michael Anderson'],3,3,100.0,0.4,9.746438527906822,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26306/nsf26306.htm,1,['Phillip Robertson'],2,2,100.0,0.4,6.467650911470831,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26307/nsf26307.htm,2,"['Susan Woodard', 'Erica Nielsen']",5,5,100.0,0.45,16.299148819990403,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26308/nsf26308.htm,1,['John Adams'],3,3,100.0,0.4,9.723555373831662,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26309/nsf26309.htm,2,"['Keith Mills', 'Angela Adams']",7,7,100.0,0.425,22.966229785736992,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26310/nsf26310.htm,2,"['Austin Williamson', 'Cynthia Collier']",8,8,100.0,0.425,26.29211721833564,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26311/nsf26311.htm,1,['Aaron Brown'],3,3,100.0,0.4,9.76358842680025,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26312/nsf26312.htm,2,"['Anthony George', 'Helen Clark']",5,5,100.0,0.45,16.144055872126916,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26313/nsf26313.htm,1,['Dr. Nathaniel Harris'],2,2,100.0,0.4,6.444694124327571,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26314/nsf26314.htm,2,"['Christopher Rodriguez', 'Jacob Hall']",6,6,100.0,0.4666666666666667,19.63830372892713,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26315/nsf26315.htm,2,"['Alexander Olson', 'Brian Martin']",6,6,100.0,0.4875,19.901877489504265,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26316/nsf26316.htm,3,"['Joseph Cisneros', 'Nicole Hill', 'Melanie Jones']",8,8,100.0,0.496875,26.26223546906448,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26317/nsf26317.htm,2,"['Nicole Hall', 'Dr. Nathaniel Harris']",4,4,100.0,0.4875,12.968165585909901,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26318/nsf26318.htm,2,"['Beverly Perez', 'Victor White']",8,8,100.0,0.425,26.348609872269748,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26319/nsf26319.htm,2,"['Jimmy Doyle', 'Michael Patterson']",6,6,100.0,0.4666666666666667,19.491958055567988,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26320/nsf26320.htm,2,"['Glenn Rodriguez', 'Stephen Cunningham']",7,7,100.0,0.44285714285714284,23.064164238927958,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26321/nsf26321.htm,2,"['Jamie Jordan', 'Stephanie Collins']",8,8,100.0,0.45625,26.112357200730223,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26322/nsf26322.htm,2,"['David Scott', 'Omar Nelson']",7,7,100.0,0.44285714285714284,22.7772774851742,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26323/nsf26323.htm,2,"['Amanda Howard', 'Cody Riley Jr.']",6,6,100.0,0.4458333333333333,19.74354729082622,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26324/nsf26324.htm,1,['Eric Garcia'],2,2,100.0,0.4,6.587517574517687,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26325/nsf26325.htm,1,['Stephen Cunningham'],2,2,100.0,0.4,6.450693789404075,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26326/nsf26326.htm,2,"['Tonya Hurley', 'Dr. Jennifer Daniels']",6,6,100.0,0.4458333333333333,19.67106661781479,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26327/nsf26327.htm,2,"['Joshua Williams', 'Robert Shields']",5,5,100.0,0.45,16.138502480875395,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26328/nsf26328.htm,1,['Rhonda Glass'],2,2,100.0,0.4,6.509091909415369,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26329/nsf26329.htm,2,"['Amanda Valenzuela', 'Anne Cruz']",6,6,100.0,0.4458333333333333,19.644573389050755,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26330/nsf26330.htm,3,"['Patricia Garza', 'Shelley Shaw', 'Anna Bennett']",8,8,100.0,0.5125,26.492291002938405,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26331/nsf26331.htm,2,"['John Freeman', 'Anthony Orr']",8,8,100.0,0.440625,26.110776199448214,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26332/nsf26332.htm,1,['Kevin King'],2,2,100.0,0.4,6.452110721982621,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26333/nsf26333.htm,1,['Megan Morrison'],2,2,100.0,0.4,6.495302442801341,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26334/nsf26334.htm,2,"['Elizabeth Moore', 'Jonathan Li']",5,5,100.0,0.5,15.995042817138568,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26335/nsf26335.htm,2,"['Yolanda Anderson', 'Ashley Wolfe']",5,5,100.0,0.45,16.26650218240106,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26336/nsf26336.htm,2,"['Lisa Pruitt', 'Sarah Lowe']",4,4,100.0,0.4875,13.082876045487268,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26337/nsf26337.htm,1,['Jacqueline Lewis'],2,2,100.0,0.4,6.638330330693202,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26338/nsf26338.htm,1,['Marisa Bowen'],2,2,100.0,0.4,6.654582538272882,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26339/nsf26339.htm,1,['Margaret Clark'],3,3,100.0,0.4,9.781295597772331,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26340/nsf26340.htm,2,"['Richard Carter', 'Joyce Dickson']",8,8,100.0,0.425,26.145401620332887,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26341/nsf26341.htm,1,['Omar Nelson'],3,3,100.0,0.4,9.805163079178973,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26342/nsf26342.htm,1,['Diamond Barnes'],2,2,100.0,0.4,6.378002749828898,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26343/nsf26343.htm,1,['Brooke Anderson'],3,3,100.0,0.4,9.810394128596526,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26344/nsf26344.htm,2,"['Bryan Myers', 'James Sanchez']",4,4,100.0,0.4875,12.947570438114099,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26345/nsf26345.htm,2,"['Mr. Ryan Yates', 'Megan Franklin']",4,4,100.0,0.4875,12.89694695568728,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26346/nsf26346.htm,2,"['Melanie Jones', 'Robert Jenkins']",7,7,100.0,0.44285714285714284,22.76922747399264,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26347/nsf26347.htm,2,"['Daniel Buchanan', 'William Craig']",5,5,100.0,0.45,16.390788020163654,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26348/nsf26348.htm,2,"['Carol Wallace', 'Tom Rivera']",8,8,100.0,0.425,26.09701372253925,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26349/nsf26349.htm,3,"['Julie Williams', 'Ronald Wilson', 'Travis Wise']",8,8,100.0,0.496875,26.00170739802261,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26350/nsf26350.htm,2,"['Maria Moore', 'Stephen Lambert']",6,6,100.0,0.4458333333333333,19.7306226540576,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26351/nsf26351.htm,2,"['David Wright', 'Amy Stevens']",6,6,100.0,0.4666666666666667,19.46497549372769,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26352/nsf26352.htm,2,"['Michael Decker', 'Anthony Patterson']",8,8,100.0,0.425,26.158087596714477,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26353/nsf26353.htm,2,"['Tammie Nguyen', 'Holly Soto']",4,4,100.0,0.4875,13.008800673369256,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26354/nsf26354.htm,1,['Michael Brady'],2,2,100.0,0.4,6.447755632142528,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26355/nsf26355.htm,2,"['Anthony Bolton', 'John Reid']",7,7,100.0,0.46071428571428574,22.76896275814767,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26356/nsf26356.htm,2,"['Shelby Wood', 'Carol Scott']",8,8,100.0,0.440625,26.09652298278241,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26357/nsf26357.htm,1,['Angela Daugherty'],2,2,100.0,0.4,6.608227767255892,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26358/nsf26358.htm,2,"['Holly Arnold', 'Wayne Gonzalez']",6,6,100.0,0.425,19.526303570023202,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26359/nsf26359.htm,2,"['Alexis Suarez', 'Michael Decker']",5,5,100.0,0.475,16.521248717204866,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26360/nsf26360.htm,2,"['Christopher Rodriguez', 'Mrs. Diana Ramos']",7,7,100.0,0.44285714285714284,22.754895249686133,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26361/nsf26361.htm,3,"['Joshua Vang', 'Thomas Robertson', 'Brandy Holt']",8,8,100.0,0.496875,26.564382711115808,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26362/nsf26362.htm,1,['Michael Shah'],4,4,100.0,0.4,13.243560157166945,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26363/nsf26363.htm,3,"['Dr. Robert Stevens', 'Jason Mcdonald', 'Michele Johnson']",8,8,100.0,0.496875,26.409049099643973,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26364/nsf26364.htm,3,"['Phillip Williams Jr.', 'Scott Anderson', 'Lisa Flores']",8,8,100.0,0.496875,26.21614310302119,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26365/nsf26365.htm,2,"['Jerome Williams', 'Amy Martin']",5,5,100.0,0.475,16.294070165224618,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26366/nsf26366.htm,2,"['Brittany Nguyen', 'Alyssa Gutierrez']",8,8,100.0,0.440625,25.8422581003045,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26367/nsf26367.htm,2,"['Kelly Wilson', 'Ann Farley']",6,6,100.0,0.4458333333333333,19.584573067566467,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26368/nsf26368.htm,1,['Marisa Bowen'],3,3,100.0,0.4,9.847133149484296,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26369/nsf26369.htm,2,"['Katherine Smith', 'Cheryl Forbes']",8,8,100.0,0.425,25.97807427533275,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26370/nsf26370.htm,2,"['Bryan Myers', 'Jacob Stone']",4,4,100.0,0.4875,13.09531656060582,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26371/nsf26371.htm,2,"['Troy Hernandez', 'Rachael Jenkins']",4,4,100.0,0.4875,13.007310225439536,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26372/nsf26372.htm,2,"['Emily Pena', 'Anthony Orr']",8,8,100.0,0.440625,26.02559914513022,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26373/nsf26373.htm,2,"['Kristen Ruiz', 'Micheal Brown']",7,7,100.0,0.44285714285714284,23.028273868306346,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26374/nsf26374.htm,1,['Marisa Bowen'],2,2,100.0,0.4,6.526958612779053,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26375/nsf26375.htm,2,"['Eric Robinson', 'Kathryn Perry']",5,5,100.0,0.475,16.35398546425724,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26376/nsf26376.htm,3,"['Jessica Taylor', 'Deborah Patton', 'Terri Kim']",8,8,100.0,0.5125,26.38719814506351,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26377/nsf26377.htm,2,"['Aaron Dickson', 'Benjamin Camacho']",6,6,100.0,0.4458333333333333,19.624943555154463,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26378/nsf26378.htm,2,"['Jacob Hall', 'Alexis Allen']",8,8,100.0,0.45625,26.203081213798768,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26379/nsf26379.htm,1,['Gregory Ayala'],3,3,100.0,0.4,9.927757061486222,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26380/nsf26380.htm,2,"['Cassandra Hughes', 'Cynthia Hartman']",7,7,100.0,0.425,22.88430418326778,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26381/nsf26381.htm,2,"['Megan Lopez', 'Valerie Schaefer']",6,6,100.0,0.4666666666666667,19.579966622780177,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26382/nsf26382.htm,2,"['Jeffrey Clarke', 'Kayla Paul']",7,7,100.0,0.46071428571428574,23.004602647663546,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26383/nsf26383.htm,2,"['Eric Robinson', 'David English']",7,7,100.0,0.44285714285714284,22.971025165853387,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26384/nsf26384.htm,2,"['Melanie Jones', 'Samuel Spence']",6,6,100.0,0.4666666666666667,19.67433713700963,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26385/nsf26385.htm,1,['Melanie Jones'],2,2,100.0,0.4,6.563827803395281,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26386/nsf26386.htm,1,['Dr. Susan Huang'],3,3,100.0,0.4,9.762585309514673,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26387/nsf26387.htm,2,"['Andrew Ashley', 'Caroline Martin']",4,4,100.0,0.4875,13.120908305074291,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26388/nsf26388.htm,1,['Anthony Powers'],2,2,100.0,0.4,6.414370393999773,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26389/nsf26389.htm,2,"['Ronnie Miles', 'Anthony Hernandez']",4,4,100.0,0.4875,13.12582317755048,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26390/nsf26390.htm,2,"['Scott Campbell', 'Kendra Meadows']",8,8,100.0,0.425,25.938026342877667,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26391/nsf26391.htm,2,"['Tyler Mcgee', 'Cassandra Hughes']",6,6,100.0,0.4666666666666667,19.63785563092721,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26392/nsf26392.htm,2,"['Kathleen Moore', 'Shawn Taylor']",6,6,100.0,0.4666666666666667,19.794328152962933,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26393/nsf26393.htm,2,"['Shaun Avila', 'Yolanda Lewis']",6,6,100.0,0.4666666666666667,19.667767448246494,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26394/nsf26394.htm,2,"['Yolanda Lewis', 'Stephen Lambert']",7,7,100.0,0.44285714285714284,23.065417567195123,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26395/nsf26395.htm,2,"['Tammy Wu', 'Kevin Lang']",7,7,100.0,0.44285714285714284,22.599571021902207,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26396/nsf26396.htm,1,['Sarah Ramos'],3,3,100.0,0.4,9.703509874685068,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26397/nsf26397.htm,2,"['Robert Jenkins', 'Michael Hopkins']",6,6,100.0,0.4458333333333333,19.522321181926372,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26398/nsf26398.htm,2,"['Alison Mccarthy', 'Michael Decker']",6,6,100.0,0.4666666666666667,19.558160278342704,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26399/nsf26399.htm,2,"['Anthony Hernandez', 'Andrea Cain']",6,6,100.0,0.4458333333333333,19.633276952548773,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26400/nsf26400.htm,2,"['Paula Christian', 'Lisa Pruitt']",4,4,100.0,0.4875,13.083762963505494,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26401/nsf26401.htm,2,"['Tom Rivera', 'Karla Campbell']",8,8,100.0,0.425,25.88529794836588,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26402/nsf26402.htm,1,['Phyllis Myers'],3,3,100.0,0.4,9.714296048418866,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26403/nsf26403.htm,2,"['Steven Davis', 'Randall Harris']",5,5,100.0,0.45,16.328580651035605,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26404/nsf26404.htm,1,['Jocelyn West'],2,2,100.0,0.4,6.414626443162611,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26405/nsf26405.htm,2,"['Andrew Ashley', 'Julian Brennan']",7,7,100.0,0.44285714285714284,22.794793762675333,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26406/nsf26406.htm,2,"['Julia Pierce', 'Jennifer Rodriguez']",6,6,100.0,0.4458333333333333,19.560267499078204,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26407/nsf26407.htm,3,"['Alyssa Gutierrez', 'Andrea Jackson', 'Andrew Ashley']",8,8,100.0,0.48125,26.020799073290682,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26408/nsf26408.htm,2,"['Adrienne Richardson', 'Evan Hughes']",8,8,100.0,0.425,26.101181958216966,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26409/nsf26409.htm,1,['Omar Nelson'],3,3,100.0,0.4,9.634175181284004,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26410/nsf26410.htm,2,"['Chad Mckenzie', 'Lisa Tate']",8,8,100.0,0.440625,26.220389798453237,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26411/nsf26411.htm,2,"['Shawn Macdonald', 'Bethany Bartlett']",5,5,100.0,0.5,16.479898775501685,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26412/nsf26412.htm,2,"['Morgan West', 'Kaitlin Matthews']",5,5,100.0,0.475,16.21119818049224,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26413/nsf26413.htm,3,"['Cynthia Orr', 'Louis Walters', 'Jennifer Massey']",8,8,100.0,0.496875,26.024854164778553,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26414/nsf26414.htm,2,"['Amanda Forbes', 'Kendra Meadows']",6,6,100.0,0.4458333333333333,19.47361280572292,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26415/nsf26415.htm,2,"['Jeffrey Hill', 'Marissa Perkins DDS']",5,5,100.0,0.475,16.194081401144214,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26416/nsf26416.htm,1,['Shelley Davis'],2,2,100.0,0.4,6.558466257696828,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26417/nsf26417.htm,2,"['Gregory Chang', 'Chad Dennis']",8,8,100.0,0.440625,26.337425758889665,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26418/nsf26418.htm,1,['David Norris'],2,2,100.0,0.4,6.45166771484296,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26419/nsf26419.htm,2,"['Carrie Acosta', 'Dr. Susan Huang']",4,4,100.0,0.4875,12.879050425378587,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26420/nsf26420.htm,2,"['Andrew West', 'Amanda Howard']",7,7,100.0,0.44285714285714284,22.764256512454956,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26421/nsf26421.htm,2,"['Valerie Serrano', 'Alyssa Gutierrez']",7,7,100.0,0.46071428571428574,22.869978982697283,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26422/nsf26422.htm,2,"['Rick Hernandez', 'Victoria Carpenter']",6,6,100.0,0.4458333333333333,19.55923628198745,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26423/nsf26423.htm,2,"['Danielle Schwartz', 'Kurt Solis']",4,4,100.0,0.4875,12.909374934717034,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26424/nsf26424.htm,2,"['Benjamin Camacho', 'Kaitlyn Jones']",4,4,100.0,0.4875,13.061337706304776,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26425/nsf26425.htm,2,"['Clinton Fischer', 'Kathleen Moore']",6,6,100.0,0.4666666666666667,19.637586950156162,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26426/nsf26426.htm,2,"['Garrett Blair', 'James Jones']",5,5,100.0,0.45,16.32409262378728,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26427/nsf26427.htm,2,"['Hannah Ward', 'Kevin Delacruz']",6,6,100.0,0.425,19.843208350187773,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26428/nsf26428.htm,2,"['Amy Burke', 'Johnny Williams']",4,4,100.0,0.4875,13.044458663317663,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26429/nsf26429.htm,1,['Terry Gomez'],3,3,100.0,0.4,9.697544245875877,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26430/nsf26430.htm,2,"['Justin Wilson', 'James Mills']",7,7,100.0,0.46071428571428574,22.775033672900914,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26431/nsf26431.htm,2,"['Michael Jacobson', 'Angel Montoya']",6,6,100.0,0.4666666666666667,19.692923589061984,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26432/nsf26432.htm,2,"['Marisa Bowen', 'Martin Hebert']",4,4,100.0,0.4875,13.13515994493971,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26433/nsf26433.htm,1,['Crystal Flowers'],3,3,100.0,0.4,9.684225037160349,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26434/nsf26434.htm,2,"['Laurie Johnson', 'Katherine Thompson']",4,4,100.0,0.4875,13.19119760879914,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26435/nsf26435.htm,1,['Troy Hernandez'],3,3,100.0,0.4,9.72133059150886,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26436/nsf26436.htm,1,['Steven Archer'],2,2,100.0,0.4,6.584984003362593,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26437/nsf26437.htm,2,"['Anthony Allen', 'Victor White']",8,8,100.0,0.425,26.310823108769185,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26438/nsf26438.htm,2,"['Eric Lucas', 'Tony Abbott']",6,6,100.0,0.4666666666666667,19.839828792044226,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26439/nsf26439.htm,1,['Teresa Clark'],2,2,100.0,0.4,6.528894536711549,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26440/nsf26440.htm,2,"['Kevin Duncan', 'Brittany Nguyen']",4,4,100.0,0.4875,12.784248998556158,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26441/nsf26441.htm,2,"['Melanie Short', 'Brandon Mclean']",5,5,100.0,0.45,16.396433980877056,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26442/nsf26442.htm,1,['Stephanie Gibson'],2,2,100.0,0.4,6.470715909813654,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26443/nsf26443.htm,2,"['Kimberly Weaver', 'Jason Mendoza']",8,8,100.0,0.440625,25.88565751382937,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26444/nsf26444.htm,1,['Ryan Lopez'],3,3,100.0,0.4,9.716579988750262,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26445/nsf26445.htm,1,['Alexandra Alvarez MD'],2,2,100.0,0.4,6.668321606932983,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26446/nsf26446.htm,2,"['Mr. Eric Bruce DVM', 'Ronnie Miles']",8,8,100.0,0.440625,26.08631271989838,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26447/nsf26447.htm,2,"['Geoffrey Bradley', 'Elizabeth Duran']",6,6,100.0,0.4458333333333333,19.628801167792005,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26448/nsf26448.htm,2,"['Gregory Robinson', 'Carlos Davis']",7,7,100.0,0.46071428571428574,22.697630727028145,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26449/nsf26449.htm,2,"['Julie Gates', 'Beverly Perez']",5,5,100.0,0.475,16.468410590175665,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26450/nsf26450.htm,2,"['Steven Davis', 'Zachary Walker']",4,4,100.0,0.4875,13.131326269190662,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26451/nsf26451.htm,2,"['Stephanie Johnson', 'Troy English']",8,8,100.0,0.425,26.104968808105724,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26452/nsf26452.htm,2,"['Anthony George', 'Hailey Ford']",6,6,100.0,0.4666666666666667,19.61324552109654,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26453/nsf26453.htm,2,"['Casey Faulkner', 'Amy Stevens']",4,4,100.0,0.4875,12.95163318038184,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26454/nsf26454.htm,1,['Jeffrey Hill'],3,3,100.0,0.4,9.771859816701184,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26455/nsf26455.htm,1,['Jacob Zamora'],3,3,100.0,0.4,9.77660121375132,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26456/nsf26456.htm,1,['Courtney Mayer'],2,2,100.0,0.4,6.4658074272141235,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26457/nsf26457.htm,2,"['Tracy Moses', 'Elizabeth Gonzalez']",8,8,100.0,0.425,26.072156419068477,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26458/nsf26458.htm,2,"['Christine Mclean', 'Stephen Lambert']",6,6,100.0,0.4875,19.60091739130115,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26459/nsf26459.htm,2,"['Aaron Smith', 'Robert Daniels']",4,4,100.0,0.4875,13.174055106678821,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26460/nsf26460.htm,2,"['Teresa Clark', 'Marissa Flores']",3,3,100.0,0.4666666666666667,9.810827000278262,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26461/nsf26461.htm,2,"['Johnny Austin', 'Jonathan Young']",6,6,100.0,0.4458333333333333,19.585409103152394,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26462/nsf26462.htm,1,['Jonathan Young'],3,3,100.0,0.4,9.692736792142119,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26463/nsf26463.htm,2,"['Katherine Gordon', 'Mr. Ryan Yates']",5,5,100.0,0.475,16.247085179560717,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26464/nsf26464.htm,2,"['Jeffrey Butler', 'James Page DDS']",4,4,100.0,0.4875,13.049600580527356,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26465/nsf26465.htm,1,['Ariana Green'],3,3,100.0,0.4,9.704775479180066,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26466/nsf26466.htm,2,"['Martin Hebert', 'Heather Rodriguez']",8,8,100.0,0.425,25.94537021374721,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26467/nsf26467.htm,1,['Thomas Hicks'],2,2,100.0,0.4,6.583340617618863,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26468/nsf26468.htm,2,"['Luke Jones', 'Teresa Clark']",4,4,100.0,0.4875,12.939098046004403,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26469/nsf26469.htm,2,"['Erin Baker', 'Samuel Collins']",5,5,100.0,0.475,16.11587817743531,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26470/nsf26470.htm,2,"['Mary Carter', 'Caitlin Harrison']",8,8,100.0,0.425,26.224133091222587,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26471/nsf26471.htm,2,"['Martin Hebert', 'Robin Nelson']",4,4,100.0,0.4875,13.16522692285891,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26472/nsf26472.htm,2,"['Robert Smith', 'Todd Nolan']",8,8,100.0,0.425,26.162088595781597,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26473/nsf26473.htm,2,"['Andrew Meadows', 'Kimberly Campbell']",4,4,100.0,0.4875,13.04042867916497,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26474/nsf26474.htm,2,"['Troy Hernandez', 'Rachael Jenkins']",5,5,100.0,0.45,16.386444447054103,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26475/nsf26475.htm,2,"['Alexander Olson', 'Mark Holt']",5,5,100.0,0.475,16.401548472609235,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26476/nsf26476.htm,1,['Mary Ayala'],2,2,100.0,0.4,6.452110721982621,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26477/nsf26477.htm,2,"['Katherine Smith', 'Stephanie West']",5,5,100.0,0.45,16.345936282600274,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26478/nsf26478.htm,1,['Steven Armstrong'],3,3,100.0,0.4,9.704775479180066,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26479/nsf26479.htm,2,"['Sarah Miller', 'Dave Farmer']",6,6,100.0,0.4666666666666667,19.810698063478767,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26480/nsf26480.htm,2,"['Donna Mckenzie', 'Jason Schroeder']",7,7,100.0,0.44285714285714284,22.901792836596435,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26481/nsf26481.htm,2,"['Kevin King', 'David Farrell']",4,4,100.0,0.4875,12.980670386540444,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26482/nsf26482.htm,1,['Michael Decker'],2,2,100.0,0.4,6.639318354325923,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26483/nsf26483.htm,2,"['Cody Wilson', 'Sarah Miller']",4,4,100.0,0.4875,13.269919456157147,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26484/nsf26484.htm,2,"['Tony Abbott', 'Yvonne Bennett']",6,6,100.0,0.4458333333333333,19.76058250475711,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26485/nsf26485.htm,1,['Jocelyn West'],3,3,100.0,0.4,9.716195792036821,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26486/nsf26486.htm,2,"['Brenda Pierce', 'Rick Sharp']",5,5,100.0,0.475,16.23419131018547,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26487/nsf26487.htm,1,['Deborah Patton'],2,2,100.0,0.4,6.5733115021496635,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26488/nsf26488.htm,1,['Benjamin Camacho'],2,2,100.0,0.4,6.430891162107895,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26489/nsf26489.htm,2,"['Sharon Hernandez', 'Darren Hernandez']",6,6,100.0,0.4458333333333333,19.59663445115541,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26490/nsf26490.htm,1,['Scott Green'],3,3,100.0,0.4,9.908158297362418,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26491/nsf26491.htm,1,['Erin Baker'],3,3,100.0,0.4,9.641691503753488,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26492/nsf26492.htm,1,['Debbie Ewing'],3,3,100.0,0.4,9.796409235582379,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26493/nsf26493.htm,1,['Tammie Nguyen'],2,2,100.0,0.4,6.538220182338394,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26494/nsf26494.htm,2,"['Steve Bowen', 'Jared Martin']",5,5,100.0,0.45,16.115281462184456,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26495/nsf26495.htm,2,"['David Farrell', 'Casey Webb']",4,4,100.0,0.4875,13.031906349042849,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26496/nsf26496.htm,2,"['Kristen Middleton', 'Natalie Santiago']",7,7,100.0,0.44285714285714284,22.94794568106053,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26497/nsf26497.htm,3,"['Mr. Ryan Yates', 'John Brown', 'Hailey Ford']",8,8,100.0,0.496875,26.118124199622617,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26498/nsf26498.htm,2,"['Brandon King', 'William Lee']",5,5,100.0,0.45,16.532394372043417,exact_bruteforce_topN,25,25
+https://www.nsf.gov/pubs/2026/nsf26499/nsf26499.htm,3,"['Mary Carter', 'Margaret Ball', 'Tyler Mcgee']",8,8,100.0,0.48125,26.18147868771693,exact_bruteforce_topN,25,25

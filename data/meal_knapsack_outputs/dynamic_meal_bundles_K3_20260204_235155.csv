@@ -1,0 +1,501 @@
+user_id,meal_occasion,K_meals,team,team_size,req_categories,covered_categories,coverage_pct,goodness_ultra
+user_0_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_1_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_2_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_3_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_4_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_5_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_6_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_7_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_8_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_9_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_10_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_11_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_12_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_13_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_14_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_15_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_16_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_17_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_18_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_19_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_20_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_21_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_22_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_23_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_24_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_25_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_26_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_27_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_28_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_29_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_30_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_31_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_32_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_33_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_34_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_35_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_36_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_37_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_38_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_39_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_40_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_41_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_42_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_43_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_44_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_45_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_46_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_47_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_48_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_49_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_50_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_51_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_52_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_53_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_54_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_55_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_56_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_57_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_58_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_59_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_60_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_61_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_62_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_63_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_64_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_65_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_66_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_67_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_68_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_69_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_70_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_71_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_72_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_73_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_74_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_75_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_76_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_77_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_78_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_79_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_80_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_81_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_82_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_83_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_84_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_85_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_86_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_87_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_88_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_89_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_90_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_91_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_92_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_93_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_94_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_95_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_96_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_97_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_98_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_99_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_100_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_101_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_102_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_103_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_104_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_105_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_106_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_107_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_108_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_109_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_110_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_111_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_112_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_113_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_114_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_115_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_116_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_117_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_118_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_119_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_120_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_121_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_122_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_123_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_124_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_125_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_126_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_127_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_128_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_129_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_130_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_131_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_132_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_133_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_134_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_135_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_136_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_137_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_138_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_139_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_140_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_141_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_142_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_143_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_144_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_145_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_146_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_147_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_148_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_149_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_150_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_151_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_152_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_153_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_154_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_155_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_156_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_157_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_158_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_159_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_160_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_161_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_162_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_163_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_164_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_165_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_166_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_167_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_168_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_169_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_170_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_171_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_172_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_173_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_174_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_175_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_176_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_177_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_178_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_179_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_180_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_181_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_182_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_183_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_184_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_185_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_186_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_187_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_188_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_189_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_190_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_191_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_192_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_193_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_194_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_195_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_196_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_197_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_198_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_199_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_200_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_201_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_202_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_203_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_204_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_205_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_206_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_207_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_208_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_209_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_210_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_211_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_212_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_213_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_214_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_215_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_216_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_217_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_218_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_219_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_220_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_221_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_222_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_223_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_224_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_225_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_226_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_227_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_228_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_229_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_230_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_231_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_232_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_233_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_234_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_235_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_236_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_237_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_238_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_239_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_240_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_241_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_242_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_243_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_244_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_245_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_246_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_247_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_248_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_249_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_250_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_251_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_252_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_253_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_254_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_255_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_256_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_257_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_258_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_259_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_260_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_261_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_262_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_263_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_264_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_265_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_266_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_267_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_268_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_269_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_270_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_271_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_272_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_273_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_274_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_275_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_276_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_277_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_278_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_279_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_280_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_281_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_282_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_283_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_284_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_285_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_286_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_287_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_288_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_289_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_290_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_291_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_292_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_293_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_294_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_295_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_296_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_297_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_298_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_299_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_300_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_301_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_302_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_303_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_304_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_305_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_306_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_307_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_308_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_309_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_310_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_311_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_312_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_313_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_314_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_315_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_316_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_317_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_318_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_319_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_320_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_321_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_322_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_323_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_324_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_325_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_326_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_327_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_328_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_329_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_330_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_331_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_332_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_333_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_334_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_335_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_336_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_337_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_338_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_339_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_340_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_341_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_342_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_343_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_344_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_345_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_346_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_347_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_348_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_349_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_350_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_351_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_352_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_353_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_354_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_355_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_356_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_357_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_358_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_359_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_360_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_361_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_362_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_363_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_364_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_365_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_366_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_367_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_368_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_369_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_370_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_371_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_372_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_373_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_374_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_375_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_376_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_377_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_378_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_379_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_380_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_381_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_382_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_383_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_384_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_385_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_386_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_387_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_388_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_389_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_390_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_391_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_392_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_393_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_394_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_395_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_396_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_397_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_398_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_399_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_400_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_401_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_402_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_403_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_404_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_405_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_406_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_407_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_408_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_409_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_410_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_411_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_412_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_413_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_414_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_415_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_416_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_417_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_418_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_419_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_420_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_421_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_422_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_423_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_424_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_425_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_426_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_427_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_428_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_429_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_430_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_431_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_432_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_433_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_434_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_435_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_436_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_437_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_438_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_439_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_440_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_441_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_442_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_443_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_444_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_445_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
+user_446_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_447_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_448_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_449_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_450_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_451_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_452_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_453_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_454_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_455_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_456_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_457_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_458_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_459_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_460_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_461_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_462_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_463_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_464_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_465_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_466_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_467_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_468_lunch,lunch,3,"['Cranberry Juice Spicy (m320)', 'Kale Salad (m358)', 'Chicken Alfredo Premium (m591)']",3,3,3,100.0,0.575
+user_469_lunch,lunch,3,"['Spinach Salad Spicy (m118)', 'Strawberry Smoothie (m133)', 'Vegetable Soup Spicy (m804)']",3,3,3,100.0,0.575
+user_470_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_471_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_472_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_473_snacks,snacks,3,"['Tomato Juice (m51)', 'Chicken Skewers Spicy (m100)', 'Oat Milk Light (m109)']",3,2,2,100.0,0.575
+user_474_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_475_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_476_snacks,snacks,3,"['Peach Tea Deluxe (m4)', 'Banana Split Mild (m5)', 'Raspberry Lemonade Mild (m10)']",3,1,1,100.0,0.575
+user_477_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",3,5,5,100.0,0.55
+user_478_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_479_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_480_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_481_snacks,snacks,3,"['Banana Split Mild (m5)', 'Chocolate Cake Special (m8)', 'Gelato (m17)']",3,1,1,100.0,0.575
+user_482_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_483_snacks,snacks,3,"['Hummus with Pita Classic (m6)', 'Ramen Special (m9)', 'French Fries Mild (m13)']",3,1,1,100.0,0.575
+user_484_breakfast,breakfast,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_485_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_486_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Gelato Special (m389)', 'Hot Tea Spicy (m277)']",3,5,5,100.0,0.55
+user_487_breakfast,breakfast,3,"['Milk Spicy (m16)', 'Cereal Special (m78)', 'Chicken Skewers Spicy (m100)']",3,2,2,100.0,0.575
+user_488_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Pork Schnitzel Mild (m32)', 'Strawberry Smoothie Premium (m157)']",3,4,4,100.0,0.575
+user_489_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_490_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_491_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_492_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Chicken Wings Deluxe (m52)', 'Mocha Classic (m285)']",3,4,4,100.0,0.575
+user_493_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_494_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_495_lunch,lunch,3,"['Fish Tacos Spicy (m1561)', 'Couscous Classic (m1639)', 'Chicken Souvlaki (m27)']",3,3,3,100.0,0.575
+user_496_breakfast,breakfast,3,"['Cereal Special (m78)', 'Mango Juice Spicy (m233)', 'Breakfast Sandwich Special (m898)']",3,3,3,100.0,0.575
+user_497_lunch,lunch,3,"['Donut Special (m31)', 'Strawberry Smoothie Classic (m88)', 'Pork Chops Classic (m126)']",3,2,2,100.0,0.575
+user_498_snacks,snacks,3,"['Banana Split Mild (m5)', 'Gelato (m22)', 'Donut Special (m31)']",3,2,2,100.0,0.575
+user_499_dinner,dinner,3,"['Fish Tacos Spicy (m1561)', 'Green Beans (m29)', 'Donut Special (m31)']",3,4,4,100.0,0.575
