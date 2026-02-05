@@ -5,7 +5,7 @@ This repo contains a set of Jupyter notebooks that explore **set-coverage / knap
 1) **Research team formation for proposals** (researchers ↔ skills, proposals ↔ required skills)  
 2) **Meal bundle recommendation** (meals ↔ categories, user requirements ↔ required categories)
 
-The core idea across notebooks is **selecting a small set of items under a budget** to maximize **coverage** (and optionally reward **redundancy** via diminishing returns).
+The core idea across notebooks is **selecting a small set of items under a budget** to maximize **coverage** (and optionally reward **redundancy**).
 
 ---
 
