@@ -1,0 +1,501 @@
+user_id,meal_occasion,lead_meal,meal_bundle,goodness_score
+user_0_breakfast,breakfast,Creamed Spinach Spicy (m89),"['Creamed Spinach Spicy (m89)', 'Apple Pie Special (m1984)', 'Shrimp Cocktail Spicy (m1995)', 'Wild Rice Deluxe (m1994)']",0.1
+user_1_breakfast,breakfast,Stuffed Mushrooms Deluxe (m25),"['Stuffed Mushrooms Deluxe (m25)', 'Biscuits and Gravy Light (m1987)', 'Lentil Soup Premium (m2000)', 'Pasta Carbonara Special (m1996)']",0.39166666666666666
+user_2_breakfast,breakfast,Bacon Wrapped Dates Premium (m1097),"['Bacon Wrapped Dates Premium (m1097)', 'Éclair Premium (m1985)', 'Hash Browns Light (m1983)', 'English Muffin Special (m1981)']",0.35
+user_3_breakfast,breakfast,Waldorf Salad Classic (m771),"['Waldorf Salad Classic (m771)', 'Wild Rice Deluxe (m1994)', 'Goat Cheese Crostini Special (m1990)', 'Clam Chowder Classic (m1986)']",0.2875
+user_4_lunch,lunch,Stuffing Mild (m49),"['Stuffing Mild (m49)', 'Apple Pie Special (m1984)', 'Vegetable Soup Classic (m1988)', 'Wild Rice Deluxe (m1994)']",0.26666666666666666
+user_5_lunch,lunch,Split Pea Soup Deluxe (m1665),"['Split Pea Soup Deluxe (m1665)', 'Roasted Vegetables Mild (m1989)', 'Biscuits and Gravy Light (m1987)', 'Fruit Salad Spicy (m1982)']",0.35
+user_6_snacks,snacks,Egg Salad (m297),"['Egg Salad (m297)', 'Hash Browns Light (m1983)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)']",0.2875
+user_7_dinner,dinner,Chicken Parmesan Special (m1196),"['Chicken Parmesan Special (m1196)', 'French Onion Soup Deluxe (m1993)', 'Split Pea Soup Mild (m1992)', 'Éclair Premium (m1985)']",0.225
+user_8_dinner,dinner,Mashed Potatoes Classic (m896),"['Mashed Potatoes Classic (m896)', 'Bruschetta Special (m1997)', 'Biscuits and Gravy Light (m1987)', 'Clam Chowder Classic (m1986)']",0.25
+user_9_breakfast,breakfast,Kale Salad (m358),"['Kale Salad (m358)', 'Roasted Vegetables Mild (m1989)', 'Bruschetta Special (m1997)', 'Pasta Carbonara Special (m1996)']",0.35
+user_10_lunch,lunch,Samosas Spicy (m1775),"['Samosas Spicy (m1775)', 'French Onion Soup Deluxe (m1993)', 'Pasta Carbonara Special (m1996)', 'Roasted Vegetables Mild (m1989)']",0.5375
+user_11_dinner,dinner,Wild Rice Special (m857),"['Wild Rice Special (m857)', 'Brussels Sprouts Special (m1998)', 'Éclair Premium (m1985)', 'Hash Browns Light (m1983)']",0.225
+user_12_lunch,lunch,Pineapple Juice (m1486),"['Pineapple Juice (m1486)', 'Brussels Sprouts Special (m1998)', 'Vegetable Soup Classic (m1988)', 'Biscuits and Gravy Light (m1987)']",0.38125
+user_13_dinner,dinner,Quinoa Salad Classic (m1917),"['Quinoa Salad Classic (m1917)', 'Bruschetta Special (m1997)', 'Goat Cheese Crostini Special (m1990)', 'French Onion Soup Deluxe (m1993)']",0.2
+user_14_dinner,dinner,Lamb Chops (m623),"['Lamb Chops (m623)', 'Wild Rice Deluxe (m1994)', 'Pasta Carbonara Special (m1996)', 'Hash Browns Light (m1983)']",0.35
+user_15_breakfast,breakfast,Clam Chowder Mild (m1818),"['Clam Chowder Mild (m1818)', 'Roasted Vegetables Mild (m1989)', 'Split Pea Soup Mild (m1992)', 'Wild Rice Deluxe (m1994)']",0.39166666666666666
+user_16_dinner,dinner,Oysters Deluxe (m733),"['Oysters Deluxe (m733)', 'Éclair Premium (m1985)', 'Fruit Salad Spicy (m1982)', 'French Onion Soup Deluxe (m1993)']",0.35
+user_17_breakfast,breakfast,Chocolate Milk Spicy (m121),"['Chocolate Milk Spicy (m121)', 'Vegetable Soup Classic (m1988)', 'French Onion Soup Deluxe (m1993)', 'Split Pea Soup Mild (m1992)']",0.2875
+user_18_snacks,snacks,Chef Salad (m1171),"['Chef Salad (m1171)', 'Mediterranean Salad Premium (m1991)', 'Goat Cheese Crostini Special (m1990)', 'Bruschetta Special (m1997)']",0.475
+user_19_lunch,lunch,Crepes Premium (m26),"['Crepes Premium (m26)', 'Apple Pie Special (m1984)', 'Goat Cheese Crostini Special (m1990)', 'English Muffin Special (m1981)']",0.35
+user_20_snacks,snacks,Cappuccino Light (m337),"['Cappuccino Light (m337)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Classic (m1988)', 'Hash Browns Light (m1983)']",0.475
+user_21_dinner,dinner,Lamb Chops (m623),"['Lamb Chops (m623)', 'Goat Cheese Crostini Special (m1990)', 'Vegetable Soup Classic (m1988)', 'Mediterranean Salad Premium (m1991)']",0.2875
+user_22_dinner,dinner,Mediterranean Salad Premium (m1991),"['Mediterranean Salad Premium (m1991)', 'Apple Pie Special (m1984)', 'Fruit Salad Spicy (m1982)', 'Red Velvet Cake (m1999)']",0.19375
+user_23_snacks,snacks,Red Velvet Cake Spicy (m1320),"['Red Velvet Cake Spicy (m1320)', 'Wild Rice Deluxe (m1994)', 'English Muffin Special (m1981)', 'Éclair Premium (m1985)']",0.6
+user_24_dinner,dinner,Muffin (m498),"['Muffin (m498)', 'Bruschetta Special (m1997)', 'Éclair Premium (m1985)', 'Clam Chowder Classic (m1986)']",0.225
+user_25_snacks,snacks,Cheese Platter Mild (m1169),"['Cheese Platter Mild (m1169)', 'Red Velvet Cake (m1999)', 'Mediterranean Salad Premium (m1991)', 'Shrimp Cocktail Spicy (m1995)']",0.1
+user_26_snacks,snacks,Chocolate Mousse Special (m1714),"['Chocolate Mousse Special (m1714)', 'Roasted Vegetables Mild (m1989)', 'Brussels Sprouts Special (m1998)', 'Mediterranean Salad Premium (m1991)']",0.2875
+user_27_snacks,snacks,Falafel Wrap Spicy (m219),"['Falafel Wrap Spicy (m219)', 'Mediterranean Salad Premium (m1991)', 'Bruschetta Special (m1997)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_28_dinner,dinner,Ramen Special (m594),"['Ramen Special (m594)', 'English Muffin Special (m1981)', 'Goat Cheese Crostini Special (m1990)', 'Brussels Sprouts Special (m1998)']",0.4125
+user_29_lunch,lunch,Raspberry Lemonade (m445),"['Raspberry Lemonade (m445)', 'Biscuits and Gravy Light (m1987)', 'Red Velvet Cake (m1999)', 'Apple Pie Special (m1984)']",0.2875
+user_30_dinner,dinner,Coleslaw Spicy (m967),"['Coleslaw Spicy (m967)', 'Apple Pie Special (m1984)', 'Wild Rice Deluxe (m1994)', 'Goat Cheese Crostini Special (m1990)']",0.31875
+user_31_snacks,snacks,Bagel Mild (m375),"['Bagel Mild (m375)', 'Brussels Sprouts Special (m1998)', 'Clam Chowder Classic (m1986)', 'Red Velvet Cake (m1999)']",0.1
+user_32_snacks,snacks,Chicken Quesadilla Premium (m951),"['Chicken Quesadilla Premium (m951)', 'Éclair Premium (m1985)', 'Roasted Vegetables Mild (m1989)', 'Pasta Carbonara Special (m1996)']",0.6
+user_33_breakfast,breakfast,Chicken Parmesan Spicy (m1108),"['Chicken Parmesan Spicy (m1108)', 'Pasta Carbonara Special (m1996)', 'Wild Rice Deluxe (m1994)', 'Vegetable Soup Classic (m1988)']",0.35
+user_34_breakfast,breakfast,Americano Mild (m318),"['Americano Mild (m318)', 'Fruit Salad Spicy (m1982)', 'Éclair Premium (m1985)', 'Vegetable Soup Classic (m1988)']",0.2875
+user_35_breakfast,breakfast,Custard Mild (m1604),"['Custard Mild (m1604)', 'Lentil Soup Premium (m2000)', 'Bruschetta Special (m1997)', 'Vegetable Soup Classic (m1988)']",0.225
+user_36_breakfast,breakfast,Pepsi Special (m776),"['Pepsi Special (m776)', 'Hash Browns Light (m1983)', 'Fruit Salad Spicy (m1982)', 'Bruschetta Special (m1997)']",0.475
+user_37_breakfast,breakfast,Sushi Roll Premium (m1035),"['Sushi Roll Premium (m1035)', 'Pasta Carbonara Special (m1996)', 'Split Pea Soup Mild (m1992)', 'Bruschetta Special (m1997)']",0.35
+user_38_breakfast,breakfast,Kale Salad Deluxe (m1303),"['Kale Salad Deluxe (m1303)', 'Pasta Carbonara Special (m1996)', 'French Onion Soup Deluxe (m1993)', 'Roasted Vegetables Mild (m1989)']",0.2875
+user_39_dinner,dinner,Greek Salad Special (m1000),"['Greek Salad Special (m1000)', 'Brussels Sprouts Special (m1998)', 'French Onion Soup Deluxe (m1993)', 'Goat Cheese Crostini Special (m1990)']",0.25
+user_40_snacks,snacks,Scone (m622),"['Scone (m622)', 'Éclair Premium (m1985)', 'Mediterranean Salad Premium (m1991)', 'Apple Pie Special (m1984)']",0.35
+user_41_dinner,dinner,Potato Salad Mild (m1958),"['Potato Salad Mild (m1958)', 'Fruit Salad Spicy (m1982)', 'French Onion Soup Deluxe (m1993)', 'Goat Cheese Crostini Special (m1990)']",0.19375
+user_42_snacks,snacks,Bacon Premium (m240),"['Bacon Premium (m240)', 'Wild Rice Deluxe (m1994)', 'Red Velvet Cake (m1999)', 'Fruit Salad Spicy (m1982)']",0.475
+user_43_breakfast,breakfast,Chicken Quesadilla Mild (m720),"['Chicken Quesadilla Mild (m720)', 'Split Pea Soup Mild (m1992)', 'French Onion Soup Deluxe (m1993)', 'Shrimp Cocktail Spicy (m1995)']",0.1
+user_44_snacks,snacks,Potato Salad Mild (m1958),"['Potato Salad Mild (m1958)', 'Red Velvet Cake (m1999)', 'Goat Cheese Crostini Special (m1990)', 'Pasta Carbonara Special (m1996)']",0.2875
+user_45_snacks,snacks,Coleslaw Spicy (m336),"['Coleslaw Spicy (m336)', 'Éclair Premium (m1985)', 'Shrimp Cocktail Spicy (m1995)', 'Vegetable Soup Classic (m1988)']",0.475
+user_46_snacks,snacks,Butternut Squash Soup (m530),"['Butternut Squash Soup (m530)', 'Goat Cheese Crostini Special (m1990)', 'English Muffin Special (m1981)', 'Vegetable Soup Classic (m1988)']",0.475
+user_47_lunch,lunch,Lobster Bisque Mild (m1558),"['Lobster Bisque Mild (m1558)', 'Bruschetta Special (m1997)', 'Lentil Soup Premium (m2000)', 'Roasted Vegetables Mild (m1989)']",0.35
+user_48_snacks,snacks,Hummus with Pita Light (m1219),"['Hummus with Pita Light (m1219)', 'Éclair Premium (m1985)', 'Apple Pie Special (m1984)', 'Split Pea Soup Mild (m1992)']",0.475
+user_49_snacks,snacks,Lemon Tart Classic (m195),"['Lemon Tart Classic (m195)', 'Fruit Salad Spicy (m1982)', 'Pasta Carbonara Special (m1996)', 'Shrimp Cocktail Spicy (m1995)']",0.2875
+user_50_lunch,lunch,Cranberry Juice Mild (m1125),"['Cranberry Juice Mild (m1125)', 'Biscuits and Gravy Light (m1987)', 'Brussels Sprouts Special (m1998)', 'Red Velvet Cake (m1999)']",0.225
+user_51_dinner,dinner,Coleslaw Deluxe (m216),"['Coleslaw Deluxe (m216)', 'Fruit Salad Spicy (m1982)', 'Apple Pie Special (m1984)', 'Split Pea Soup Mild (m1992)']",0.4125
+user_52_lunch,lunch,Grilled Chicken Special (m1556),"['Grilled Chicken Special (m1556)', 'Bruschetta Special (m1997)', 'Red Velvet Cake (m1999)', 'Brussels Sprouts Special (m1998)']",0.2875
+user_53_snacks,snacks,Ramen Light (m1863),"['Ramen Light (m1863)', 'Shrimp Cocktail Spicy (m1995)', 'Hash Browns Light (m1983)', 'English Muffin Special (m1981)']",0.1
+user_54_snacks,snacks,Pork Ribs Mild (m1134),"['Pork Ribs Mild (m1134)', 'English Muffin Special (m1981)', 'Apple Pie Special (m1984)', 'Mediterranean Salad Premium (m1991)']",0.1
+user_55_dinner,dinner,Tuna Salad Spicy (m1774),"['Tuna Salad Spicy (m1774)', 'Fruit Salad Spicy (m1982)', 'Split Pea Soup Mild (m1992)', 'Bruschetta Special (m1997)']",0.1
+user_56_snacks,snacks,Stuffing Premium (m70),"['Stuffing Premium (m70)', 'Clam Chowder Classic (m1986)', 'Shrimp Cocktail Spicy (m1995)', 'English Muffin Special (m1981)']",0.1
+user_57_dinner,dinner,Mediterranean Salad (m313),"['Mediterranean Salad (m313)', 'Red Velvet Cake (m1999)', 'Brussels Sprouts Special (m1998)', 'Mediterranean Salad Premium (m1991)']",0.35
+user_58_lunch,lunch,Mediterranean Salad Light (m167),"['Mediterranean Salad Light (m167)', 'Shrimp Cocktail Spicy (m1995)', 'Lentil Soup Premium (m2000)', 'Biscuits and Gravy Light (m1987)']",0.19375
+user_59_dinner,dinner,Toast Deluxe (m1630),"['Toast Deluxe (m1630)', 'Biscuits and Gravy Light (m1987)', 'Mediterranean Salad Premium (m1991)', 'Bruschetta Special (m1997)']",0.19375
+user_60_snacks,snacks,Panna Cotta Special (m1549),"['Panna Cotta Special (m1549)', 'Red Velvet Cake (m1999)', 'Hash Browns Light (m1983)', 'Bruschetta Special (m1997)']",0.2875
+user_61_snacks,snacks,Chocolate Mousse Light (m1268),"['Chocolate Mousse Light (m1268)', 'Fruit Salad Spicy (m1982)', 'French Onion Soup Deluxe (m1993)', 'Pasta Carbonara Special (m1996)']",0.2875
+user_62_breakfast,breakfast,Chocolate Mousse (m481),"['Chocolate Mousse (m481)', 'Wild Rice Deluxe (m1994)', 'Bruschetta Special (m1997)', 'Pasta Carbonara Special (m1996)']",0.35
+user_63_breakfast,breakfast,Waldorf Salad Light (m1347),"['Waldorf Salad Light (m1347)', 'Red Velvet Cake (m1999)', 'Pasta Carbonara Special (m1996)', 'Lentil Soup Premium (m2000)']",0.225
+user_64_lunch,lunch,Vegetable Curry Mild (m578),"['Vegetable Curry Mild (m578)', 'Shrimp Cocktail Spicy (m1995)', 'Pasta Carbonara Special (m1996)', 'Bruschetta Special (m1997)']",0.225
+user_65_breakfast,breakfast,Burger Premium (m958),"['Burger Premium (m958)', 'Apple Pie Special (m1984)', 'Biscuits and Gravy Light (m1987)', 'Vegetable Soup Classic (m1988)']",0.2875
+user_66_snacks,snacks,Pho (m1595),"['Pho (m1595)', 'Apple Pie Special (m1984)', 'Roasted Vegetables Mild (m1989)', 'Wild Rice Deluxe (m1994)']",0.2875
+user_67_snacks,snacks,Pasta Salad Spicy (m1449),"['Pasta Salad Spicy (m1449)', 'Fruit Salad Spicy (m1982)', 'English Muffin Special (m1981)', 'Pasta Carbonara Special (m1996)']",0.1
+user_68_dinner,dinner,Key Lime Pie Deluxe (m1916),"['Key Lime Pie Deluxe (m1916)', 'Wild Rice Deluxe (m1994)', 'Roasted Vegetables Mild (m1989)', 'Mediterranean Salad Premium (m1991)']",0.50625
+user_69_dinner,dinner,Vegetable Curry Deluxe (m357),"['Vegetable Curry Deluxe (m357)', 'Red Velvet Cake (m1999)', 'Brussels Sprouts Special (m1998)', 'English Muffin Special (m1981)']",0.42500000000000004
+user_70_lunch,lunch,Rice Pudding Mild (m76),"['Rice Pudding Mild (m76)', 'Split Pea Soup Mild (m1992)', 'Biscuits and Gravy Light (m1987)', 'Brussels Sprouts Special (m1998)']",0.1
+user_71_snacks,snacks,Pumpkin Soup Premium (m72),"['Pumpkin Soup Premium (m72)', 'Wild Rice Deluxe (m1994)', 'Red Velvet Cake (m1999)', 'Fruit Salad Spicy (m1982)']",0.1
+user_72_breakfast,breakfast,Chicken Tortilla Soup Classic (m494),"['Chicken Tortilla Soup Classic (m494)', 'English Muffin Special (m1981)', 'Biscuits and Gravy Light (m1987)', 'Split Pea Soup Mild (m1992)']",0.35
+user_73_dinner,dinner,Grape Juice Mild (m1199),"['Grape Juice Mild (m1199)', 'Lentil Soup Premium (m2000)', 'Éclair Premium (m1985)', 'Wild Rice Deluxe (m1994)']",0.475
+user_74_snacks,snacks,Crème Brûlée Mild (m1530),"['Crème Brûlée Mild (m1530)', 'Mediterranean Salad Premium (m1991)', 'Apple Pie Special (m1984)', 'Vegetable Soup Classic (m1988)']",0.475
+user_75_lunch,lunch,Vegetable Soup Deluxe (m1634),"['Vegetable Soup Deluxe (m1634)', 'Shrimp Cocktail Spicy (m1995)', 'Goat Cheese Crostini Special (m1990)', 'Roasted Vegetables Mild (m1989)']",0.38125
+user_76_breakfast,breakfast,Spinach Artichoke Dip Mild (m1772),"['Spinach Artichoke Dip Mild (m1772)', 'Vegetable Soup Classic (m1988)', 'Brussels Sprouts Special (m1998)', 'French Onion Soup Deluxe (m1993)']",0.2875
+user_77_snacks,snacks,Cobbler Classic (m936),"['Cobbler Classic (m936)', 'Split Pea Soup Mild (m1992)', 'Mediterranean Salad Premium (m1991)', 'Goat Cheese Crostini Special (m1990)']",0.475
+user_78_dinner,dinner,Éclair Classic (m698),"['Éclair Classic (m698)', 'Brussels Sprouts Special (m1998)', 'Apple Pie Special (m1984)', 'Lentil Soup Premium (m2000)']",0.31875
+user_79_snacks,snacks,Split Pea Soup Deluxe (m973),"['Split Pea Soup Deluxe (m973)', 'Fruit Salad Spicy (m1982)', 'Vegetable Soup Classic (m1988)', 'Mediterranean Salad Premium (m1991)']",0.6
+user_80_snacks,snacks,Cobbler Classic (m107),"['Cobbler Classic (m107)', 'Apple Pie Special (m1984)', 'Wild Rice Deluxe (m1994)', 'Biscuits and Gravy Light (m1987)']",0.475
+user_81_breakfast,breakfast,Potato Leek Soup Special (m639),"['Potato Leek Soup Special (m639)', 'Éclair Premium (m1985)', 'Split Pea Soup Mild (m1992)', 'Biscuits and Gravy Light (m1987)']",0.2875
+user_82_lunch,lunch,Miso Soup Spicy (m110),"['Miso Soup Spicy (m110)', 'Fruit Salad Spicy (m1982)', 'Clam Chowder Classic (m1986)', 'Biscuits and Gravy Light (m1987)']",0.1
+user_83_lunch,lunch,Mushroom Soup Classic (m74),"['Mushroom Soup Classic (m74)', 'Wild Rice Deluxe (m1994)', 'Pasta Carbonara Special (m1996)', 'Éclair Premium (m1985)']",0.43333333333333335
+user_84_dinner,dinner,Coleslaw (m1044),"['Coleslaw (m1044)', 'Apple Pie Special (m1984)', 'French Onion Soup Deluxe (m1993)', 'Éclair Premium (m1985)']",0.275
+user_85_dinner,dinner,Mashed Potatoes Classic (m1313),"['Mashed Potatoes Classic (m1313)', 'Wild Rice Deluxe (m1994)', 'Shrimp Cocktail Spicy (m1995)', 'Biscuits and Gravy Light (m1987)']",0.43333333333333335
+user_86_dinner,dinner,Rice Noodles Mild (m834),"['Rice Noodles Mild (m834)', 'Clam Chowder Classic (m1986)', 'Fruit Salad Spicy (m1982)', 'Lentil Soup Premium (m2000)']",0.225
+user_87_breakfast,breakfast,Tuna Salad Special (m1308),"['Tuna Salad Special (m1308)', 'Goat Cheese Crostini Special (m1990)', 'Red Velvet Cake (m1999)', 'Fruit Salad Spicy (m1982)']",0.1
+user_88_dinner,dinner,Fruit Smoothie Bowl Light (m838),"['Fruit Smoothie Bowl Light (m838)', 'French Onion Soup Deluxe (m1993)', 'Pasta Carbonara Special (m1996)', 'Éclair Premium (m1985)']",0.35
+user_89_breakfast,breakfast,Roasted Carrots Special (m854),"['Roasted Carrots Special (m854)', 'Pasta Carbonara Special (m1996)', 'Clam Chowder Classic (m1986)', 'Apple Pie Special (m1984)']",0.2875
+user_90_dinner,dinner,Macarons Premium (m1845),"['Macarons Premium (m1845)', 'Goat Cheese Crostini Special (m1990)', 'Roasted Vegetables Mild (m1989)', 'Apple Pie Special (m1984)']",0.35
+user_91_lunch,lunch,Key Lime Pie Deluxe (m1916),"['Key Lime Pie Deluxe (m1916)', 'Pasta Carbonara Special (m1996)', 'English Muffin Special (m1981)', 'Wild Rice Deluxe (m1994)']",0.35
+user_92_breakfast,breakfast,Scrambled Eggs Light (m650),"['Scrambled Eggs Light (m650)', 'Lentil Soup Premium (m2000)', 'Éclair Premium (m1985)', 'English Muffin Special (m1981)']",0.26666666666666666
+user_93_lunch,lunch,Pasta Salad Mild (m1185),"['Pasta Salad Mild (m1185)', 'Goat Cheese Crostini Special (m1990)', 'Clam Chowder Classic (m1986)', 'Mediterranean Salad Premium (m1991)']",0.26666666666666666
+user_94_snacks,snacks,Kale Salad (m358),"['Kale Salad (m358)', 'Pasta Carbonara Special (m1996)', 'Mediterranean Salad Premium (m1991)', 'Bruschetta Special (m1997)']",0.475
+user_95_lunch,lunch,Cookies Deluxe (m1759),"['Cookies Deluxe (m1759)', 'Brussels Sprouts Special (m1998)', 'Mediterranean Salad Premium (m1991)', 'Roasted Vegetables Mild (m1989)']",0.43333333333333335
+user_96_breakfast,breakfast,Roasted Vegetables Light (m229),"['Roasted Vegetables Light (m229)', 'Goat Cheese Crostini Special (m1990)', 'Pasta Carbonara Special (m1996)', 'Mediterranean Salad Premium (m1991)']",0.2875
+user_97_lunch,lunch,Lasagna Special (m1859),"['Lasagna Special (m1859)', 'Pasta Carbonara Special (m1996)', 'Brussels Sprouts Special (m1998)', 'Biscuits and Gravy Light (m1987)']",0.26666666666666666
+user_98_snacks,snacks,Panna Cotta Premium (m492),"['Panna Cotta Premium (m492)', 'Split Pea Soup Mild (m1992)', 'Mediterranean Salad Premium (m1991)', 'Wild Rice Deluxe (m1994)']",0.1
+user_99_snacks,snacks,Pancakes Light (m1885),"['Pancakes Light (m1885)', 'Clam Chowder Classic (m1986)', 'Shrimp Cocktail Spicy (m1995)', 'Wild Rice Deluxe (m1994)']",0.2875
+user_100_snacks,snacks,Stuffed Mushrooms Classic (m154),"['Stuffed Mushrooms Classic (m154)', 'Roasted Vegetables Mild (m1989)', 'Goat Cheese Crostini Special (m1990)', 'Clam Chowder Classic (m1986)']",0.6
+user_101_dinner,dinner,Crab Cakes Premium (m1324),"['Crab Cakes Premium (m1324)', 'Shrimp Cocktail Spicy (m1995)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)']",0.19375
+user_102_lunch,lunch,Clam Chowder Classic (m537),"['Clam Chowder Classic (m537)', 'Biscuits and Gravy Light (m1987)', 'Lentil Soup Premium (m2000)', 'Mediterranean Salad Premium (m1991)']",0.225
+user_103_lunch,lunch,Soy Milk Mild (m963),"['Soy Milk Mild (m963)', 'Wild Rice Deluxe (m1994)', 'Vegetable Soup Classic (m1988)', 'Clam Chowder Classic (m1986)']",0.5375
+user_104_lunch,lunch,Steak Fajitas Light (m528),"['Steak Fajitas Light (m528)', 'Hash Browns Light (m1983)', 'Goat Cheese Crostini Special (m1990)', 'Bruschetta Special (m1997)']",0.2875
+user_105_lunch,lunch,Mediterranean Salad Premium (m1175),"['Mediterranean Salad Premium (m1175)', 'Éclair Premium (m1985)', 'Vegetable Soup Classic (m1988)', 'Split Pea Soup Mild (m1992)']",0.39166666666666666
+user_106_dinner,dinner,Salmon Teriyaki Special (m60),"['Salmon Teriyaki Special (m60)', 'Fruit Salad Spicy (m1982)', 'Hash Browns Light (m1983)', 'Clam Chowder Classic (m1986)']",0.35
+user_107_snacks,snacks,Quinoa Salad Spicy (m943),"['Quinoa Salad Spicy (m943)', 'Hash Browns Light (m1983)', 'Wild Rice Deluxe (m1994)', 'Shrimp Cocktail Spicy (m1995)']",0.475
+user_108_breakfast,breakfast,Potato Salad Mild (m1958),"['Potato Salad Mild (m1958)', 'French Onion Soup Deluxe (m1993)', 'Shrimp Cocktail Spicy (m1995)', 'Hash Browns Light (m1983)']",0.2875
+user_109_lunch,lunch,Carrot Ginger Soup Spicy (m1934),"['Carrot Ginger Soup Spicy (m1934)', 'Vegetable Soup Classic (m1988)', 'English Muffin Special (m1981)', 'Mediterranean Salad Premium (m1991)']",0.39166666666666666
+user_110_breakfast,breakfast,Kale Salad (m85),"['Kale Salad (m85)', 'English Muffin Special (m1981)', 'Goat Cheese Crostini Special (m1990)', 'Shrimp Cocktail Spicy (m1995)']",0.35
+user_111_lunch,lunch,Calamari Classic (m846),"['Calamari Classic (m846)', 'Bruschetta Special (m1997)', 'Shrimp Cocktail Spicy (m1995)', 'Mediterranean Salad Premium (m1991)']",0.26666666666666666
+user_112_dinner,dinner,Greek Salad Mild (m1497),"['Greek Salad Mild (m1497)', 'Split Pea Soup Mild (m1992)', 'French Onion Soup Deluxe (m1993)', 'Clam Chowder Classic (m1986)']",0.17500000000000002
+user_113_snacks,snacks,Pizza Margherita Deluxe (m1157),"['Pizza Margherita Deluxe (m1157)', 'Vegetable Soup Classic (m1988)', 'Lentil Soup Premium (m2000)', 'Brussels Sprouts Special (m1998)']",0.1
+user_114_dinner,dinner,Beef Burrito Special (m853),"['Beef Burrito Special (m853)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Classic (m1988)', 'Split Pea Soup Mild (m1992)']",0.42500000000000004
+user_115_dinner,dinner,Lemonade Premium (m115),"['Lemonade Premium (m115)', 'Brussels Sprouts Special (m1998)', 'Split Pea Soup Mild (m1992)', 'Red Velvet Cake (m1999)']",0.38125
+user_116_dinner,dinner,Mocha Classic (m285),"['Mocha Classic (m285)', 'Brussels Sprouts Special (m1998)', 'Wild Rice Deluxe (m1994)', 'Roasted Vegetables Mild (m1989)']",0.475
+user_117_breakfast,breakfast,Chicken Curry Classic (m1093),"['Chicken Curry Classic (m1093)', 'Shrimp Cocktail Spicy (m1995)', 'Bruschetta Special (m1997)', 'Mediterranean Salad Premium (m1991)']",0.2875
+user_118_breakfast,breakfast,Custard Spicy (m1617),"['Custard Spicy (m1617)', 'Biscuits and Gravy Light (m1987)', 'Vegetable Soup Classic (m1988)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_119_dinner,dinner,French Fries (m223),"['French Fries (m223)', 'Pasta Carbonara Special (m1996)', 'French Onion Soup Deluxe (m1993)', 'Lentil Soup Premium (m2000)']",0.39166666666666666
+user_120_lunch,lunch,Danish Light (m1485),"['Danish Light (m1485)', 'Vegetable Soup Classic (m1988)', 'English Muffin Special (m1981)', 'Wild Rice Deluxe (m1994)']",0.225
+user_121_lunch,lunch,Croissant Special (m1814),"['Croissant Special (m1814)', 'Vegetable Soup Classic (m1988)', 'Éclair Premium (m1985)', 'Red Velvet Cake (m1999)']",0.225
+user_122_dinner,dinner,Cinnamon Roll Light (m799),"['Cinnamon Roll Light (m799)', 'English Muffin Special (m1981)', 'Lentil Soup Premium (m2000)', 'Shrimp Cocktail Spicy (m1995)']",0.35
+user_123_snacks,snacks,Fruit Tart Premium (m1551),"['Fruit Tart Premium (m1551)', 'French Onion Soup Deluxe (m1993)', 'Bruschetta Special (m1997)', 'Brussels Sprouts Special (m1998)']",0.2875
+user_124_lunch,lunch,Pineapple Juice Spicy (m301),"['Pineapple Juice Spicy (m301)', 'Apple Pie Special (m1984)', 'Fruit Salad Spicy (m1982)', 'Brussels Sprouts Special (m1998)']",0.35
+user_125_snacks,snacks,Samosas Premium (m935),"['Samosas Premium (m935)', 'Wild Rice Deluxe (m1994)', 'Clam Chowder Classic (m1986)', 'Split Pea Soup Mild (m1992)']",0.1
+user_126_breakfast,breakfast,Sorbet Premium (m368),"['Sorbet Premium (m368)', 'English Muffin Special (m1981)', 'Split Pea Soup Mild (m1992)', 'Mediterranean Salad Premium (m1991)']",0.2875
+user_127_breakfast,breakfast,Jalapeño Poppers Deluxe (m1830),"['Jalapeño Poppers Deluxe (m1830)', 'Apple Pie Special (m1984)', 'Clam Chowder Classic (m1986)', 'Mediterranean Salad Premium (m1991)']",0.1
+user_128_dinner,dinner,Chicken Salad Classic (m1656),"['Chicken Salad Classic (m1656)', 'Mediterranean Salad Premium (m1991)', 'Éclair Premium (m1985)', 'Clam Chowder Classic (m1986)']",0.25
+user_129_snacks,snacks,Broccoli Cheddar Soup Special (m975),"['Broccoli Cheddar Soup Special (m975)', 'French Onion Soup Deluxe (m1993)', 'Hash Browns Light (m1983)', 'Vegetable Soup Classic (m1988)']",0.2875
+user_130_dinner,dinner,Potato Leek Soup Light (m24),"['Potato Leek Soup Light (m24)', 'Split Pea Soup Mild (m1992)', 'Wild Rice Deluxe (m1994)', 'Vegetable Soup Classic (m1988)']",0.44375
+user_131_breakfast,breakfast,French Fries Mild (m761),"['French Fries Mild (m761)', 'Split Pea Soup Mild (m1992)', 'Hash Browns Light (m1983)', 'Shrimp Cocktail Spicy (m1995)']",0.39166666666666666
+user_132_dinner,dinner,Grilled Salmon Deluxe (m517),"['Grilled Salmon Deluxe (m517)', 'Biscuits and Gravy Light (m1987)', 'French Onion Soup Deluxe (m1993)', 'Hash Browns Light (m1983)']",0.25
+user_133_dinner,dinner,Lamb Kebab Premium (m659),"['Lamb Kebab Premium (m659)', 'Red Velvet Cake (m1999)', 'Fruit Salad Spicy (m1982)', 'Bruschetta Special (m1997)']",0.2875
+user_134_lunch,lunch,Muffin Mild (m61),"['Muffin Mild (m61)', 'English Muffin Special (m1981)', 'Fruit Salad Spicy (m1982)', 'Mediterranean Salad Premium (m1991)']",0.38125
+user_135_snacks,snacks,Ramen Light (m1863),"['Ramen Light (m1863)', 'Vegetable Soup Classic (m1988)', 'Fruit Salad Spicy (m1982)', 'Roasted Vegetables Mild (m1989)']",0.475
+user_136_lunch,lunch,Potato Leek Soup Premium (m1545),"['Potato Leek Soup Premium (m1545)', 'Red Velvet Cake (m1999)', 'Roasted Vegetables Mild (m1989)', 'Hash Browns Light (m1983)']",0.35
+user_137_breakfast,breakfast,Red Velvet Cake (m1999),"['Red Velvet Cake (m1999)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)', 'Shrimp Cocktail Spicy (m1995)']",0.225
+user_138_breakfast,breakfast,Butternut Squash Soup Light (m551),"['Butternut Squash Soup Light (m551)', 'English Muffin Special (m1981)', 'French Onion Soup Deluxe (m1993)', 'Lentil Soup Premium (m2000)']",0.2875
+user_139_breakfast,breakfast,Chai Latte Deluxe (m96),"['Chai Latte Deluxe (m96)', 'Éclair Premium (m1985)', 'Lentil Soup Premium (m2000)', 'Bruschetta Special (m1997)']",0.225
+user_140_snacks,snacks,Nicoise Salad Spicy (m321),"['Nicoise Salad Spicy (m321)', 'Brussels Sprouts Special (m1998)', 'Red Velvet Cake (m1999)', 'Shrimp Cocktail Spicy (m1995)']",0.1
+user_141_dinner,dinner,Veggie Pizza Spicy (m1257),"['Veggie Pizza Spicy (m1257)', 'Fruit Salad Spicy (m1982)', 'English Muffin Special (m1981)', 'Wild Rice Deluxe (m1994)']",0.31875
+user_142_lunch,lunch,Chicken Parmesan Light (m1638),"['Chicken Parmesan Light (m1638)', 'Goat Cheese Crostini Special (m1990)', 'Roasted Vegetables Mild (m1989)', 'French Onion Soup Deluxe (m1993)']",0.475
+user_143_breakfast,breakfast,Key Lime Pie Premium (m1540),"['Key Lime Pie Premium (m1540)', 'Wild Rice Deluxe (m1994)', 'Goat Cheese Crostini Special (m1990)', 'Lentil Soup Premium (m2000)']",0.225
+user_144_snacks,snacks,Fruit Punch (m732),"['Fruit Punch (m732)', 'Vegetable Soup Classic (m1988)', 'Brussels Sprouts Special (m1998)', 'Pasta Carbonara Special (m1996)']",0.1
+user_145_breakfast,breakfast,Hot Chocolate Premium (m1671),"['Hot Chocolate Premium (m1671)', 'Apple Pie Special (m1984)', 'French Onion Soup Deluxe (m1993)', 'Shrimp Cocktail Spicy (m1995)']",0.2875
+user_146_snacks,snacks,Pudding Mild (m1526),"['Pudding Mild (m1526)', 'Red Velvet Cake (m1999)', 'Biscuits and Gravy Light (m1987)', 'Split Pea Soup Mild (m1992)']",0.1
+user_147_breakfast,breakfast,Fried Pickles Light (m1179),"['Fried Pickles Light (m1179)', 'Brussels Sprouts Special (m1998)', 'Fruit Salad Spicy (m1982)', 'Goat Cheese Crostini Special (m1990)']",0.1
+user_148_dinner,dinner,Carrot Ginger Soup Classic (m130),"['Carrot Ginger Soup Classic (m130)', 'English Muffin Special (m1981)', 'Hash Browns Light (m1983)', 'Vegetable Soup Classic (m1988)']",0.2875
+user_149_lunch,lunch,Rice Pudding Premium (m1867),"['Rice Pudding Premium (m1867)', 'Red Velvet Cake (m1999)', 'Vegetable Soup Classic (m1988)', 'Wild Rice Deluxe (m1994)']",0.38125
+user_150_breakfast,breakfast,Soy Milk (m1951),"['Soy Milk (m1951)', 'Shrimp Cocktail Spicy (m1995)', 'Goat Cheese Crostini Special (m1990)', 'Fruit Salad Spicy (m1982)']",0.35
+user_151_snacks,snacks,Goat Cheese Crostini Special (m1990),"['Goat Cheese Crostini Special (m1990)', 'Clam Chowder Classic (m1986)', 'Éclair Premium (m1985)', 'Lentil Soup Premium (m2000)']",0.475
+user_152_dinner,dinner,Potato Salad Mild (m708),"['Potato Salad Mild (m708)', 'Éclair Premium (m1985)', 'Roasted Vegetables Mild (m1989)', 'Biscuits and Gravy Light (m1987)']",0.35
+user_153_dinner,dinner,French Fries (m223),"['French Fries (m223)', 'Hash Browns Light (m1983)', 'Mediterranean Salad Premium (m1991)', 'Fruit Salad Spicy (m1982)']",0.225
+user_154_dinner,dinner,Caprese Salad Spicy (m550),"['Caprese Salad Spicy (m550)', 'Clam Chowder Classic (m1986)', 'Mediterranean Salad Premium (m1991)', 'Apple Pie Special (m1984)']",0.38125
+user_155_lunch,lunch,Minestrone Special (m1354),"['Minestrone Special (m1354)', 'Split Pea Soup Mild (m1992)', 'Pasta Carbonara Special (m1996)', 'French Onion Soup Deluxe (m1993)']",0.35
+user_156_lunch,lunch,Cappuccino Deluxe (m1069),"['Cappuccino Deluxe (m1069)', 'Roasted Vegetables Mild (m1989)', 'Pasta Carbonara Special (m1996)', 'Fruit Salad Spicy (m1982)']",0.5583333333333333
+user_157_lunch,lunch,Tuna Salad Light (m1152),"['Tuna Salad Light (m1152)', 'Lentil Soup Premium (m2000)', 'Red Velvet Cake (m1999)', 'Fruit Salad Spicy (m1982)']",0.5166666666666666
+user_158_snacks,snacks,Parfait Spicy (m1642),"['Parfait Spicy (m1642)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)', 'Pasta Carbonara Special (m1996)']",0.1
+user_159_lunch,lunch,Macarons Mild (m791),"['Macarons Mild (m791)', 'Pasta Carbonara Special (m1996)', 'Shrimp Cocktail Spicy (m1995)', 'Red Velvet Cake (m1999)']",0.35
+user_160_snacks,snacks,Pho (m47),"['Pho (m47)', 'English Muffin Special (m1981)', 'Bruschetta Special (m1997)', 'Fruit Salad Spicy (m1982)']",0.1
+user_161_lunch,lunch,Milk Special (m1243),"['Milk Special (m1243)', 'Shrimp Cocktail Spicy (m1995)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)']",0.2875
+user_162_lunch,lunch,Avocado Toast Deluxe (m519),"['Avocado Toast Deluxe (m519)', 'Biscuits and Gravy Light (m1987)', 'Fruit Salad Spicy (m1982)', 'Roasted Vegetables Mild (m1989)']",0.2875
+user_163_dinner,dinner,Oysters Deluxe (m733),"['Oysters Deluxe (m733)', 'Shrimp Cocktail Spicy (m1995)', 'Éclair Premium (m1985)', 'English Muffin Special (m1981)']",0.38125
+user_164_breakfast,breakfast,Chicken Alfredo Special (m1444),"['Chicken Alfredo Special (m1444)', 'Apple Pie Special (m1984)', 'Roasted Vegetables Mild (m1989)', 'Brussels Sprouts Special (m1998)']",0.5166666666666666
+user_165_dinner,dinner,Omelet Spicy (m1023),"['Omelet Spicy (m1023)', 'Shrimp Cocktail Spicy (m1995)', 'Wild Rice Deluxe (m1994)', 'Biscuits and Gravy Light (m1987)']",0.35
+user_166_breakfast,breakfast,Lobster Bisque (m1085),"['Lobster Bisque (m1085)', 'Shrimp Cocktail Spicy (m1995)', 'French Onion Soup Deluxe (m1993)', 'Pasta Carbonara Special (m1996)']",0.1
+user_167_breakfast,breakfast,Beet Salad (m1837),"['Beet Salad (m1837)', 'Mediterranean Salad Premium (m1991)', 'Biscuits and Gravy Light (m1987)', 'Éclair Premium (m1985)']",0.225
+user_168_dinner,dinner,Chicken Tortilla Soup Classic (m1621),"['Chicken Tortilla Soup Classic (m1621)', 'Vegetable Soup Classic (m1988)', 'Bruschetta Special (m1997)', 'Shrimp Cocktail Spicy (m1995)']",0.31875
+user_169_lunch,lunch,Carrot Cake Light (m1869),"['Carrot Cake Light (m1869)', 'Éclair Premium (m1985)', 'English Muffin Special (m1981)', 'Apple Pie Special (m1984)']",0.2875
+user_170_breakfast,breakfast,Breakfast Potatoes Classic (m1901),"['Breakfast Potatoes Classic (m1901)', 'Éclair Premium (m1985)', 'Brussels Sprouts Special (m1998)', 'English Muffin Special (m1981)']",0.39166666666666666
+user_171_lunch,lunch,Croissant Mild (m1760),"['Croissant Mild (m1760)', 'Vegetable Soup Classic (m1988)', 'Brussels Sprouts Special (m1998)', 'Éclair Premium (m1985)']",0.225
+user_172_breakfast,breakfast,Pork Chops Spicy (m1783),"['Pork Chops Spicy (m1783)', 'Lentil Soup Premium (m2000)', 'Mediterranean Salad Premium (m1991)', 'Roasted Vegetables Mild (m1989)']",0.2875
+user_173_lunch,lunch,Quinoa Salad Mild (m1338),"['Quinoa Salad Mild (m1338)', 'Mediterranean Salad Premium (m1991)', 'Bruschetta Special (m1997)', 'Clam Chowder Classic (m1986)']",0.19375
+user_174_dinner,dinner,Clam Chowder Premium (m1123),"['Clam Chowder Premium (m1123)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)', 'Fruit Salad Spicy (m1982)']",0.4125
+user_175_snacks,snacks,Calamari Light (m1213),"['Calamari Light (m1213)', 'Roasted Vegetables Mild (m1989)', 'Goat Cheese Crostini Special (m1990)', 'Red Velvet Cake (m1999)']",0.475
+user_176_lunch,lunch,Pasta Salad Mild (m1185),"['Pasta Salad Mild (m1185)', 'Roasted Vegetables Mild (m1989)', 'Apple Pie Special (m1984)', 'Éclair Premium (m1985)']",0.2875
+user_177_dinner,dinner,Soy Milk Mild (m388),"['Soy Milk Mild (m388)', 'Biscuits and Gravy Light (m1987)', 'Pasta Carbonara Special (m1996)', 'French Onion Soup Deluxe (m1993)']",0.475
+user_178_breakfast,breakfast,Shrimp Cocktail Classic (m1918),"['Shrimp Cocktail Classic (m1918)', 'Mediterranean Salad Premium (m1991)', 'Shrimp Cocktail Spicy (m1995)', 'Clam Chowder Classic (m1986)']",0.1
+user_179_dinner,dinner,Burger Classic (m972),"['Burger Classic (m972)', 'Wild Rice Deluxe (m1994)', 'Fruit Salad Spicy (m1982)', 'Split Pea Soup Mild (m1992)']",0.30000000000000004
+user_180_breakfast,breakfast,Rice Noodles Classic (m1133),"['Rice Noodles Classic (m1133)', 'Éclair Premium (m1985)', 'Biscuits and Gravy Light (m1987)', 'Red Velvet Cake (m1999)']",0.39166666666666666
+user_181_dinner,dinner,Fruit Smoothie Bowl Mild (m457),"['Fruit Smoothie Bowl Mild (m457)', 'Hash Browns Light (m1983)', 'Clam Chowder Classic (m1986)', 'Mediterranean Salad Premium (m1991)']",0.25
+user_182_breakfast,breakfast,Crème Brûlée Mild (m1530),"['Crème Brûlée Mild (m1530)', 'Hash Browns Light (m1983)', 'Shrimp Cocktail Spicy (m1995)', 'English Muffin Special (m1981)']",0.39166666666666666
+user_183_breakfast,breakfast,Greek Salad Deluxe (m343),"['Greek Salad Deluxe (m343)', 'French Onion Soup Deluxe (m1993)', 'Fruit Salad Spicy (m1982)', 'Split Pea Soup Mild (m1992)']",0.1
+user_184_dinner,dinner,Chef Salad Spicy (m1008),"['Chef Salad Spicy (m1008)', 'Wild Rice Deluxe (m1994)', 'Brussels Sprouts Special (m1998)', 'French Onion Soup Deluxe (m1993)']",0.4125
+user_185_lunch,lunch,Sautéed Mushrooms Special (m1707),"['Sautéed Mushrooms Special (m1707)', 'Apple Pie Special (m1984)', 'Vegetable Soup Classic (m1988)', 'Red Velvet Cake (m1999)']",0.1
+user_186_dinner,dinner,Apple Juice Classic (m1738),"['Apple Juice Classic (m1738)', 'Wild Rice Deluxe (m1994)', 'Goat Cheese Crostini Special (m1990)', 'French Onion Soup Deluxe (m1993)']",0.475
+user_187_breakfast,breakfast,Chicken Souvlaki Premium (m434),"['Chicken Souvlaki Premium (m434)', 'English Muffin Special (m1981)', 'Bruschetta Special (m1997)', 'Brussels Sprouts Special (m1998)']",0.35
+user_188_breakfast,breakfast,Greek Salad Mild (m1497),"['Greek Salad Mild (m1497)', 'Bruschetta Special (m1997)', 'Fruit Salad Spicy (m1982)', 'Wild Rice Deluxe (m1994)']",0.225
+user_189_breakfast,breakfast,Carrot Cake Light (m1950),"['Carrot Cake Light (m1950)', 'Wild Rice Deluxe (m1994)', 'Clam Chowder Classic (m1986)', 'English Muffin Special (m1981)']",0.35
+user_190_lunch,lunch,Pho Classic (m1590),"['Pho Classic (m1590)', 'Éclair Premium (m1985)', 'Lentil Soup Premium (m2000)', 'Mediterranean Salad Premium (m1991)']",0.1
+user_191_lunch,lunch,Rice Pudding Deluxe (m1643),"['Rice Pudding Deluxe (m1643)', 'Hash Browns Light (m1983)', 'Pasta Carbonara Special (m1996)', 'Brussels Sprouts Special (m1998)']",0.1
+user_192_lunch,lunch,Chicken Rice Soup (m1451),"['Chicken Rice Soup (m1451)', 'Lentil Soup Premium (m2000)', 'Split Pea Soup Mild (m1992)', 'Brussels Sprouts Special (m1998)']",0.26666666666666666
+user_193_breakfast,breakfast,Donut (m605),"['Donut (m605)', 'Biscuits and Gravy Light (m1987)', 'Goat Cheese Crostini Special (m1990)', 'Clam Chowder Classic (m1986)']",0.35
+user_194_breakfast,breakfast,Chicken Teriyaki (m606),"['Chicken Teriyaki (m606)', 'Shrimp Cocktail Spicy (m1995)', 'Roasted Vegetables Mild (m1989)', 'Bruschetta Special (m1997)']",0.35
+user_195_snacks,snacks,Coleslaw Special (m2),"['Coleslaw Special (m2)', 'Éclair Premium (m1985)', 'Apple Pie Special (m1984)', 'Brussels Sprouts Special (m1998)']",0.1
+user_196_snacks,snacks,Clam Chowder Mild (m1628),"['Clam Chowder Mild (m1628)', 'Goat Cheese Crostini Special (m1990)', 'Bruschetta Special (m1997)', 'Lentil Soup Premium (m2000)']",0.6
+user_197_lunch,lunch,Tomato Juice (m299),"['Tomato Juice (m299)', 'Apple Pie Special (m1984)', 'Bruschetta Special (m1997)', 'Wild Rice Deluxe (m1994)']",0.35
+user_198_snacks,snacks,Gelato Classic (m1490),"['Gelato Classic (m1490)', 'Fruit Salad Spicy (m1982)', 'Lentil Soup Premium (m2000)', 'Apple Pie Special (m1984)']",0.1
+user_199_snacks,snacks,Edamame Mild (m1104),"['Edamame Mild (m1104)', 'Wild Rice Deluxe (m1994)', 'Pasta Carbonara Special (m1996)', 'Bruschetta Special (m1997)']",0.1
+user_200_breakfast,breakfast,Matcha Latte Light (m1095),"['Matcha Latte Light (m1095)', 'English Muffin Special (m1981)', 'Biscuits and Gravy Light (m1987)', 'Éclair Premium (m1985)']",0.39166666666666666
+user_201_breakfast,breakfast,Steak Fajitas Classic (m1362),"['Steak Fajitas Classic (m1362)', 'English Muffin Special (m1981)', 'Lentil Soup Premium (m2000)', 'Fruit Salad Spicy (m1982)']",0.35
+user_202_dinner,dinner,Shrimp Cocktail Deluxe (m282),"['Shrimp Cocktail Deluxe (m282)', 'Vegetable Soup Classic (m1988)', 'Mediterranean Salad Premium (m1991)', 'Split Pea Soup Mild (m1992)']",0.1
+user_203_lunch,lunch,Hot Chocolate Classic (m887),"['Hot Chocolate Classic (m887)', 'Brussels Sprouts Special (m1998)', 'Fruit Salad Spicy (m1982)', 'Apple Pie Special (m1984)']",0.39166666666666666
+user_204_lunch,lunch,Egg Salad (m297),"['Egg Salad (m297)', 'Lentil Soup Premium (m2000)', 'French Onion Soup Deluxe (m1993)', 'Clam Chowder Classic (m1986)']",0.1
+user_205_dinner,dinner,Cheese Platter Spicy (m923),"['Cheese Platter Spicy (m923)', 'Wild Rice Deluxe (m1994)', 'Mediterranean Salad Premium (m1991)', 'Goat Cheese Crostini Special (m1990)']",0.32499999999999996
+user_206_dinner,dinner,Waffles Premium (m734),"['Waffles Premium (m734)', 'Red Velvet Cake (m1999)', 'Roasted Vegetables Mild (m1989)', 'Vegetable Soup Classic (m1988)']",0.35
+user_207_dinner,dinner,Pork Fried Rice Classic (m707),"['Pork Fried Rice Classic (m707)', 'Split Pea Soup Mild (m1992)', 'Wild Rice Deluxe (m1994)', 'Red Velvet Cake (m1999)']",0.4125
+user_208_breakfast,breakfast,Croissant Premium (m1826),"['Croissant Premium (m1826)', 'Hash Browns Light (m1983)', 'Pasta Carbonara Special (m1996)', 'Biscuits and Gravy Light (m1987)']",0.2875
+user_209_breakfast,breakfast,Cinnamon Roll Deluxe (m1325),"['Cinnamon Roll Deluxe (m1325)', 'Éclair Premium (m1985)', 'English Muffin Special (m1981)', 'Goat Cheese Crostini Special (m1990)']",0.26666666666666666
+user_210_lunch,lunch,English Muffin (m353),"['English Muffin (m353)', 'Goat Cheese Crostini Special (m1990)', 'Vegetable Soup Classic (m1988)', 'Brussels Sprouts Special (m1998)']",0.225
+user_211_snacks,snacks,Corn Chowder Mild (m783),"['Corn Chowder Mild (m783)', 'Éclair Premium (m1985)', 'Apple Pie Special (m1984)', 'Vegetable Soup Classic (m1988)']",0.6
+user_212_dinner,dinner,Churros Deluxe (m290),"['Churros Deluxe (m290)', 'Shrimp Cocktail Spicy (m1995)', 'English Muffin Special (m1981)', 'Apple Pie Special (m1984)']",0.31875
+user_213_snacks,snacks,Butternut Squash Soup Special (m1061),"['Butternut Squash Soup Special (m1061)', 'English Muffin Special (m1981)', 'Pasta Carbonara Special (m1996)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_214_lunch,lunch,Chicken Tortilla Soup Special (m420),"['Chicken Tortilla Soup Special (m420)', 'Biscuits and Gravy Light (m1987)', 'Hash Browns Light (m1983)', 'Brussels Sprouts Special (m1998)']",0.26666666666666666
+user_215_lunch,lunch,Caprese Salad Deluxe (m1733),"['Caprese Salad Deluxe (m1733)', 'Mediterranean Salad Premium (m1991)', 'Apple Pie Special (m1984)', 'French Onion Soup Deluxe (m1993)']",0.2875
+user_216_breakfast,breakfast,Edamame (m836),"['Edamame (m836)', 'English Muffin Special (m1981)', 'Goat Cheese Crostini Special (m1990)', 'Wild Rice Deluxe (m1994)']",0.35
+user_217_snacks,snacks,Steamed Vegetables Premium (m1452),"['Steamed Vegetables Premium (m1452)', 'Bruschetta Special (m1997)', 'Split Pea Soup Mild (m1992)', 'Biscuits and Gravy Light (m1987)']",0.475
+user_218_breakfast,breakfast,Mashed Potatoes Light (m1587),"['Mashed Potatoes Light (m1587)', 'Biscuits and Gravy Light (m1987)', 'Red Velvet Cake (m1999)', 'English Muffin Special (m1981)']",0.35
+user_219_breakfast,breakfast,Deviled Eggs Mild (m770),"['Deviled Eggs Mild (m770)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)', 'Hash Browns Light (m1983)']",0.39166666666666666
+user_220_dinner,dinner,Tiramisu Light (m573),"['Tiramisu Light (m573)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Classic (m1988)', 'Red Velvet Cake (m1999)']",0.38125
+user_221_dinner,dinner,Soy Milk Spicy (m401),"['Soy Milk Spicy (m401)', 'French Onion Soup Deluxe (m1993)', 'Mediterranean Salad Premium (m1991)', 'Shrimp Cocktail Spicy (m1995)']",0.225
+user_222_lunch,lunch,Ice Cream Spicy (m1693),"['Ice Cream Spicy (m1693)', 'Vegetable Soup Classic (m1988)', 'Biscuits and Gravy Light (m1987)', 'Red Velvet Cake (m1999)']",0.1
+user_223_breakfast,breakfast,Grilled Zucchini Light (m128),"['Grilled Zucchini Light (m128)', 'Split Pea Soup Mild (m1992)', 'Brussels Sprouts Special (m1998)', 'Hash Browns Light (m1983)']",0.2875
+user_224_breakfast,breakfast,Oatmeal (m298),"['Oatmeal (m298)', 'Éclair Premium (m1985)', 'Apple Pie Special (m1984)', 'Lentil Soup Premium (m2000)']",0.475
+user_225_snacks,snacks,Prosciutto Melon Special (m1176),"['Prosciutto Melon Special (m1176)', 'Wild Rice Deluxe (m1994)', 'French Onion Soup Deluxe (m1993)', 'Clam Chowder Classic (m1986)']",0.2875
+user_226_snacks,snacks,Quinoa Deluxe (m1366),"['Quinoa Deluxe (m1366)', 'Brussels Sprouts Special (m1998)', 'Clam Chowder Classic (m1986)', 'Goat Cheese Crostini Special (m1990)']",0.2875
+user_227_snacks,snacks,Fish Tacos Special (m1659),"['Fish Tacos Special (m1659)', 'Split Pea Soup Mild (m1992)', 'Fruit Salad Spicy (m1982)', 'Bruschetta Special (m1997)']",0.475
+user_228_snacks,snacks,Shrimp Scampi Deluxe (m1942),"['Shrimp Scampi Deluxe (m1942)', 'Fruit Salad Spicy (m1982)', 'Hash Browns Light (m1983)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_229_dinner,dinner,Bread Pudding Deluxe (m1792),"['Bread Pudding Deluxe (m1792)', 'Bruschetta Special (m1997)', 'Roasted Vegetables Mild (m1989)', 'Wild Rice Deluxe (m1994)']",0.44375
+user_230_dinner,dinner,Tea Premium (m964),"['Tea Premium (m964)', 'Éclair Premium (m1985)', 'Wild Rice Deluxe (m1994)', 'French Onion Soup Deluxe (m1993)']",0.4
+user_231_lunch,lunch,Calamari Mild (m1900),"['Calamari Mild (m1900)', 'Biscuits and Gravy Light (m1987)', 'Shrimp Cocktail Spicy (m1995)', 'Bruschetta Special (m1997)']",0.35
+user_232_lunch,lunch,Milk Special (m1243),"['Milk Special (m1243)', 'Clam Chowder Classic (m1986)', 'Fruit Salad Spicy (m1982)', 'French Onion Soup Deluxe (m1993)']",0.31875
+user_233_breakfast,breakfast,Chicken Parmesan Spicy (m1108),"['Chicken Parmesan Spicy (m1108)', 'Mediterranean Salad Premium (m1991)', 'Apple Pie Special (m1984)', 'Biscuits and Gravy Light (m1987)']",0.2875
+user_234_dinner,dinner,Hot and Sour Soup Classic (m1562),"['Hot and Sour Soup Classic (m1562)', 'Vegetable Soup Classic (m1988)', 'Wild Rice Deluxe (m1994)', 'Red Velvet Cake (m1999)']",0.4125
+user_235_dinner,dinner,Breakfast Sandwich Special (m898),"['Breakfast Sandwich Special (m898)', 'Clam Chowder Classic (m1986)', 'Bruschetta Special (m1997)', 'Vegetable Soup Classic (m1988)']",0.32499999999999996
+user_236_lunch,lunch,Bagel Spicy (m147),"['Bagel Spicy (m147)', 'Mediterranean Salad Premium (m1991)', 'Fruit Salad Spicy (m1982)', 'Biscuits and Gravy Light (m1987)']",0.26666666666666666
+user_237_dinner,dinner,Vegetable Stir Fry Premium (m1198),"['Vegetable Stir Fry Premium (m1198)', 'Goat Cheese Crostini Special (m1990)', 'Bruschetta Special (m1997)', 'Vegetable Soup Classic (m1988)']",0.31875
+user_238_dinner,dinner,Roasted Vegetables Special (m1722),"['Roasted Vegetables Special (m1722)', 'Bruschetta Special (m1997)', 'Fruit Salad Spicy (m1982)', 'Éclair Premium (m1985)']",0.19375
+user_239_dinner,dinner,Lentil Soup Deluxe (m1610),"['Lentil Soup Deluxe (m1610)', 'Roasted Vegetables Mild (m1989)', 'Lentil Soup Premium (m2000)', 'Shrimp Cocktail Spicy (m1995)']",0.38125
+user_240_dinner,dinner,Tomato Soup (m1519),"['Tomato Soup (m1519)', 'English Muffin Special (m1981)', 'Red Velvet Cake (m1999)', 'Vegetable Soup Classic (m1988)']",0.4125
+user_241_dinner,dinner,Bruschetta Light (m113),"['Bruschetta Light (m113)', 'Vegetable Soup Classic (m1988)', 'Apple Pie Special (m1984)', 'Wild Rice Deluxe (m1994)']",0.39166666666666666
+user_242_snacks,snacks,Fish Tacos Spicy (m1561),"['Fish Tacos Spicy (m1561)', 'Biscuits and Gravy Light (m1987)', 'Mediterranean Salad Premium (m1991)', 'Clam Chowder Classic (m1986)']",0.1
+user_243_lunch,lunch,Salmon Fillet (m570),"['Salmon Fillet (m570)', 'Split Pea Soup Mild (m1992)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)']",0.38125
+user_244_snacks,snacks,Cheese Platter Deluxe (m1696),"['Cheese Platter Deluxe (m1696)', 'Shrimp Cocktail Spicy (m1995)', 'Vegetable Soup Classic (m1988)', 'Éclair Premium (m1985)']",0.35
+user_245_breakfast,breakfast,Fried Pickles Special (m322),"['Fried Pickles Special (m322)', 'Wild Rice Deluxe (m1994)', 'French Onion Soup Deluxe (m1993)', 'Red Velvet Cake (m1999)']",0.1
+user_246_breakfast,breakfast,Fruit Salad Mild (m952),"['Fruit Salad Mild (m952)', 'Red Velvet Cake (m1999)', 'Shrimp Cocktail Spicy (m1995)', 'Mediterranean Salad Premium (m1991)']",0.1
+user_247_lunch,lunch,Bruschetta Deluxe (m1012),"['Bruschetta Deluxe (m1012)', 'Pasta Carbonara Special (m1996)', 'Wild Rice Deluxe (m1994)', 'Apple Pie Special (m1984)']",0.35
+user_248_snacks,snacks,Sorbet Light (m905),"['Sorbet Light (m905)', 'French Onion Soup Deluxe (m1993)', 'English Muffin Special (m1981)', 'Clam Chowder Classic (m1986)']",0.475
+user_249_snacks,snacks,Shrimp Scampi Deluxe (m1942),"['Shrimp Scampi Deluxe (m1942)', 'Vegetable Soup Classic (m1988)', 'Split Pea Soup Mild (m1992)', 'Shrimp Cocktail Spicy (m1995)']",0.1
+user_250_snacks,snacks,Caesar Salad Special (m69),"['Caesar Salad Special (m69)', 'Roasted Vegetables Mild (m1989)', 'Clam Chowder Classic (m1986)', 'Shrimp Cocktail Spicy (m1995)']",0.35
+user_251_breakfast,breakfast,Gelato Mild (m1821),"['Gelato Mild (m1821)', 'Brussels Sprouts Special (m1998)', 'Shrimp Cocktail Spicy (m1995)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_252_dinner,dinner,Fish Tacos Spicy (m1561),"['Fish Tacos Spicy (m1561)', 'Pasta Carbonara Special (m1996)', 'Wild Rice Deluxe (m1994)', 'Bruschetta Special (m1997)']",0.5375
+user_253_lunch,lunch,Quinoa Salad Mild (m1338),"['Quinoa Salad Mild (m1338)', 'Wild Rice Deluxe (m1994)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)']",0.38125
+user_254_lunch,lunch,Nachos Classic (m1886),"['Nachos Classic (m1886)', 'Wild Rice Deluxe (m1994)', 'English Muffin Special (m1981)', 'Red Velvet Cake (m1999)']",0.26666666666666666
+user_255_dinner,dinner,Garlic Bread Spicy (m1021),"['Garlic Bread Spicy (m1021)', 'Apple Pie Special (m1984)', 'Clam Chowder Classic (m1986)', 'Lentil Soup Premium (m2000)']",0.31875
+user_256_lunch,lunch,Meatball Sub Light (m960),"['Meatball Sub Light (m960)', 'Éclair Premium (m1985)', 'Wild Rice Deluxe (m1994)', 'Mediterranean Salad Premium (m1991)']",0.39166666666666666
+user_257_snacks,snacks,Fruit Punch Special (m1052),"['Fruit Punch Special (m1052)', 'Apple Pie Special (m1984)', 'Shrimp Cocktail Spicy (m1995)', 'English Muffin Special (m1981)']",0.475
+user_258_dinner,dinner,Carrot Cake Light (m75),"['Carrot Cake Light (m75)', 'Goat Cheese Crostini Special (m1990)', 'Mediterranean Salad Premium (m1991)', 'French Onion Soup Deluxe (m1993)']",0.25
+user_259_lunch,lunch,Coffee Classic (m1657),"['Coffee Classic (m1657)', 'Éclair Premium (m1985)', 'Apple Pie Special (m1984)', 'Shrimp Cocktail Spicy (m1995)']",0.39166666666666666
+user_260_breakfast,breakfast,Tres Leches Cake (m187),"['Tres Leches Cake (m187)', 'Apple Pie Special (m1984)', 'Mediterranean Salad Premium (m1991)', 'Bruschetta Special (m1997)']",0.1
+user_261_snacks,snacks,Waffles Mild (m273),"['Waffles Mild (m273)', 'Apple Pie Special (m1984)', 'Biscuits and Gravy Light (m1987)', 'English Muffin Special (m1981)']",0.2875
+user_262_dinner,dinner,Soy Milk Premium (m1454),"['Soy Milk Premium (m1454)', 'Goat Cheese Crostini Special (m1990)', 'Red Velvet Cake (m1999)', 'Lentil Soup Premium (m2000)']",0.35
+user_263_dinner,dinner,Lamb Kebab Premium (m659),"['Lamb Kebab Premium (m659)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)', 'Apple Pie Special (m1984)']",0.35
+user_264_dinner,dinner,Chocolate Milk Spicy (m121),"['Chocolate Milk Spicy (m121)', 'Shrimp Cocktail Spicy (m1995)', 'Lentil Soup Premium (m2000)', 'French Onion Soup Deluxe (m1993)']",0.25
+user_265_snacks,snacks,Fish Tacos Classic (m631),"['Fish Tacos Classic (m631)', 'Brussels Sprouts Special (m1998)', 'Clam Chowder Classic (m1986)', 'English Muffin Special (m1981)']",0.1
+user_266_breakfast,breakfast,Eggs Benedict Mild (m1935),"['Eggs Benedict Mild (m1935)', 'Lentil Soup Premium (m2000)', 'Roasted Vegetables Mild (m1989)', 'Red Velvet Cake (m1999)']",0.475
+user_267_dinner,dinner,Chicken Skewers Spicy (m1083),"['Chicken Skewers Spicy (m1083)', 'Vegetable Soup Classic (m1988)', 'French Onion Soup Deluxe (m1993)', 'Brussels Sprouts Special (m1998)']",0.31875
+user_268_dinner,dinner,Egg Salad Classic (m644),"['Egg Salad Classic (m644)', 'English Muffin Special (m1981)', 'French Onion Soup Deluxe (m1993)', 'Clam Chowder Classic (m1986)']",0.2875
+user_269_snacks,snacks,Bruschetta Light (m113),"['Bruschetta Light (m113)', 'Vegetable Soup Classic (m1988)', 'French Onion Soup Deluxe (m1993)', 'Pasta Carbonara Special (m1996)']",0.475
+user_270_lunch,lunch,Arugula Salad Special (m1735),"['Arugula Salad Special (m1735)', 'Brussels Sprouts Special (m1998)', 'Roasted Vegetables Mild (m1989)', 'Pasta Carbonara Special (m1996)']",0.44375
+user_271_dinner,dinner,Potato Skins Deluxe (m772),"['Potato Skins Deluxe (m772)', 'Lentil Soup Premium (m2000)', 'Hash Browns Light (m1983)', 'Roasted Vegetables Mild (m1989)']",0.4125
+user_272_breakfast,breakfast,Stuffed Peppers Classic (m974),"['Stuffed Peppers Classic (m974)', 'Hash Browns Light (m1983)', 'Apple Pie Special (m1984)', 'Pasta Carbonara Special (m1996)']",0.39166666666666666
+user_273_snacks,snacks,Hash Browns Premium (m265),"['Hash Browns Premium (m265)', 'Fruit Salad Spicy (m1982)', 'Wild Rice Deluxe (m1994)', 'Split Pea Soup Mild (m1992)']",0.1
+user_274_breakfast,breakfast,Chicken Rice Soup (m1716),"['Chicken Rice Soup (m1716)', 'Bruschetta Special (m1997)', 'Biscuits and Gravy Light (m1987)', 'Red Velvet Cake (m1999)']",0.225
+user_275_lunch,lunch,Bruschetta Spicy (m454),"['Bruschetta Spicy (m454)', 'Hash Browns Light (m1983)', 'English Muffin Special (m1981)', 'Fruit Salad Spicy (m1982)']",0.2875
+user_276_breakfast,breakfast,Waffles Classic (m1609),"['Waffles Classic (m1609)', 'Bruschetta Special (m1997)', 'Hash Browns Light (m1983)', 'Split Pea Soup Mild (m1992)']",0.1
+user_277_lunch,lunch,Beef Stew (m686),"['Beef Stew (m686)', 'Split Pea Soup Mild (m1992)', 'Pasta Carbonara Special (m1996)', 'Shrimp Cocktail Spicy (m1995)']",0.35
+user_278_breakfast,breakfast,Mediterranean Salad Special (m821),"['Mediterranean Salad Special (m821)', 'Apple Pie Special (m1984)', 'Vegetable Soup Classic (m1988)', 'Hash Browns Light (m1983)']",0.2875
+user_279_lunch,lunch,French Fries Mild (m761),"['French Fries Mild (m761)', 'Lentil Soup Premium (m2000)', 'Roasted Vegetables Mild (m1989)', 'Split Pea Soup Mild (m1992)']",0.225
+user_280_lunch,lunch,Veggie Pizza Spicy (m1267),"['Veggie Pizza Spicy (m1267)', 'Biscuits and Gravy Light (m1987)', 'Clam Chowder Classic (m1986)', 'French Onion Soup Deluxe (m1993)']",0.35
+user_281_dinner,dinner,French Onion Soup (m1224),"['French Onion Soup (m1224)', 'English Muffin Special (m1981)', 'Lentil Soup Premium (m2000)', 'Éclair Premium (m1985)']",0.31875
+user_282_lunch,lunch,Milk Premium (m1103),"['Milk Premium (m1103)', 'Roasted Vegetables Mild (m1989)', 'Éclair Premium (m1985)', 'Pasta Carbonara Special (m1996)']",0.44375
+user_283_snacks,snacks,English Muffin Special (m222),"['English Muffin Special (m222)', 'Clam Chowder Classic (m1986)', 'French Onion Soup Deluxe (m1993)', 'English Muffin Special (m1981)']",0.1
+user_284_lunch,lunch,Prosciutto Melon Special (m711),"['Prosciutto Melon Special (m711)', 'Lentil Soup Premium (m2000)', 'Éclair Premium (m1985)', 'Mediterranean Salad Premium (m1991)']",0.35
+user_285_lunch,lunch,Bagel Mild (m375),"['Bagel Mild (m375)', 'Lentil Soup Premium (m2000)', 'Hash Browns Light (m1983)', 'Goat Cheese Crostini Special (m1990)']",0.1
+user_286_breakfast,breakfast,Scrambled Eggs Deluxe (m1237),"['Scrambled Eggs Deluxe (m1237)', 'Goat Cheese Crostini Special (m1990)', 'Pasta Carbonara Special (m1996)', 'Brussels Sprouts Special (m1998)']",0.2875
+user_287_dinner,dinner,Mocha Special (m364),"['Mocha Special (m364)', 'French Onion Soup Deluxe (m1993)', 'English Muffin Special (m1981)', 'Hash Browns Light (m1983)']",0.35
+user_288_dinner,dinner,Oysters Special (m1789),"['Oysters Special (m1789)', 'Shrimp Cocktail Spicy (m1995)', 'Pasta Carbonara Special (m1996)', 'Lentil Soup Premium (m2000)']",0.38125
+user_289_lunch,lunch,Corn Chowder Deluxe (m323),"['Corn Chowder Deluxe (m323)', 'Biscuits and Gravy Light (m1987)', 'Brussels Sprouts Special (m1998)', 'Roasted Vegetables Mild (m1989)']",0.35
+user_290_snacks,snacks,Tuna Salad Special (m163),"['Tuna Salad Special (m163)', 'Lentil Soup Premium (m2000)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)']",0.35
+user_291_lunch,lunch,Donut Light (m1287),"['Donut Light (m1287)', 'Mediterranean Salad Premium (m1991)', 'Bruschetta Special (m1997)', 'Vegetable Soup Classic (m1988)']",0.475
+user_292_snacks,snacks,Deviled Eggs Spicy (m944),"['Deviled Eggs Spicy (m944)', 'French Onion Soup Deluxe (m1993)', 'Apple Pie Special (m1984)', 'Éclair Premium (m1985)']",0.35
+user_293_lunch,lunch,Garlic Bread Classic (m122),"['Garlic Bread Classic (m122)', 'Shrimp Cocktail Spicy (m1995)', 'Éclair Premium (m1985)', 'Brussels Sprouts Special (m1998)']",0.225
+user_294_dinner,dinner,Pad Thai Deluxe (m1688),"['Pad Thai Deluxe (m1688)', 'Split Pea Soup Mild (m1992)', 'Biscuits and Gravy Light (m1987)', 'Wild Rice Deluxe (m1994)']",0.31875
+user_295_breakfast,breakfast,Bagel Mild (m375),"['Bagel Mild (m375)', 'French Onion Soup Deluxe (m1993)', 'Vegetable Soup Classic (m1988)', 'Fruit Salad Spicy (m1982)']",0.225
+user_296_dinner,dinner,Chicken Salad Deluxe (m1770),"['Chicken Salad Deluxe (m1770)', 'Clam Chowder Classic (m1986)', 'Wild Rice Deluxe (m1994)', 'Lentil Soup Premium (m2000)']",0.35
+user_297_breakfast,breakfast,Crab Cakes Spicy (m412),"['Crab Cakes Spicy (m412)', 'Bruschetta Special (m1997)', 'Lentil Soup Premium (m2000)', 'Apple Pie Special (m1984)']",0.1
+user_298_snacks,snacks,Waffles Deluxe (m503),"['Waffles Deluxe (m503)', 'Lentil Soup Premium (m2000)', 'Split Pea Soup Mild (m1992)', 'Red Velvet Cake (m1999)']",0.475
+user_299_dinner,dinner,Fried Pickles Special (m322),"['Fried Pickles Special (m322)', 'Pasta Carbonara Special (m1996)', 'Bruschetta Special (m1997)', 'French Onion Soup Deluxe (m1993)']",0.25
+user_300_dinner,dinner,Bread Pudding Deluxe (m1792),"['Bread Pudding Deluxe (m1792)', 'Vegetable Soup Classic (m1988)', 'Bruschetta Special (m1997)', 'Apple Pie Special (m1984)']",0.4125
+user_301_snacks,snacks,Chicken Curry Deluxe (m687),"['Chicken Curry Deluxe (m687)', 'Wild Rice Deluxe (m1994)', 'Mediterranean Salad Premium (m1991)', 'Brussels Sprouts Special (m1998)']",0.475
+user_302_lunch,lunch,Garden Salad Light (m1211),"['Garden Salad Light (m1211)', 'Lentil Soup Premium (m2000)', 'Red Velvet Cake (m1999)', 'Éclair Premium (m1985)']",0.225
+user_303_snacks,snacks,Avocado Toast Deluxe (m1571),"['Avocado Toast Deluxe (m1571)', 'French Onion Soup Deluxe (m1993)', 'Biscuits and Gravy Light (m1987)', 'Pasta Carbonara Special (m1996)']",0.1
+user_304_dinner,dinner,Cauliflower Mash Spicy (m950),"['Cauliflower Mash Spicy (m950)', 'English Muffin Special (m1981)', 'Hash Browns Light (m1983)', 'Apple Pie Special (m1984)']",0.42500000000000004
+user_305_lunch,lunch,Buffalo Wings (m1096),"['Buffalo Wings (m1096)', 'Goat Cheese Crostini Special (m1990)', 'Fruit Salad Spicy (m1982)', 'Wild Rice Deluxe (m1994)']",0.35
+user_306_breakfast,breakfast,Milk Premium (m33),"['Milk Premium (m33)', 'Éclair Premium (m1985)', 'Split Pea Soup Mild (m1992)', 'Brussels Sprouts Special (m1998)']",0.35
+user_307_snacks,snacks,Salmon Fillet Spicy (m452),"['Salmon Fillet Spicy (m452)', 'Red Velvet Cake (m1999)', 'Apple Pie Special (m1984)', 'Hash Browns Light (m1983)']",0.1
+user_308_snacks,snacks,Carrot Cake Light (m75),"['Carrot Cake Light (m75)', 'English Muffin Special (m1981)', 'Pasta Carbonara Special (m1996)', 'Hash Browns Light (m1983)']",0.1
+user_309_dinner,dinner,Corn Chowder Premium (m706),"['Corn Chowder Premium (m706)', 'Bruschetta Special (m1997)', 'Vegetable Soup Classic (m1988)', 'Mediterranean Salad Premium (m1991)']",0.225
+user_310_breakfast,breakfast,Rice Noodles Light (m1465),"['Rice Noodles Light (m1465)', 'English Muffin Special (m1981)', 'Éclair Premium (m1985)', 'Brussels Sprouts Special (m1998)']",0.39166666666666666
+user_311_dinner,dinner,Kale Salad Special (m1855),"['Kale Salad Special (m1855)', 'Mediterranean Salad Premium (m1991)', 'English Muffin Special (m1981)', 'Bruschetta Special (m1997)']",0.2875
+user_312_lunch,lunch,Pepsi Special (m776),"['Pepsi Special (m776)', 'Bruschetta Special (m1997)', 'Roasted Vegetables Mild (m1989)', 'Fruit Salad Spicy (m1982)']",0.39166666666666666
+user_313_lunch,lunch,Cobb Salad Spicy (m1500),"['Cobb Salad Spicy (m1500)', 'Pasta Carbonara Special (m1996)', 'Roasted Vegetables Mild (m1989)', 'Apple Pie Special (m1984)']",0.5375
+user_314_dinner,dinner,Waldorf Salad Classic (m771),"['Waldorf Salad Classic (m771)', 'Split Pea Soup Mild (m1992)', 'Hash Browns Light (m1983)', 'Bruschetta Special (m1997)']",0.225
+user_315_lunch,lunch,Garlic Bread Classic (m615),"['Garlic Bread Classic (m615)', 'French Onion Soup Deluxe (m1993)', 'Vegetable Soup Classic (m1988)', 'Shrimp Cocktail Spicy (m1995)']",0.39166666666666666
+user_316_snacks,snacks,Sausage (m1557),"['Sausage (m1557)', 'Fruit Salad Spicy (m1982)', 'Goat Cheese Crostini Special (m1990)', 'Apple Pie Special (m1984)']",0.475
+user_317_lunch,lunch,Grilled Chicken Classic (m396),"['Grilled Chicken Classic (m396)', 'Brussels Sprouts Special (m1998)', 'Fruit Salad Spicy (m1982)', 'Biscuits and Gravy Light (m1987)']",0.2875
+user_318_breakfast,breakfast,Cobb Salad Classic (m1475),"['Cobb Salad Classic (m1475)', 'Roasted Vegetables Mild (m1989)', 'Lentil Soup Premium (m2000)', 'Hash Browns Light (m1983)']",0.5375
+user_319_lunch,lunch,Water (m1398),"['Water (m1398)', 'Split Pea Soup Mild (m1992)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)']",0.38125
+user_320_dinner,dinner,Jalapeño Poppers Deluxe (m1830),"['Jalapeño Poppers Deluxe (m1830)', 'English Muffin Special (m1981)', 'Split Pea Soup Mild (m1992)', 'Goat Cheese Crostini Special (m1990)']",0.2875
+user_321_snacks,snacks,Chicken Alfredo Mild (m1424),"['Chicken Alfredo Mild (m1424)', 'Roasted Vegetables Mild (m1989)', 'Split Pea Soup Mild (m1992)', 'English Muffin Special (m1981)']",0.475
+user_322_breakfast,breakfast,Potato Salad Spicy (m1106),"['Potato Salad Spicy (m1106)', 'Clam Chowder Classic (m1986)', 'English Muffin Special (m1981)', 'Wild Rice Deluxe (m1994)']",0.35
+user_323_lunch,lunch,Lemon Tart (m349),"['Lemon Tart (m349)', 'Biscuits and Gravy Light (m1987)', 'Goat Cheese Crostini Special (m1990)', 'Brussels Sprouts Special (m1998)']",0.225
+user_324_snacks,snacks,Coffee Deluxe (m221),"['Coffee Deluxe (m221)', 'Lentil Soup Premium (m2000)', 'Mediterranean Salad Premium (m1991)', 'Vegetable Soup Classic (m1988)']",0.475
+user_325_dinner,dinner,Vegetable Stir Fry Premium (m1198),"['Vegetable Stir Fry Premium (m1198)', 'English Muffin Special (m1981)', 'Apple Pie Special (m1984)', 'Bruschetta Special (m1997)']",0.4125
+user_326_snacks,snacks,Arugula Salad Premium (m1546),"['Arugula Salad Premium (m1546)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)', 'Brussels Sprouts Special (m1998)']",0.1
+user_327_breakfast,breakfast,Meatball Sub Spicy (m402),"['Meatball Sub Spicy (m402)', 'Wild Rice Deluxe (m1994)', 'Éclair Premium (m1985)', 'Roasted Vegetables Mild (m1989)']",0.475
+user_328_snacks,snacks,Fruit Smoothie Bowl Deluxe (m832),"['Fruit Smoothie Bowl Deluxe (m832)', 'Goat Cheese Crostini Special (m1990)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)']",0.2875
+user_329_lunch,lunch,Sushi Roll Mild (m1046),"['Sushi Roll Mild (m1046)', 'Red Velvet Cake (m1999)', 'French Onion Soup Deluxe (m1993)', 'Hash Browns Light (m1983)']",0.35
+user_330_dinner,dinner,Chicken Enchiladas Light (m1603),"['Chicken Enchiladas Light (m1603)', 'Brussels Sprouts Special (m1998)', 'Wild Rice Deluxe (m1994)', 'Mediterranean Salad Premium (m1991)']",0.45000000000000007
+user_331_snacks,snacks,Hot and Sour Soup Special (m701),"['Hot and Sour Soup Special (m701)', 'Wild Rice Deluxe (m1994)', 'Lentil Soup Premium (m2000)', 'Vegetable Soup Classic (m1988)']",0.475
+user_332_snacks,snacks,Hot and Sour Soup (m1944),"['Hot and Sour Soup (m1944)', 'Roasted Vegetables Mild (m1989)', 'Hash Browns Light (m1983)', 'Pasta Carbonara Special (m1996)']",0.1
+user_333_lunch,lunch,Cinnamon Roll Mild (m284),"['Cinnamon Roll Mild (m284)', 'Red Velvet Cake (m1999)', 'Hash Browns Light (m1983)', 'Roasted Vegetables Mild (m1989)']",0.225
+user_334_snacks,snacks,Potato Leek Soup Mild (m174),"['Potato Leek Soup Mild (m174)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_335_lunch,lunch,Mediterranean Salad Premium (m662),"['Mediterranean Salad Premium (m662)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)', 'Biscuits and Gravy Light (m1987)']",0.1
+user_336_snacks,snacks,Cheese Platter Deluxe (m1696),"['Cheese Platter Deluxe (m1696)', 'English Muffin Special (m1981)', 'Goat Cheese Crostini Special (m1990)', 'Éclair Premium (m1985)']",0.1
+user_337_snacks,snacks,Fish Tacos Spicy (m1561),"['Fish Tacos Spicy (m1561)', 'Fruit Salad Spicy (m1982)', 'Brussels Sprouts Special (m1998)', 'Biscuits and Gravy Light (m1987)']",0.1
+user_338_dinner,dinner,Chicken Skewers Light (m1833),"['Chicken Skewers Light (m1833)', 'Lentil Soup Premium (m2000)', 'Brussels Sprouts Special (m1998)', 'Red Velvet Cake (m1999)']",0.2875
+user_339_dinner,dinner,Lamb Chops Light (m1042),"['Lamb Chops Light (m1042)', 'French Onion Soup Deluxe (m1993)', 'Hash Browns Light (m1983)', 'Lentil Soup Premium (m2000)']",0.38125
+user_340_snacks,snacks,Pork Tenderloin Special (m1791),"['Pork Tenderloin Special (m1791)', 'Mediterranean Salad Premium (m1991)', 'Wild Rice Deluxe (m1994)', 'Split Pea Soup Mild (m1992)']",0.1
+user_341_snacks,snacks,Lobster Bisque Special (m741),"['Lobster Bisque Special (m741)', 'Hash Browns Light (m1983)', 'Apple Pie Special (m1984)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_342_dinner,dinner,Beet Salad (m1837),"['Beet Salad (m1837)', 'Wild Rice Deluxe (m1994)', 'Hash Browns Light (m1983)', 'Goat Cheese Crostini Special (m1990)']",0.35
+user_343_breakfast,breakfast,Cheesecake (m316),"['Cheesecake (m316)', 'Vegetable Soup Classic (m1988)', 'Bruschetta Special (m1997)', 'Brussels Sprouts Special (m1998)']",0.1
+user_344_breakfast,breakfast,Mango Juice Spicy (m233),"['Mango Juice Spicy (m233)', 'Fruit Salad Spicy (m1982)', 'Clam Chowder Classic (m1986)', 'Apple Pie Special (m1984)']",0.5166666666666666
+user_345_lunch,lunch,Breakfast Potatoes Deluxe (m890),"['Breakfast Potatoes Deluxe (m890)', 'Éclair Premium (m1985)', 'Red Velvet Cake (m1999)', 'English Muffin Special (m1981)']",0.225
+user_346_breakfast,breakfast,Cupcakes Light (m559),"['Cupcakes Light (m559)', 'Fruit Salad Spicy (m1982)', 'Apple Pie Special (m1984)', 'Bruschetta Special (m1997)']",0.35
+user_347_breakfast,breakfast,Crab Cakes Classic (m1457),"['Crab Cakes Classic (m1457)', 'Pasta Carbonara Special (m1996)', 'Biscuits and Gravy Light (m1987)', 'Éclair Premium (m1985)']",0.35
+user_348_dinner,dinner,Cheesecake Deluxe (m565),"['Cheesecake Deluxe (m565)', 'Clam Chowder Classic (m1986)', 'Brussels Sprouts Special (m1998)', 'Split Pea Soup Mild (m1992)']",0.225
+user_349_lunch,lunch,Wild Rice Special (m857),"['Wild Rice Special (m857)', 'Fruit Salad Spicy (m1982)', 'Lentil Soup Premium (m2000)', 'Éclair Premium (m1985)']",0.35
+user_350_lunch,lunch,Tomato Juice Classic (m908),"['Tomato Juice Classic (m908)', 'Roasted Vegetables Mild (m1989)', 'French Onion Soup Deluxe (m1993)', 'Vegetable Soup Classic (m1988)']",0.43333333333333335
+user_351_dinner,dinner,Chicken Parmesan Light (m1638),"['Chicken Parmesan Light (m1638)', 'Wild Rice Deluxe (m1994)', 'Biscuits and Gravy Light (m1987)', 'Éclair Premium (m1985)']",0.35
+user_352_breakfast,breakfast,Pancakes Premium (m1903),"['Pancakes Premium (m1903)', 'Vegetable Soup Classic (m1988)', 'Fruit Salad Spicy (m1982)', 'Éclair Premium (m1985)']",0.2875
+user_353_snacks,snacks,Mashed Potatoes Deluxe (m93),"['Mashed Potatoes Deluxe (m93)', 'Pasta Carbonara Special (m1996)', 'Shrimp Cocktail Spicy (m1995)', 'Mediterranean Salad Premium (m1991)']",0.475
+user_354_lunch,lunch,Roasted Carrots Spicy (m446),"['Roasted Carrots Spicy (m446)', 'Goat Cheese Crostini Special (m1990)', 'Apple Pie Special (m1984)', 'Brussels Sprouts Special (m1998)']",0.31875
+user_355_dinner,dinner,Scrambled Eggs Deluxe (m1237),"['Scrambled Eggs Deluxe (m1237)', 'Wild Rice Deluxe (m1994)', 'Goat Cheese Crostini Special (m1990)', 'Éclair Premium (m1985)']",0.375
+user_356_breakfast,breakfast,French Onion Soup Special (m479),"['French Onion Soup Special (m479)', 'Goat Cheese Crostini Special (m1990)', 'Bruschetta Special (m1997)', 'Hash Browns Light (m1983)']",0.35
+user_357_lunch,lunch,Tea Premium (m39),"['Tea Premium (m39)', 'Bruschetta Special (m1997)', 'Clam Chowder Classic (m1986)', 'Pasta Carbonara Special (m1996)']",0.475
+user_358_breakfast,breakfast,Edamame Classic (m1037),"['Edamame Classic (m1037)', 'Shrimp Cocktail Spicy (m1995)', 'Mediterranean Salad Premium (m1991)', 'Biscuits and Gravy Light (m1987)']",0.475
+user_359_dinner,dinner,Crepes Mild (m702),"['Crepes Mild (m702)', 'Biscuits and Gravy Light (m1987)', 'Apple Pie Special (m1984)', 'Fruit Salad Spicy (m1982)']",0.32499999999999996
+user_360_snacks,snacks,Cheesecake (m316),"['Cheesecake (m316)', 'Lentil Soup Premium (m2000)', 'Split Pea Soup Mild (m1992)', 'Pasta Carbonara Special (m1996)']",0.2875
+user_361_breakfast,breakfast,Vegetable Soup Deluxe (m1634),"['Vegetable Soup Deluxe (m1634)', 'Wild Rice Deluxe (m1994)', 'Mediterranean Salad Premium (m1991)', 'Éclair Premium (m1985)']",0.2875
+user_362_dinner,dinner,Beef Kebab Special (m1968),"['Beef Kebab Special (m1968)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)', 'Shrimp Cocktail Spicy (m1995)']",0.45000000000000007
+user_363_breakfast,breakfast,Oat Milk Deluxe (m1141),"['Oat Milk Deluxe (m1141)', 'Shrimp Cocktail Spicy (m1995)', 'Fruit Salad Spicy (m1982)', 'Brussels Sprouts Special (m1998)']",0.2875
+user_364_breakfast,breakfast,Bagel Spicy (m147),"['Bagel Spicy (m147)', 'Red Velvet Cake (m1999)', 'Fruit Salad Spicy (m1982)', 'English Muffin Special (m1981)']",0.26666666666666666
+user_365_dinner,dinner,Spinach Artichoke Dip Mild (m845),"['Spinach Artichoke Dip Mild (m845)', 'English Muffin Special (m1981)', 'French Onion Soup Deluxe (m1993)', 'Biscuits and Gravy Light (m1987)']",0.17500000000000002
+user_366_snacks,snacks,Crab Cakes Premium (m1324),"['Crab Cakes Premium (m1324)', 'Hash Browns Light (m1983)', 'Red Velvet Cake (m1999)', 'Vegetable Soup Classic (m1988)']",0.2875
+user_367_snacks,snacks,Beef Kebab Mild (m552),"['Beef Kebab Mild (m552)', 'Split Pea Soup Mild (m1992)', 'Vegetable Soup Classic (m1988)', 'Red Velvet Cake (m1999)']",0.35
+user_368_lunch,lunch,Pepsi Special (m1711),"['Pepsi Special (m1711)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)', 'Hash Browns Light (m1983)']",0.35
+user_369_snacks,snacks,Deviled Eggs Mild (m259),"['Deviled Eggs Mild (m259)', 'Hash Browns Light (m1983)', 'Bruschetta Special (m1997)', 'English Muffin Special (m1981)']",0.1
+user_370_dinner,dinner,Roasted Vegetables Special (m224),"['Roasted Vegetables Special (m224)', 'Goat Cheese Crostini Special (m1990)', 'Split Pea Soup Mild (m1992)', 'English Muffin Special (m1981)']",0.38125
+user_371_lunch,lunch,Arugula Salad (m1627),"['Arugula Salad (m1627)', 'Roasted Vegetables Mild (m1989)', 'Shrimp Cocktail Spicy (m1995)', 'Vegetable Soup Classic (m1988)']",0.35
+user_372_breakfast,breakfast,Orange Juice Spicy (m1740),"['Orange Juice Spicy (m1740)', 'Bruschetta Special (m1997)', 'Pasta Carbonara Special (m1996)', 'Clam Chowder Classic (m1986)']",0.475
+user_373_lunch,lunch,Bruschetta Special (m1997),"['Bruschetta Special (m1997)', 'Roasted Vegetables Mild (m1989)', 'French Onion Soup Deluxe (m1993)', 'Red Velvet Cake (m1999)']",0.225
+user_374_breakfast,breakfast,Scrambled Eggs Deluxe (m1237),"['Scrambled Eggs Deluxe (m1237)', 'Lentil Soup Premium (m2000)', 'Apple Pie Special (m1984)', 'Red Velvet Cake (m1999)']",0.2875
+user_375_dinner,dinner,Avocado Toast Classic (m1522),"['Avocado Toast Classic (m1522)', 'Apple Pie Special (m1984)', 'Pasta Carbonara Special (m1996)', 'Split Pea Soup Mild (m1992)']",0.35
+user_376_snacks,snacks,French Fries (m223),"['French Fries (m223)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)', 'Red Velvet Cake (m1999)']",0.1
+user_377_lunch,lunch,Cobb Salad (m372),"['Cobb Salad (m372)', 'Brussels Sprouts Special (m1998)', 'Split Pea Soup Mild (m1992)', 'Apple Pie Special (m1984)']",0.1
+user_378_dinner,dinner,Clam Chowder Special (m1461),"['Clam Chowder Special (m1461)', 'Apple Pie Special (m1984)', 'Goat Cheese Crostini Special (m1990)', 'Red Velvet Cake (m1999)']",0.38125
+user_379_lunch,lunch,Bean Soup Premium (m1797),"['Bean Soup Premium (m1797)', 'Hash Browns Light (m1983)', 'Brussels Sprouts Special (m1998)', 'Lentil Soup Premium (m2000)']",0.26666666666666666
+user_380_dinner,dinner,Strawberry Shortcake (m295),"['Strawberry Shortcake (m295)', 'Roasted Vegetables Mild (m1989)', 'Bruschetta Special (m1997)', 'Lentil Soup Premium (m2000)']",0.38125
+user_381_lunch,lunch,Hummus with Pita Special (m1181),"['Hummus with Pita Special (m1181)', 'Brussels Sprouts Special (m1998)', 'Biscuits and Gravy Light (m1987)', 'English Muffin Special (m1981)']",0.1
+user_382_snacks,snacks,Pork Ribs Classic (m1566),"['Pork Ribs Classic (m1566)', 'Lentil Soup Premium (m2000)', 'Roasted Vegetables Mild (m1989)', 'Shrimp Cocktail Spicy (m1995)']",0.475
+user_383_breakfast,breakfast,Chicken Shawarma Deluxe (m1715),"['Chicken Shawarma Deluxe (m1715)', 'Hash Browns Light (m1983)', 'Brussels Sprouts Special (m1998)', 'Wild Rice Deluxe (m1994)']",0.35
+user_384_dinner,dinner,Stuffing Mild (m49),"['Stuffing Mild (m49)', 'French Onion Soup Deluxe (m1993)', 'Fruit Salad Spicy (m1982)', 'Pasta Carbonara Special (m1996)']",0.35
+user_385_dinner,dinner,Toast Classic (m1626),"['Toast Classic (m1626)', 'English Muffin Special (m1981)', 'Split Pea Soup Mild (m1992)', 'Éclair Premium (m1985)']",0.19375
+user_386_breakfast,breakfast,Sliders Classic (m194),"['Sliders Classic (m194)', 'Lentil Soup Premium (m2000)', 'French Onion Soup Deluxe (m1993)', 'English Muffin Special (m1981)']",0.35
+user_387_breakfast,breakfast,Tomato Soup Premium (m1418),"['Tomato Soup Premium (m1418)', 'Bruschetta Special (m1997)', 'Shrimp Cocktail Spicy (m1995)', 'Apple Pie Special (m1984)']",0.1
+user_388_breakfast,breakfast,Cappuccino Spicy (m1305),"['Cappuccino Spicy (m1305)', 'Bruschetta Special (m1997)', 'Éclair Premium (m1985)', 'English Muffin Special (m1981)']",0.475
+user_389_lunch,lunch,Edamame Premium (m307),"['Edamame Premium (m307)', 'Hash Browns Light (m1983)', 'French Onion Soup Deluxe (m1993)', 'Wild Rice Deluxe (m1994)']",0.5166666666666666
+user_390_breakfast,breakfast,Beef Stew (m709),"['Beef Stew (m709)', 'Lentil Soup Premium (m2000)', 'Wild Rice Deluxe (m1994)', 'Brussels Sprouts Special (m1998)']",0.39166666666666666
+user_391_dinner,dinner,Kale Salad Spicy (m1959),"['Kale Salad Spicy (m1959)', 'Wild Rice Deluxe (m1994)', 'Bruschetta Special (m1997)', 'Pasta Carbonara Special (m1996)']",0.375
+user_392_lunch,lunch,Biscuits and Gravy Light (m1987),"['Biscuits and Gravy Light (m1987)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)', 'Goat Cheese Crostini Special (m1990)']",0.35
+user_393_lunch,lunch,Pumpkin Soup Light (m84),"['Pumpkin Soup Light (m84)', 'Mediterranean Salad Premium (m1991)', 'French Onion Soup Deluxe (m1993)', 'Vegetable Soup Classic (m1988)']",0.1
+user_394_snacks,snacks,Hot Tea Spicy (m277),"['Hot Tea Spicy (m277)', 'Vegetable Soup Classic (m1988)', 'Brussels Sprouts Special (m1998)', 'English Muffin Special (m1981)']",0.475
+user_395_breakfast,breakfast,Mozzarella Sticks Premium (m1057),"['Mozzarella Sticks Premium (m1057)', 'Pasta Carbonara Special (m1996)', 'Wild Rice Deluxe (m1994)', 'Clam Chowder Classic (m1986)']",0.2875
+user_396_breakfast,breakfast,Waldorf Salad Premium (m1189),"['Waldorf Salad Premium (m1189)', 'Lentil Soup Premium (m2000)', 'Shrimp Cocktail Spicy (m1995)', 'Wild Rice Deluxe (m1994)']",0.1
+user_397_dinner,dinner,Chicken Wings Spicy (m267),"['Chicken Wings Spicy (m267)', 'Shrimp Cocktail Spicy (m1995)', 'Éclair Premium (m1985)', 'Apple Pie Special (m1984)']",0.4125
+user_398_dinner,dinner,Banana Split Deluxe (m246),"['Banana Split Deluxe (m246)', 'Lentil Soup Premium (m2000)', 'Clam Chowder Classic (m1986)', 'Pasta Carbonara Special (m1996)']",0.32499999999999996
+user_399_snacks,snacks,Arugula Salad Premium (m1070),"['Arugula Salad Premium (m1070)', 'Roasted Vegetables Mild (m1989)', 'French Onion Soup Deluxe (m1993)', 'Lentil Soup Premium (m2000)']",0.1
+user_400_snacks,snacks,Clam Chowder Classic (m537),"['Clam Chowder Classic (m537)', 'Fruit Salad Spicy (m1982)', 'Shrimp Cocktail Spicy (m1995)', 'Roasted Vegetables Mild (m1989)']",0.475
+user_401_breakfast,breakfast,Soy Milk Spicy (m71),"['Soy Milk Spicy (m71)', 'Apple Pie Special (m1984)', 'Roasted Vegetables Mild (m1989)', 'French Onion Soup Deluxe (m1993)']",0.35
+user_402_snacks,snacks,Iced Coffee Spicy (m1230),"['Iced Coffee Spicy (m1230)', 'Hash Browns Light (m1983)', 'Shrimp Cocktail Spicy (m1995)', 'Goat Cheese Crostini Special (m1990)']",0.1
+user_403_dinner,dinner,Chicken Tortilla Soup Mild (m614),"['Chicken Tortilla Soup Mild (m614)', 'Goat Cheese Crostini Special (m1990)', 'Biscuits and Gravy Light (m1987)', 'Shrimp Cocktail Spicy (m1995)']",0.2
+user_404_lunch,lunch,Pizza Margherita (m1107),"['Pizza Margherita (m1107)', 'Pasta Carbonara Special (m1996)', 'Clam Chowder Classic (m1986)', 'Fruit Salad Spicy (m1982)']",0.35
+user_405_dinner,dinner,Bacon Wrapped Dates Premium (m1097),"['Bacon Wrapped Dates Premium (m1097)', 'Clam Chowder Classic (m1986)', 'Lentil Soup Premium (m2000)', 'Bruschetta Special (m1997)']",0.19375
+user_406_snacks,snacks,Shrimp Cocktail Premium (m1009),"['Shrimp Cocktail Premium (m1009)', 'Goat Cheese Crostini Special (m1990)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)']",0.6
+user_407_snacks,snacks,Muffin Spicy (m884),"['Muffin Spicy (m884)', 'English Muffin Special (m1981)', 'Pasta Carbonara Special (m1996)', 'Shrimp Cocktail Spicy (m1995)']",0.1
+user_408_dinner,dinner,Chicken Enchiladas Mild (m1245),"['Chicken Enchiladas Mild (m1245)', 'Pasta Carbonara Special (m1996)', 'Mediterranean Salad Premium (m1991)', 'Roasted Vegetables Mild (m1989)']",0.44375
+user_409_dinner,dinner,Garden Salad Deluxe (m1274),"['Garden Salad Deluxe (m1274)', 'Biscuits and Gravy Light (m1987)', 'Fruit Salad Spicy (m1982)', 'Wild Rice Deluxe (m1994)']",0.2875
+user_410_lunch,lunch,Clams Casino Light (m507),"['Clams Casino Light (m507)', 'Goat Cheese Crostini Special (m1990)', 'Red Velvet Cake (m1999)', 'Hash Browns Light (m1983)']",0.1
+user_411_lunch,lunch,Greek Salad Special (m1000),"['Greek Salad Special (m1000)', 'Vegetable Soup Classic (m1988)', 'Clam Chowder Classic (m1986)', 'Brussels Sprouts Special (m1998)']",0.1
+user_412_dinner,dinner,Chef Salad Special (m379),"['Chef Salad Special (m379)', 'Pasta Carbonara Special (m1996)', 'English Muffin Special (m1981)', 'Clam Chowder Classic (m1986)']",0.42500000000000004
+user_413_dinner,dinner,Salmon Teriyaki (m583),"['Salmon Teriyaki (m583)', 'Wild Rice Deluxe (m1994)', 'Roasted Vegetables Mild (m1989)', 'Mediterranean Salad Premium (m1991)']",0.44375
+user_414_lunch,lunch,Éclair Classic (m829),"['Éclair Classic (m829)', 'Fruit Salad Spicy (m1982)', 'Clam Chowder Classic (m1986)', 'Wild Rice Deluxe (m1994)']",0.38125
+user_415_dinner,dinner,Shrimp Salad Light (m1728),"['Shrimp Salad Light (m1728)', 'Vegetable Soup Classic (m1988)', 'Roasted Vegetables Mild (m1989)', 'Pasta Carbonara Special (m1996)']",0.50625
+user_416_lunch,lunch,Meatball Sub Light (m1155),"['Meatball Sub Light (m1155)', 'Apple Pie Special (m1984)', 'Mediterranean Salad Premium (m1991)', 'Brussels Sprouts Special (m1998)']",0.31875
+user_417_lunch,lunch,Waffles Classic (m1609),"['Waffles Classic (m1609)', 'French Onion Soup Deluxe (m1993)', 'Vegetable Soup Classic (m1988)', 'Lentil Soup Premium (m2000)']",0.225
+user_418_dinner,dinner,Almond Milk Spicy (m868),"['Almond Milk Spicy (m868)', 'Red Velvet Cake (m1999)', 'Clam Chowder Classic (m1986)', 'Goat Cheese Crostini Special (m1990)']",0.2875
+user_419_dinner,dinner,Mediterranean Salad Premium (m1991),"['Mediterranean Salad Premium (m1991)', 'Fruit Salad Spicy (m1982)', 'Apple Pie Special (m1984)', 'Vegetable Soup Classic (m1988)']",0.31875
+user_420_snacks,snacks,Broccoli Cheddar Soup Spicy (m539),"['Broccoli Cheddar Soup Spicy (m539)', 'Roasted Vegetables Mild (m1989)', 'English Muffin Special (m1981)', 'Biscuits and Gravy Light (m1987)']",0.1
+user_421_snacks,snacks,Iced Coffee (m477),"['Iced Coffee (m477)', 'English Muffin Special (m1981)', 'French Onion Soup Deluxe (m1993)', 'Mediterranean Salad Premium (m1991)']",0.475
+user_422_snacks,snacks,Croissant Mild (m1760),"['Croissant Mild (m1760)', 'Red Velvet Cake (m1999)', 'Pasta Carbonara Special (m1996)', 'Fruit Salad Spicy (m1982)']",0.2875
+user_423_lunch,lunch,Baked Potato Classic (m310),"['Baked Potato Classic (m310)', 'Goat Cheese Crostini Special (m1990)', 'French Onion Soup Deluxe (m1993)', 'Mediterranean Salad Premium (m1991)']",0.225
+user_424_breakfast,breakfast,Bean Soup Premium (m1936),"['Bean Soup Premium (m1936)', 'Vegetable Soup Classic (m1988)', 'Goat Cheese Crostini Special (m1990)', 'Fruit Salad Spicy (m1982)']",0.2875
+user_425_snacks,snacks,Lasagna Special (m567),"['Lasagna Special (m567)', 'Brussels Sprouts Special (m1998)', 'Goat Cheese Crostini Special (m1990)', 'Pasta Carbonara Special (m1996)']",0.475
+user_426_breakfast,breakfast,Espresso Deluxe (m196),"['Espresso Deluxe (m196)', 'Hash Browns Light (m1983)', 'Apple Pie Special (m1984)', 'Clam Chowder Classic (m1986)']",0.475
+user_427_snacks,snacks,Ginger Ale Deluxe (m415),"['Ginger Ale Deluxe (m415)', 'Roasted Vegetables Mild (m1989)', 'French Onion Soup Deluxe (m1993)', 'Wild Rice Deluxe (m1994)']",0.1
+user_428_breakfast,breakfast,Deviled Eggs Mild (m259),"['Deviled Eggs Mild (m259)', 'Wild Rice Deluxe (m1994)', 'Lentil Soup Premium (m2000)', 'Hash Browns Light (m1983)']",0.35
+user_429_snacks,snacks,Lobster Bisque Special (m1481),"['Lobster Bisque Special (m1481)', 'Apple Pie Special (m1984)', 'Shrimp Cocktail Spicy (m1995)', 'Pasta Carbonara Special (m1996)']",0.1
+user_430_dinner,dinner,Panna Cotta Special (m1177),"['Panna Cotta Special (m1177)', 'French Onion Soup Deluxe (m1993)', 'Apple Pie Special (m1984)', 'Lentil Soup Premium (m2000)']",0.19375
+user_431_dinner,dinner,Nachos (m160),"['Nachos (m160)', 'Lentil Soup Premium (m2000)', 'French Onion Soup Deluxe (m1993)', 'Biscuits and Gravy Light (m1987)']",0.225
+user_432_lunch,lunch,Chicken Shawarma Mild (m515),"['Chicken Shawarma Mild (m515)', 'Split Pea Soup Mild (m1992)', 'Clam Chowder Classic (m1986)', 'Lentil Soup Premium (m2000)']",0.225
+user_433_snacks,snacks,Baked Beans Mild (m1647),"['Baked Beans Mild (m1647)', 'English Muffin Special (m1981)', 'Shrimp Cocktail Spicy (m1995)', 'Clam Chowder Classic (m1986)']",0.1
+user_434_dinner,dinner,Fruit Punch Special (m1052),"['Fruit Punch Special (m1052)', 'Clam Chowder Classic (m1986)', 'Wild Rice Deluxe (m1994)', 'Pasta Carbonara Special (m1996)']",0.44375
+user_435_breakfast,breakfast,Red Velvet Cake (m1999),"['Red Velvet Cake (m1999)', 'Fruit Salad Spicy (m1982)', 'Biscuits and Gravy Light (m1987)', 'Brussels Sprouts Special (m1998)']",0.2875
+user_436_breakfast,breakfast,Cheese Platter Deluxe (m921),"['Cheese Platter Deluxe (m921)', 'Goat Cheese Crostini Special (m1990)', 'Fruit Salad Spicy (m1982)', 'French Onion Soup Deluxe (m1993)']",0.1
+user_437_lunch,lunch,Chocolate Milk Light (m1263),"['Chocolate Milk Light (m1263)', 'Wild Rice Deluxe (m1994)', 'Clam Chowder Classic (m1986)', 'Mediterranean Salad Premium (m1991)']",0.475
+user_438_dinner,dinner,Nachos Premium (m1226),"['Nachos Premium (m1226)', 'Goat Cheese Crostini Special (m1990)', 'Roasted Vegetables Mild (m1989)', 'Biscuits and Gravy Light (m1987)']",0.35
+user_439_snacks,snacks,Grilled Eggplant Spicy (m900),"['Grilled Eggplant Spicy (m900)', 'Éclair Premium (m1985)', 'Wild Rice Deluxe (m1994)', 'Goat Cheese Crostini Special (m1990)']",0.2875
+user_440_breakfast,breakfast,Vegetable Curry Premium (m1512),"['Vegetable Curry Premium (m1512)', 'English Muffin Special (m1981)', 'Clam Chowder Classic (m1986)', 'Fruit Salad Spicy (m1982)']",0.225
+user_441_snacks,snacks,Hot and Sour Soup Spicy (m956),"['Hot and Sour Soup Spicy (m956)', 'Apple Pie Special (m1984)', 'Clam Chowder Classic (m1986)', 'French Onion Soup Deluxe (m1993)']",0.2875
+user_442_breakfast,breakfast,English Muffin Classic (m68),"['English Muffin Classic (m68)', 'Pasta Carbonara Special (m1996)', 'Red Velvet Cake (m1999)', 'Split Pea Soup Mild (m1992)']",0.2875
+user_443_snacks,snacks,Bruschetta Mild (m1010),"['Bruschetta Mild (m1010)', 'Bruschetta Special (m1997)', 'Clam Chowder Classic (m1986)', 'Pasta Carbonara Special (m1996)']",0.1
+user_444_snacks,snacks,Onion Rings Deluxe (m1415),"['Onion Rings Deluxe (m1415)', 'Biscuits and Gravy Light (m1987)', 'Lentil Soup Premium (m2000)', 'English Muffin Special (m1981)']",0.1
+user_445_dinner,dinner,Garden Salad Mild (m500),"['Garden Salad Mild (m500)', 'Bruschetta Special (m1997)', 'Shrimp Cocktail Spicy (m1995)', 'Roasted Vegetables Mild (m1989)']",0.2875
+user_446_snacks,snacks,Cheesecake (m316),"['Cheesecake (m316)', 'Bruschetta Special (m1997)', 'Hash Browns Light (m1983)', 'English Muffin Special (m1981)']",0.475
+user_447_breakfast,breakfast,Crepes Light (m1646),"['Crepes Light (m1646)', 'Lentil Soup Premium (m2000)', 'Roasted Vegetables Mild (m1989)', 'Red Velvet Cake (m1999)']",0.2875
+user_448_breakfast,breakfast,Baklava Spicy (m664),"['Baklava Spicy (m664)', 'Pasta Carbonara Special (m1996)', 'Wild Rice Deluxe (m1994)', 'Lentil Soup Premium (m2000)']",0.1
+user_449_lunch,lunch,Fruit Punch Special (m1052),"['Fruit Punch Special (m1052)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Classic (m1988)', 'Red Velvet Cake (m1999)']",0.475
+user_450_breakfast,breakfast,Kale Salad Premium (m1652),"['Kale Salad Premium (m1652)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Classic (m1988)', 'Lentil Soup Premium (m2000)']",0.2875
+user_451_dinner,dinner,Tuna Tartare Spicy (m1404),"['Tuna Tartare Spicy (m1404)', 'Éclair Premium (m1985)', 'Roasted Vegetables Mild (m1989)', 'Red Velvet Cake (m1999)']",0.35
+user_452_snacks,snacks,Scone Light (m406),"['Scone Light (m406)', 'Wild Rice Deluxe (m1994)', 'Lentil Soup Premium (m2000)', 'Clam Chowder Classic (m1986)']",0.1
+user_453_snacks,snacks,Rice Noodles Deluxe (m1897),"['Rice Noodles Deluxe (m1897)', 'Bruschetta Special (m1997)', 'Biscuits and Gravy Light (m1987)', 'Hash Browns Light (m1983)']",0.2875
+user_454_snacks,snacks,Falafel Wrap Light (m1931),"['Falafel Wrap Light (m1931)', 'English Muffin Special (m1981)', 'Goat Cheese Crostini Special (m1990)', 'Fruit Salad Spicy (m1982)']",0.2875
+user_455_breakfast,breakfast,Sliders Classic (m194),"['Sliders Classic (m194)', 'Clam Chowder Classic (m1986)', 'English Muffin Special (m1981)', 'Biscuits and Gravy Light (m1987)']",0.2875
+user_456_snacks,snacks,Potato Salad (m1964),"['Potato Salad (m1964)', 'Brussels Sprouts Special (m1998)', 'Bruschetta Special (m1997)', 'Apple Pie Special (m1984)']",0.475
+user_457_lunch,lunch,Goat Cheese Crostini Classic (m1290),"['Goat Cheese Crostini Classic (m1290)', 'Hash Browns Light (m1983)', 'Bruschetta Special (m1997)', 'Apple Pie Special (m1984)']",0.1
+user_458_dinner,dinner,Potato Salad Light (m1509),"['Potato Salad Light (m1509)', 'Split Pea Soup Mild (m1992)', 'Roasted Vegetables Mild (m1989)', 'Fruit Salad Spicy (m1982)']",0.32499999999999996
+user_459_snacks,snacks,Cobb Salad Spicy (m1500),"['Cobb Salad Spicy (m1500)', 'Hash Browns Light (m1983)', 'Split Pea Soup Mild (m1992)', 'Wild Rice Deluxe (m1994)']",0.2875
+user_460_breakfast,breakfast,Pho Classic (m1590),"['Pho Classic (m1590)', 'Red Velvet Cake (m1999)', 'Wild Rice Deluxe (m1994)', 'Goat Cheese Crostini Special (m1990)']",0.2875
+user_461_breakfast,breakfast,Cupcakes Premium (m518),"['Cupcakes Premium (m518)', 'Mediterranean Salad Premium (m1991)', 'Biscuits and Gravy Light (m1987)', 'Shrimp Cocktail Spicy (m1995)']",0.35
+user_462_lunch,lunch,Hot and Sour Soup Classic (m1562),"['Hot and Sour Soup Classic (m1562)', 'Éclair Premium (m1985)', 'French Onion Soup Deluxe (m1993)', 'Brussels Sprouts Special (m1998)']",0.26666666666666666
+user_463_dinner,dinner,Beef Stroganoff Mild (m464),"['Beef Stroganoff Mild (m464)', 'Vegetable Soup Classic (m1988)', 'Éclair Premium (m1985)', 'Roasted Vegetables Mild (m1989)']",0.38125
+user_464_dinner,dinner,Pudding Premium (m1749),"['Pudding Premium (m1749)', 'Wild Rice Deluxe (m1994)', 'Vegetable Soup Classic (m1988)', 'Hash Browns Light (m1983)']",0.375
+user_465_snacks,snacks,Biscuits and Gravy Special (m968),"['Biscuits and Gravy Special (m968)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Classic (m1988)', 'Wild Rice Deluxe (m1994)']",0.475
+user_466_lunch,lunch,Cookies Deluxe (m1759),"['Cookies Deluxe (m1759)', 'Split Pea Soup Mild (m1992)', 'Pasta Carbonara Special (m1996)', 'Red Velvet Cake (m1999)']",0.35
+user_467_snacks,snacks,Waffles Classic (m1609),"['Waffles Classic (m1609)', 'Bruschetta Special (m1997)', 'Biscuits and Gravy Light (m1987)', 'Pasta Carbonara Special (m1996)']",0.475
+user_468_lunch,lunch,Cobb Salad Deluxe (m586),"['Cobb Salad Deluxe (m586)', 'Roasted Vegetables Mild (m1989)', 'Brussels Sprouts Special (m1998)', 'Mediterranean Salad Premium (m1991)']",0.39166666666666666
+user_469_lunch,lunch,Falafel Wrap Mild (m638),"['Falafel Wrap Mild (m638)', 'Split Pea Soup Mild (m1992)', 'Roasted Vegetables Mild (m1989)', 'Brussels Sprouts Special (m1998)']",0.35
+user_470_breakfast,breakfast,Ratatouille Mild (m1737),"['Ratatouille Mild (m1737)', 'French Onion Soup Deluxe (m1993)', 'Bruschetta Special (m1997)', 'Éclair Premium (m1985)']",0.1
+user_471_lunch,lunch,Bruschetta (m1357),"['Bruschetta (m1357)', 'Vegetable Soup Classic (m1988)', 'Roasted Vegetables Mild (m1989)', 'Lentil Soup Premium (m2000)']",0.4125
+user_472_breakfast,breakfast,Fruit Smoothie Bowl Deluxe (m211),"['Fruit Smoothie Bowl Deluxe (m211)', 'Vegetable Soup Classic (m1988)', 'Apple Pie Special (m1984)', 'Split Pea Soup Mild (m1992)']",0.2875
+user_473_snacks,snacks,Bacon Wrapped Dates Classic (m563),"['Bacon Wrapped Dates Classic (m563)', 'Red Velvet Cake (m1999)', 'French Onion Soup Deluxe (m1993)', 'Goat Cheese Crostini Special (m1990)']",0.35
+user_474_lunch,lunch,Asparagus Spicy (m1159),"['Asparagus Spicy (m1159)', 'Éclair Premium (m1985)', 'Bruschetta Special (m1997)', 'French Onion Soup Deluxe (m1993)']",0.2875
+user_475_dinner,dinner,Crème Brûlée (m579),"['Crème Brûlée (m579)', 'Lentil Soup Premium (m2000)', 'Hash Browns Light (m1983)', 'Wild Rice Deluxe (m1994)']",0.35
+user_476_snacks,snacks,Hot Tea Deluxe (m766),"['Hot Tea Deluxe (m766)', 'Split Pea Soup Mild (m1992)', 'Vegetable Soup Classic (m1988)', 'Lentil Soup Premium (m2000)']",0.475
+user_477_dinner,dinner,Chef Salad Classic (m432),"['Chef Salad Classic (m432)', 'Roasted Vegetables Mild (m1989)', 'English Muffin Special (m1981)', 'Mediterranean Salad Premium (m1991)']",0.35
+user_478_lunch,lunch,Ice Cream Classic (m533),"['Ice Cream Classic (m533)', 'Bruschetta Special (m1997)', 'Vegetable Soup Classic (m1988)', 'Brussels Sprouts Special (m1998)']",0.225
+user_479_breakfast,breakfast,Garden Salad Mild (m500),"['Garden Salad Mild (m500)', 'English Muffin Special (m1981)', 'Red Velvet Cake (m1999)', 'Clam Chowder Classic (m1986)']",0.2875
+user_480_lunch,lunch,Mozzarella Sticks Special (m1532),"['Mozzarella Sticks Special (m1532)', 'Vegetable Soup Classic (m1988)', 'Hash Browns Light (m1983)', 'Éclair Premium (m1985)']",0.1
+user_481_snacks,snacks,Polenta Light (m849),"['Polenta Light (m849)', 'Shrimp Cocktail Spicy (m1995)', 'Fruit Salad Spicy (m1982)', 'Bruschetta Special (m1997)']",0.1
+user_482_lunch,lunch,Onion Rings Spicy (m1670),"['Onion Rings Spicy (m1670)', 'Shrimp Cocktail Spicy (m1995)', 'Pasta Carbonara Special (m1996)', 'Apple Pie Special (m1984)']",0.475
+user_483_snacks,snacks,Potato Skins Deluxe (m772),"['Potato Skins Deluxe (m772)', 'Lentil Soup Premium (m2000)', 'Clam Chowder Classic (m1986)', 'Split Pea Soup Mild (m1992)']",0.475
+user_484_breakfast,breakfast,Yogurt Spicy (m690),"['Yogurt Spicy (m690)', 'Vegetable Soup Classic (m1988)', 'Pasta Carbonara Special (m1996)', 'Mediterranean Salad Premium (m1991)']",0.2875
+user_485_dinner,dinner,Lamb Kebab Premium (m659),"['Lamb Kebab Premium (m659)', 'Brussels Sprouts Special (m1998)', 'Roasted Vegetables Mild (m1989)', 'Apple Pie Special (m1984)']",0.4125
+user_486_dinner,dinner,Jalapeño Poppers Mild (m1767),"['Jalapeño Poppers Mild (m1767)', 'Roasted Vegetables Mild (m1989)', 'Vegetable Soup Classic (m1988)', 'Fruit Salad Spicy (m1982)']",0.4
+user_487_breakfast,breakfast,Strawberry Smoothie (m293),"['Strawberry Smoothie (m293)', 'Pasta Carbonara Special (m1996)', 'Lentil Soup Premium (m2000)', 'Goat Cheese Crostini Special (m1990)']",0.2875
+user_488_dinner,dinner,Greek Salad Deluxe (m1804),"['Greek Salad Deluxe (m1804)', 'Fruit Salad Spicy (m1982)', 'Shrimp Cocktail Spicy (m1995)', 'Wild Rice Deluxe (m1994)']",0.38125
+user_489_snacks,snacks,Chicken Teriyaki Deluxe (m462),"['Chicken Teriyaki Deluxe (m462)', 'Wild Rice Deluxe (m1994)', 'Vegetable Soup Classic (m1988)', 'Biscuits and Gravy Light (m1987)']",0.2875
+user_490_lunch,lunch,Roasted Carrots Classic (m1729),"['Roasted Carrots Classic (m1729)', 'Apple Pie Special (m1984)', 'Brussels Sprouts Special (m1998)', 'Fruit Salad Spicy (m1982)']",0.2875
+user_491_breakfast,breakfast,Grape Juice Spicy (m609),"['Grape Juice Spicy (m609)', 'English Muffin Special (m1981)', 'Éclair Premium (m1985)', 'Split Pea Soup Mild (m1992)']",0.39166666666666666
+user_492_lunch,lunch,Waldorf Salad Light (m1347),"['Waldorf Salad Light (m1347)', 'Éclair Premium (m1985)', 'Roasted Vegetables Mild (m1989)', 'Apple Pie Special (m1984)']",0.31875
+user_493_lunch,lunch,Buffalo Wings Special (m238),"['Buffalo Wings Special (m238)', 'Fruit Salad Spicy (m1982)', 'Biscuits and Gravy Light (m1987)', 'Goat Cheese Crostini Special (m1990)']",0.1
+user_494_lunch,lunch,Dumplings Spicy (m431),"['Dumplings Spicy (m431)', 'French Onion Soup Deluxe (m1993)', 'Goat Cheese Crostini Special (m1990)', 'Vegetable Soup Classic (m1988)']",0.1
+user_495_lunch,lunch,Orange Juice Special (m782),"['Orange Juice Special (m782)', 'Red Velvet Cake (m1999)', 'Biscuits and Gravy Light (m1987)', 'Shrimp Cocktail Spicy (m1995)']",0.225
+user_496_breakfast,breakfast,Goat Cheese Crostini Premium (m117),"['Goat Cheese Crostini Premium (m117)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Classic (m1988)', 'Biscuits and Gravy Light (m1987)']",0.39166666666666666
+user_497_lunch,lunch,Milk Premium (m1103),"['Milk Premium (m1103)', 'Shrimp Cocktail Spicy (m1995)', 'Apple Pie Special (m1984)', 'Brussels Sprouts Special (m1998)']",0.2875
+user_498_snacks,snacks,Fried Rice Special (m422),"['Fried Rice Special (m422)', 'Brussels Sprouts Special (m1998)', 'Clam Chowder Classic (m1986)', 'Bruschetta Special (m1997)']",0.1
+user_499_dinner,dinner,Shrimp Cocktail Deluxe (m282),"['Shrimp Cocktail Deluxe (m282)', 'Roasted Vegetables Mild (m1989)', 'Split Pea Soup Mild (m1992)', 'Biscuits and Gravy Light (m1987)']",0.2875

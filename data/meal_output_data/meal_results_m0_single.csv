@@ -1,0 +1,501 @@
+user_id,meal_occasion,lead_meal,meal_bundle,goodness_score
+user_0_breakfast,breakfast,Biscuits and Gravy Special (m969),"['Biscuits and Gravy Special (m969)', 'Orange Juice Premium (m1460)', 'Chicken Skewers Light (m1703)']",0.5125
+user_1_breakfast,breakfast,Caprese Salad (m1810),"['Caprese Salad (m1810)', 'Tomato Juice (m299)', 'Breakfast Sandwich Spicy (m1078)']",0.325
+user_2_breakfast,breakfast,Stuffed Mushrooms Special (m544),"['Stuffed Mushrooms Special (m544)', 'Rice Pudding Deluxe (m1643)', 'Pancakes Deluxe (m1666)', 'Vegetable Curry (m1453)']",0.2875
+user_3_breakfast,breakfast,Rice Pilaf Premium (m859),"['Rice Pilaf Premium (m859)', 'Deviled Eggs Special (m1099)']",0.05
+user_4_lunch,lunch,Fruit Salad Special (m1025),"['Fruit Salad Special (m1025)', 'Pork Chops Spicy (m1783)', 'Cheesecake Special (m1787)', 'English Muffin Light (m11)', 'Pepsi Mild (m760)']",0.41666666666666663
+user_5_lunch,lunch,Asparagus Premium (m1529),"['Asparagus Premium (m1529)', 'Corn on the Cob (m58)', 'Butternut Squash Soup Classic (m1421)', 'Pizza Margherita (m1107)']",0.225
+user_6_snacks,snacks,Jalapeño Poppers Premium (m145),"['Jalapeño Poppers Premium (m145)', 'Chicken Fried Rice Premium (m248)', 'Rice Pilaf Premium (m859)']",0.2625
+user_7_dinner,dinner,Split Pea Soup Light (m1414),"['Split Pea Soup Light (m1414)', 'Rice Pudding Light (m1033)']",0.05
+user_8_dinner,dinner,Crème Brûlée Deluxe (m1047),"['Crème Brûlée Deluxe (m1047)', 'Bagel Spicy (m1705)', 'French Fries (m642)']",0.3
+user_9_breakfast,breakfast,Gazpacho Light (m433),"['Gazpacho Light (m433)', 'Potato Leek Soup (m803)', 'Cereal Special (m616)']",0.325
+user_10_lunch,lunch,Garden Salad Light (m1211),"['Garden Salad Light (m1211)', 'Breakfast Tacos Special (m1212)', 'Cupcakes Classic (m1793)']",0.2625
+user_11_dinner,dinner,Fruit Salad Spicy (m1982),"['Fruit Salad Spicy (m1982)', 'Chocolate Mousse Special (m1534)']",0.05
+user_12_lunch,lunch,Couscous Special (m789),"['Couscous Special (m789)', 'Spinach Artichoke Dip Mild (m845)', 'French Fries Classic (m1962)']",0.2
+user_13_dinner,dinner,Lentil Soup Special (m532),"['Lentil Soup Special (m532)', 'Banana Split Mild (m1395)', 'Ice Cream Classic (m533)', 'Corn Chowder Deluxe (m323)']",0.35
+user_14_dinner,dinner,Hot Tea Spicy (m1416),"['Hot Tea Spicy (m1416)', 'Sorbet Premium (m368)', 'Pineapple Juice Spicy (m301)', 'Broccoli Cheddar Soup Light (m1092)']",0.5375
+user_15_breakfast,breakfast,Fish Tacos Classic (m631),"['Fish Tacos Classic (m631)', 'Hot Chocolate Premium (m1153)']",0.175
+user_16_dinner,dinner,Lentil Soup Premium (m2000),"['Lentil Soup Premium (m2000)', 'Clams Casino Premium (m1930)']",0.125
+user_17_breakfast,breakfast,Frittata Mild (m1579),"['Frittata Mild (m1579)', 'Red Velvet Cake Mild (m965)', 'Asian Salad Premium (m512)', 'Potato Skins Light (m940)']",0.1
+user_18_snacks,snacks,Coconut Water Classic (m1921),"['Coconut Water Classic (m1921)', 'Salmon Fillet Mild (m1392)', 'Tuna Tartare Mild (m1724)', 'Potato Salad (m1206)']",0.475
+user_19_lunch,lunch,Egg Salad Light (m1961),"['Egg Salad Light (m1961)', 'Tomato Soup Premium (m1742)', 'Strawberry Shortcake Light (m1641)', 'Hash Browns Premium (m1834)', 'Strawberry Smoothie (m293)']",0.5833333333333333
+user_20_snacks,snacks,Pumpkin Soup Light (m84),"['Pumpkin Soup Light (m84)', 'Deviled Eggs Premium (m1112)', 'Hot and Sour Soup Spicy (m1278)']",0.075
+user_21_dinner,dinner,Roasted Carrots Premium (m892),"['Roasted Carrots Premium (m892)', 'Greek Salad Special (m1000)']",0.14375
+user_22_dinner,dinner,Caesar Salad Light (m1539),"['Caesar Salad Light (m1539)', 'Chicken Rice Soup (m1716)', 'Waldorf Salad (m1808)', 'Pho Light (m80)']",0.1
+user_23_snacks,snacks,Chicken Rice Soup (m1240),"['Chicken Rice Soup (m1240)', 'Potato Salad Special (m1440)', 'English Muffin Spicy (m1600)', 'Ramen Light (m1412)']",0.475
+user_24_dinner,dinner,Prosciutto Melon Light (m1408),"['Prosciutto Melon Light (m1408)', 'Carrot Ginger Soup Spicy (m182)', 'Soy Milk Spicy (m435)']",0.2
+user_25_snacks,snacks,Parfait Spicy (m1642),"['Parfait Spicy (m1642)', 'Cheese Platter Light (m331)', 'Churros Deluxe (m1337)']",0.45
+user_26_snacks,snacks,Donut (m1348),"['Donut (m1348)', 'Soy Milk (m1951)']",0.2375
+user_27_snacks,snacks,Vegetable Soup Light (m1063),"['Vegetable Soup Light (m1063)', 'Clam Chowder Mild (m1628)', 'Frittata (m995)']",0.075
+user_28_dinner,dinner,Mousse Spicy (m366),"['Mousse Spicy (m366)', 'Bagel Premium (m1343)', 'Waldorf Salad Premium (m1189)']",0.075
+user_29_lunch,lunch,Caprese Salad Spicy (m550),"['Caprese Salad Spicy (m550)', 'Greek Salad Light (m490)', 'Soy Milk Deluxe (m585)']",0.45
+user_30_dinner,dinner,Scrambled Eggs (m1922),"['Scrambled Eggs (m1922)', 'Shrimp Cocktail Mild (m1743)', 'Samosas Premium (m935)', 'Pasta Salad Mild (m1185)', 'Chocolate Mousse Classic (m1190)']",0.40625
+user_31_snacks,snacks,Avocado Toast Deluxe (m1571),"['Avocado Toast Deluxe (m1571)', 'Biscuits and Gravy Special (m969)', 'Pumpkin Soup Premium (m72)', 'Apple Juice Classic (m1738)', 'Bacon Deluxe (m637)']",0.625
+user_32_snacks,snacks,Couscous Classic (m1639),"['Couscous Classic (m1639)', 'Oysters Special (m1789)', 'Rice Pilaf Premium (m1427)', 'Beef Stew Special (m825)']",0.475
+user_33_breakfast,breakfast,Bagel Light (m106),"['Bagel Light (m106)', 'Fruit Bowl (m125)', 'Oat Milk Classic (m430)', 'Salmon Teriyaki Spicy (m677)', 'Bacon Deluxe (m1220)']",0.5625
+user_34_breakfast,breakfast,Mushroom Soup Classic (m288),"['Mushroom Soup Classic (m288)', 'Beef Stew (m686)', 'English Muffin Classic (m1567)', 'Fried Rice Special (m422)']",0.2875
+user_35_breakfast,breakfast,Pepsi Light (m1754),"['Pepsi Light (m1754)', 'Beef Stew Light (m1741)']",0.175
+user_36_breakfast,breakfast,Chai Latte Mild (m1560),"['Chai Latte Mild (m1560)', 'Jalapeño Poppers Mild (m1767)', 'Water Special (m1304)', 'Pork Ribs Spicy (m1848)']",0.39166666666666666
+user_37_breakfast,breakfast,Creamed Spinach Classic (m228),"['Creamed Spinach Classic (m228)', 'Pho (m47)', 'Baklava (m1204)', 'Mousse Spicy (m366)']",0.225
+user_38_breakfast,breakfast,Nachos Classic (m1886),"['Nachos Classic (m1886)', 'Beet Salad Premium (m670)', 'Potato Leek Soup Mild (m174)', 'Mushroom Soup Light (m1563)', 'Coleslaw Deluxe (m216)']",0.375
+user_39_dinner,dinner,Cucumber Salad (m1149),"['Cucumber Salad (m1149)', 'Panna Cotta Classic (m893)', 'Chicken Fried Rice Light (m1976)', 'Brownies Classic (m1346)']",0.45000000000000007
+user_40_snacks,snacks,Shrimp Salad (m1954),"['Shrimp Salad (m1954)', 'Waffles Deluxe (m1593)', 'Cupcakes Classic (m1793)', 'Chicken Alfredo Deluxe (m41)', 'Soy Milk Spicy (m1184)']",0.625
+user_41_dinner,dinner,Green Beans Light (m419),"['Green Beans Light (m419)', 'Caprese Salad Premium (m1629)', 'Hot and Sour Soup Special (m1905)', 'Onion Rings Premium (m1860)', 'Lamb Kebab Deluxe (m1839)']",0.46875
+user_42_snacks,snacks,Beef Carpaccio Special (m1827),"['Beef Carpaccio Special (m1827)', 'Cobb Salad (m230)', 'Egg Salad Light (m1250)', 'Quinoa Deluxe (m1366)']",0.1
+user_43_breakfast,breakfast,Fruit Smoothie Bowl Mild (m457),"['Fruit Smoothie Bowl Mild (m457)', 'Broccoli Cheddar Soup Mild (m1102)']",0.2375
+user_44_snacks,snacks,Potato Skins Light (m940),"['Potato Skins Light (m940)', 'Broccoli Cheddar Soup Light (m1092)', 'Beef Tacos Mild (m1271)']",0.2625
+user_45_snacks,snacks,Carrot Cake Spicy (m1887),"['Carrot Cake Spicy (m1887)', 'Chicken Alfredo Deluxe (m41)', 'Panna Cotta Special (m1549)', 'Croissant Premium (m1168)', 'Tiramisu (m1838)']",0.125
+user_46_snacks,snacks,Corn on the Cob Mild (m1503),"['Corn on the Cob Mild (m1503)', 'Potato Salad Premium (m170)', 'Beef Kebab Special (m1036)']",0.075
+user_47_lunch,lunch,Breakfast Tacos Mild (m1352),"['Breakfast Tacos Mild (m1352)', 'Pudding Light (m1552)', 'Fried Rice Premium (m775)', 'Red Velvet Cake Mild (m965)', 'Parfait Deluxe (m270)']",0.375
+user_48_snacks,snacks,Ice Cream (m340),"['Ice Cream (m340)', 'Cheese Platter Mild (m1169)']",0.425
+user_49_snacks,snacks,Lamb Chops Premium (m1876),"['Lamb Chops Premium (m1876)', 'Panna Cotta Special (m1177)']",0.2375
+user_50_lunch,lunch,Hash Browns Classic (m1718),"['Hash Browns Classic (m1718)', 'Fruit Salad Mild (m952)']",0.175
+user_51_dinner,dinner,Pork Fried Rice (m348),"['Pork Fried Rice (m348)', 'Bean Soup Light (m380)']",0.2375
+user_52_lunch,lunch,Grilled Zucchini Special (m268),"['Grilled Zucchini Special (m268)', 'Chicken Shawarma Mild (m515)', 'Ice Cream (m340)', 'Grilled Zucchini Light (m128)']",0.2875
+user_53_snacks,snacks,Nachos (m1953),"['Nachos (m1953)', 'Corn Chowder Mild (m783)', 'Macarons Special (m704)']",0.575
+user_54_snacks,snacks,Cobb Salad Light (m716),"['Cobb Salad Light (m716)', 'Grilled Eggplant Spicy (m522)', 'Nachos (m160)']",0.45
+user_55_dinner,dinner,Bean Soup Premium (m1936),"['Bean Soup Premium (m1936)', 'Corn Chowder Deluxe (m48)', 'Shrimp Salad Deluxe (m1089)', 'Sprite Spicy (m275)', 'Fish Tacos Light (m1614)']",0.5416666666666666
+user_56_snacks,snacks,Broccoli Cheddar Soup Mild (m203),"['Broccoli Cheddar Soup Mild (m203)', 'Scrambled Eggs Light (m740)', 'Fish Tacos Spicy (m1561)', 'Edamame Spicy (m1870)']",0.1
+user_57_dinner,dinner,Lentil Soup Premium (m1208),"['Lentil Soup Premium (m1208)', 'Couscous Mild (m714)']",0.125
+user_58_lunch,lunch,Veggie Burger Special (m1668),"['Veggie Burger Special (m1668)', 'Custard Mild (m1604)', 'Potato Salad Spicy (m1106)', 'Donut (m605)', 'Pumpkin Soup Special (m1766)']",0.34375
+user_59_dinner,dinner,Chicken Curry Deluxe (m687),"['Chicken Curry Deluxe (m687)', 'Gelato Special (m153)', 'Potato Skins Premium (m742)', 'BBQ Chicken Classic (m863)', 'Chocolate Cake Special (m8)']",0.34375
+user_60_snacks,snacks,Key Lime Pie Spicy (m1386),"['Key Lime Pie Spicy (m1386)', 'Tea Classic (m57)', 'Beef Burrito Classic (m1543)', 'Chocolate Mousse Special (m461)']",0.475
+user_61_snacks,snacks,Lamb Kebab Classic (m1750),"['Lamb Kebab Classic (m1750)', 'French Fries Spicy (m73)', 'Chocolate Milk Light (m1191)', 'Nicoise Salad Deluxe (m1602)']",0.2875
+user_62_breakfast,breakfast,Jalapeño Poppers Mild (m1767),"['Jalapeño Poppers Mild (m1767)', 'Hot and Sour Soup Mild (m478)']",0.2375
+user_63_breakfast,breakfast,Peach Tea Mild (m1686),"['Peach Tea Mild (m1686)', 'Scone Spicy (m1899)', 'Strawberry Smoothie (m133)']",0.3666666666666667
+user_64_lunch,lunch,Fried Rice Special (m1239),"['Fried Rice Special (m1239)', 'Pork Schnitzel Premium (m757)', 'Cheesecake Deluxe (m134)', 'Chicken Quesadilla Mild (m1786)', 'Taco Salad (m111)']",0.25
+user_65_breakfast,breakfast,Tuna Salad Special (m163),"['Tuna Salad Special (m163)', 'Grilled Eggplant Classic (m748)', 'Scone Spicy (m243)', 'Rice Pudding Deluxe (m1643)']",0.1
+user_66_snacks,snacks,Veggie Pizza Spicy (m1267),"['Veggie Pizza Spicy (m1267)', 'Corn Chowder Premium (m706)', 'Macarons Special (m292)', 'Gelato (m17)']",0.475
+user_67_snacks,snacks,Green Tea Special (m178),"['Green Tea Special (m178)', 'Bagel Spicy (m1705)', 'Shrimp Cocktail Mild (m1743)', 'Red Velvet Cake Mild (m965)']",0.6
+user_68_dinner,dinner,Grilled Eggplant Classic (m283),"['Grilled Eggplant Classic (m283)', 'Grilled Eggplant Spicy (m900)']",0.26875
+user_69_dinner,dinner,Clam Chowder Mild (m1818),"['Clam Chowder Mild (m1818)', 'Sorbet Classic (m855)', 'Pork Fried Rice Premium (m617)', 'Grilled Eggplant Premium (m903)', 'Lentil Soup Light (m77)']",0.47500000000000003
+user_70_lunch,lunch,Coleslaw Special (m1523),"['Coleslaw Special (m1523)', 'Sausage Mild (m120)', 'Oatmeal Special (m210)', 'Pudding Premium (m1749)', 'Cheesecake Deluxe (m134)']",0.25
+user_71_snacks,snacks,Spring Rolls Premium (m1252),"['Spring Rolls Premium (m1252)', 'Cereal Special (m616)', 'Waldorf Salad Mild (m1026)']",0.45
+user_72_breakfast,breakfast,Roasted Carrots Classic (m1729),"['Roasted Carrots Classic (m1729)', 'French Fries Mild (m769)', 'Churros Spicy (m1336)']",0.075
+user_73_dinner,dinner,Soy Milk Mild (m963),"['Soy Milk Mild (m963)', 'Edamame Classic (m1037)']",0.3625
+user_74_snacks,snacks,Grape Juice Mild (m1199),"['Grape Juice Mild (m1199)', 'Donut (m605)', 'Steamed Vegetables Mild (m1024)']",0.075
+user_75_lunch,lunch,Gelato Light (m1717),"['Gelato Light (m1717)', 'Onion Rings Classic (m1298)', 'Bean Soup Premium (m1936)', 'Cereal Special (m78)', 'Matcha Latte Classic (m1577)']",0.46875
+user_76_breakfast,breakfast,Sautéed Mushrooms Special (m1707),"['Sautéed Mushrooms Special (m1707)', 'Onion Rings Classic (m1350)', 'Crepes Light (m1162)', 'Broccoli Cheddar Soup Mild (m203)', 'Sprite (m1920)']",0.5
+user_77_snacks,snacks,Chocolate Cake (m1382),"['Chocolate Cake (m1382)', 'Split Pea Soup Spicy (m411)', 'Bagel Premium (m1343)', 'Mediterranean Salad (m313)', 'Beef Stroganoff Special (m1068)']",0.125
+user_78_dinner,dinner,Yogurt Spicy (m1927),"['Yogurt Spicy (m1927)', 'Yams Special (m1005)', 'Beef Stew Spicy (m899)']",0.35625
+user_79_snacks,snacks,French Toast Deluxe (m652),"['French Toast Deluxe (m652)', 'Pasta Salad Spicy (m1449)', 'Ratatouille Premium (m1649)', 'Arugula Salad Mild (m329)', 'Cucumber Salad (m1149)']",0.125
+user_80_snacks,snacks,Quinoa Salad Mild (m1338),"['Quinoa Salad Mild (m1338)', 'Ice Cream Spicy (m1693)']",0.05
+user_81_breakfast,breakfast,Pho Spicy (m1531),"['Pho Spicy (m1531)', 'Macarons Premium (m1845)', 'Pasta Salad Light (m1446)', 'Croissant Premium (m1826)', 'Yogurt Premium (m1282)']",0.5625
+user_82_lunch,lunch,Corn Chowder Light (m1119),"['Corn Chowder Light (m1119)', 'Mushroom Soup Light (m1218)']",0.2375
+user_83_lunch,lunch,Beef Steak Premium (m915),"['Beef Steak Premium (m915)', 'Cappuccino Light (m1708)', 'Lamb Chops Light (m1042)', 'Yogurt Premium (m99)']",0.5166666666666666
+user_84_dinner,dinner,Grilled Zucchini Classic (m1055),"['Grilled Zucchini Classic (m1055)', 'Tuna Salad Classic (m781)', 'Smoothie Deluxe (m1091)']",0.22500000000000003
+user_85_dinner,dinner,Coleslaw Deluxe (m216),"['Coleslaw Deluxe (m216)', 'Fruit Salad Special (m786)']",0.3
+user_86_dinner,dinner,Cheesecake Deluxe (m565),"['Cheesecake Deluxe (m565)', 'Spinach Artichoke Dip Deluxe (m1940)', 'Cola Mild (m1193)', 'Chocolate Mousse Classic (m1190)']",0.225
+user_87_breakfast,breakfast,Cobbler Premium (m1570),"['Cobbler Premium (m1570)', 'Beef Stroganoff Mild (m464)', 'Prosciutto Melon Spicy (m342)', 'Mediterranean Salad Classic (m1971)']",0.5375
+user_88_dinner,dinner,Soy Milk Spicy (m1184),"['Soy Milk Spicy (m1184)', 'Deviled Eggs Premium (m172)', 'Chicken Fried Rice Premium (m248)', 'Apple Juice Mild (m158)', 'Chicken Tortilla Soup Deluxe (m1254)']",0.5416666666666666
+user_89_breakfast,breakfast,Deviled Eggs Premium (m1112),"['Deviled Eggs Premium (m1112)', 'Prosciutto Melon Classic (m635)', 'Grilled Salmon Mild (m946)', 'Biscuits and Gravy Classic (m217)']",0.475
+user_90_dinner,dinner,Mango Juice Spicy (m1967),"['Mango Juice Spicy (m1967)', 'Cucumber Salad Deluxe (m827)', 'Gelato Spicy (m867)', 'Chicken Rice Soup Special (m1165)']",0.44375
+user_91_lunch,lunch,Bagel Classic (m218),"['Bagel Classic (m218)', 'Arugula Salad Special (m1735)', 'Iced Tea (m199)', 'Shrimp Salad Deluxe (m1089)', 'Chef Salad Spicy (m1008)']",0.375
+user_92_breakfast,breakfast,Hot and Sour Soup Spicy (m1278),"['Hot and Sour Soup Spicy (m1278)', 'Egg Salad Spicy (m1394)']",0.21666666666666667
+user_93_lunch,lunch,Caesar Salad Mild (m1015),"['Caesar Salad Mild (m1015)', 'Nicoise Salad Deluxe (m1602)']",0.21666666666666667
+user_94_snacks,snacks,Hash Browns Special (m1050),"['Hash Browns Special (m1050)', 'Bean Soup Light (m380)']",0.05
+user_95_lunch,lunch,Cranberry Juice Mild (m1125),"['Cranberry Juice Mild (m1125)', 'Chicken Shawarma Mild (m801)', 'Egg Salad Light (m1250)', 'Scone Light (m406)', 'Baklava Deluxe (m990)']",0.4583333333333333
+user_96_breakfast,breakfast,Pork Fried Rice Classic (m707),"['Pork Fried Rice Classic (m707)', 'Bruschetta Special (m1997)', 'Crème Brûlée Classic (m488)']",0.2625
+user_97_lunch,lunch,Potato Salad (m1758),"['Potato Salad (m1758)', 'Roasted Carrots Special (m854)', 'Bacon Wrapped Dates Classic (m563)']",0.3666666666666667
+user_98_snacks,snacks,Chicken Fried Rice Premium (m248),"['Chicken Fried Rice Premium (m248)', 'Coleslaw Spicy (m967)']",0.425
+user_99_snacks,snacks,Oat Milk Special (m1805),"['Oat Milk Special (m1805)', 'Hummus with Pita Special (m1181)', 'Steamed Vegetables Premium (m387)']",0.5125
+user_100_snacks,snacks,Edamame Classic (m428),"['Edamame Classic (m428)', 'Pasta Carbonara (m847)', 'Spring Rolls Premium (m685)']",0.575
+user_101_dinner,dinner,Cereal Special (m78),"['Cereal Special (m78)', 'Chicken Souvlaki Spicy (m618)', 'Tater Tots Light (m1075)']",0.3875
+user_102_lunch,lunch,Espresso Spicy (m1011),"['Espresso Spicy (m1011)', 'Cupcakes Classic (m1793)']",0.175
+user_103_lunch,lunch,Clam Chowder Classic (m537),"['Clam Chowder Classic (m537)', 'Butternut Squash Soup Special (m1061)']",0.26875
+user_104_lunch,lunch,Spinach Salad Deluxe (m1474),"['Spinach Salad Deluxe (m1474)', 'Chocolate Mousse Classic (m1273)']",0.2375
+user_105_lunch,lunch,Kale Salad Light (m735),"['Kale Salad Light (m735)', 'Garden Salad Light (m888)']",0.5083333333333333
+user_106_dinner,dinner,Pancakes Deluxe (m1666),"['Pancakes Deluxe (m1666)', 'Waldorf Salad Light (m1347)']",0.175
+user_107_snacks,snacks,Mashed Potatoes Classic (m1313),"['Mashed Potatoes Classic (m1313)', 'Shrimp Scampi Classic (m1880)']",0.05
+user_108_breakfast,breakfast,Bagel Classic (m218),"['Bagel Classic (m218)', 'Brussels Sprouts Special (m1998)', 'Brownies Mild (m1028)']",0.2625
+user_109_lunch,lunch,Hummus with Pita Deluxe (m1417),"['Hummus with Pita Deluxe (m1417)', 'Gelato (m22)']",0.3
+user_110_breakfast,breakfast,Cookies Special (m1080),"['Cookies Special (m1080)', 'Mashed Potatoes Classic (m896)', 'Churros Premium (m1745)', 'Kale Salad Light (m735)']",0.5166666666666666
+user_111_lunch,lunch,Cheesecake Special (m1054),"['Cheesecake Special (m1054)', 'Cinnamon Roll Spicy (m751)']",0.175
+user_112_dinner,dinner,Chicken Shawarma Deluxe (m1715),"['Chicken Shawarma Deluxe (m1715)', 'Tater Tots Light (m1075)']",0.27499999999999997
+user_113_snacks,snacks,Churros Spicy (m1336),"['Churros Spicy (m1336)', 'Chicken Salad Spicy (m1468)', 'Broccoli Cheddar Soup Spicy (m539)', 'Chicken Tikka Masala Mild (m1116)', 'Buffalo Wings Special (m1836)']",0.3125
+user_114_dinner,dinner,Danish Premium (m1685),"['Danish Premium (m1685)', 'Spinach Artichoke Dip Deluxe (m1940)', 'Potato Salad Spicy (m1943)']",0.22500000000000003
+user_115_dinner,dinner,Mousse Premium (m62),"['Mousse Premium (m62)', 'Butternut Squash Soup Light (m338)']",0.175
+user_116_dinner,dinner,Breakfast Burrito Special (m680),"['Breakfast Burrito Special (m680)', 'Sprite (m1920)', 'Oysters Classic (m256)', 'Caesar Salad Light (m1539)']",0.4125
+user_117_breakfast,breakfast,Couscous Classic (m1639),"['Couscous Classic (m1639)', 'Beef Stew Deluxe (m812)', 'Tuna Tartare Mild (m1128)']",0.5125
+user_118_breakfast,breakfast,Cinnamon Roll Light (m1651),"['Cinnamon Roll Light (m1651)', 'Yams Deluxe (m1751)']",0.2375
+user_119_dinner,dinner,Muffin (m144),"['Muffin (m144)', 'Caprese Salad Spicy (m1963)', 'Crepes Mild (m1632)']",0.075
+user_120_lunch,lunch,Split Pea Soup Mild (m1992),"['Split Pea Soup Mild (m1992)', 'Cobb Salad Classic (m1475)', 'Beef Carpaccio Special (m1827)', 'Beef Stew Spicy (m899)']",0.5166666666666666
+user_121_lunch,lunch,Milk Special (m1243),"['Milk Special (m1243)', 'Fruit Punch Special (m1052)', 'Panna Cotta Premium (m90)']",0.24166666666666667
+user_122_dinner,dinner,Samosas Spicy (m1807),"['Samosas Spicy (m1807)', 'Shrimp Cocktail Special (m980)', 'Garden Salad Light (m888)', 'Beef Carpaccio (m917)', 'Waldorf Salad (m1808)']",0.29166666666666663
+user_123_snacks,snacks,Gazpacho Mild (m1040),"['Gazpacho Mild (m1040)', 'French Fries Light (m692)']",0.05
+user_124_lunch,lunch,Pork Ribs Classic (m1566),"['Pork Ribs Classic (m1566)', 'French Fries Spicy (m73)']",0.05
+user_125_snacks,snacks,Panna Cotta Special (m1549),"['Panna Cotta Special (m1549)', 'Kale Salad Deluxe (m1303)']",0.2375
+user_126_breakfast,breakfast,Grape Juice Spicy (m609),"['Grape Juice Spicy (m609)', 'Stuffed Mushrooms Special (m1677)', 'Gazpacho Spicy (m877)']",0.2625
+user_127_breakfast,breakfast,Roasted Carrots Special (m854),"['Roasted Carrots Special (m854)', 'Chocolate Cake Special (m8)']",0.2375
+user_128_dinner,dinner,Crème Brûlée Premium (m634),"['Crème Brûlée Premium (m634)', 'Cappuccino Light (m1708)', 'Pudding Premium (m873)', 'Beef Stew Light (m1741)', 'Calamari Light (m1213)']",0.45000000000000007
+user_129_snacks,snacks,Hot and Sour Soup (m1823),"['Hot and Sour Soup (m1823)', 'Lamb Chops Special (m755)', 'Hash Browns Light (m736)', 'Ramen (m1752)']",0.2875
+user_130_dinner,dinner,Potato Skins Spicy (m1163),"['Potato Skins Spicy (m1163)', 'Cauliflower Mash Deluxe (m101)', 'Grilled Eggplant Light (m1328)', 'Oat Milk Special (m1805)']",0.31875
+user_131_breakfast,breakfast,Yams Mild (m538),"['Yams Mild (m538)', 'Chicken Rice Soup Deluxe (m1825)', 'Clam Chowder Classic (m537)', 'Prosciutto Melon Light (m1408)']",0.225
+user_132_dinner,dinner,Rice Noodles Light (m1465),"['Rice Noodles Light (m1465)', 'Tater Tots Light (m1075)', 'Iced Coffee Deluxe (m407)', 'Deviled Eggs Premium (m172)', 'Chocolate Cake Special (m8)']",0.47500000000000003
+user_133_dinner,dinner,Lentil Soup Deluxe (m681),"['Lentil Soup Deluxe (m681)', 'Chocolate Milk Deluxe (m1978)', 'Green Beans (m325)']",0.35625
+user_134_lunch,lunch,Nicoise Salad Mild (m1578),"['Nicoise Salad Mild (m1578)', 'Carrot Cake Spicy (m1301)']",0.2375
+user_135_snacks,snacks,Ratatouille Spicy (m1698),"['Ratatouille Spicy (m1698)', 'Baked Potato Special (m413)', 'Breakfast Burrito Spicy (m628)']",0.075
+user_136_lunch,lunch,Lentil Soup Light (m77),"['Lentil Soup Light (m77)', 'Mac and Cheese Spicy (m1062)', 'Chicken Rice Soup (m1451)', 'Goat Cheese Crostini Classic (m1064)', 'Caprese Salad Premium (m1923)']",0.4583333333333333
+user_137_breakfast,breakfast,Matcha Latte (m1744),"['Matcha Latte (m1744)', 'Fried Rice Deluxe (m1195)']",0.3416666666666667
+user_138_breakfast,breakfast,Calamari (m816),"['Calamari (m816)', 'Pork Tenderloin Special (m1791)']",0.05
+user_139_breakfast,breakfast,Panna Cotta Light (m524),"['Panna Cotta Light (m524)', 'Arugula Salad Special (m1735)', 'Vegetable Soup Spicy (m804)']",0.24166666666666667
+user_140_snacks,snacks,Muffin (m498),"['Muffin (m498)', 'Rice Pudding Mild (m76)', 'Asparagus Premium (m1529)', 'Falafel Wrap Light (m1931)', 'Coleslaw Special (m1523)']",0.625
+user_141_dinner,dinner,Croissant Classic (m483),"['Croissant Classic (m483)', 'Fruit Salad Mild (m952)', 'Gazpacho Mild (m155)', 'Edamame Classic (m1037)', 'Beef Carpaccio Special (m66)']",0.4375
+user_142_lunch,lunch,Garlic Bread Special (m1645),"['Garlic Bread Special (m1645)', 'Crème Brûlée Mild (m1530)', 'Bagel Light (m106)', 'Muffin Premium (m1888)', 'Split Pea Soup Deluxe (m394)']",0.5416666666666666
+user_143_breakfast,breakfast,Polenta (m768),"['Polenta (m768)', 'Beef Stew (m686)', 'Onion Rings Deluxe (m851)']",0.24166666666666667
+user_144_snacks,snacks,Broccoli Cheddar Soup Light (m423),"['Broccoli Cheddar Soup Light (m423)', 'Pad Thai Light (m250)']",0.05
+user_145_breakfast,breakfast,Chicken Skewers Mild (m879),"['Chicken Skewers Mild (m879)', 'Vegetable Soup Mild (m794)']",0.05
+user_146_snacks,snacks,Scrambled Eggs Light (m650),"['Scrambled Eggs Light (m650)', 'Mushroom Soup Light (m1504)', 'Steak Fajitas Light (m528)', 'Danish Mild (m536)', 'Fish Tacos Classic (m286)']",0.3125
+user_147_breakfast,breakfast,Fried Rice Premium (m775),"['Fried Rice Premium (m775)', 'Tuna Salad Deluxe (m403)', 'Mashed Potatoes Light (m1587)', 'Lobster Bisque Mild (m1558)']",0.1
+user_148_dinner,dinner,Buffalo Wings Classic (m608),"['Buffalo Wings Classic (m608)', 'Lemonade Light (m1432)', 'Fish Tacos Classic (m631)', 'Mashed Potatoes Deluxe (m695)']",0.5375
+user_149_lunch,lunch,Crème Brûlée Deluxe (m1047),"['Crème Brûlée Deluxe (m1047)', 'Bagel Spicy (m147)', 'Muffin Mild (m1955)']",0.16875
+user_150_breakfast,breakfast,Corn on the Cob Spicy (m1596),"['Corn on the Cob Spicy (m1596)', 'Potato Leek Soup Light (m785)', 'Spinach Artichoke Dip Spicy (m1001)']",0.3666666666666667
+user_151_snacks,snacks,Soy Milk Deluxe (m585),"['Soy Milk Deluxe (m585)', 'Cookies Spicy (m493)']",0.425
+user_152_dinner,dinner,Baked Potato Mild (m673),"['Baked Potato Mild (m673)', 'Cinnamon Roll Premium (m762)', 'Broccoli Cheddar Soup Spicy (m315)']",0.15000000000000002
+user_153_dinner,dinner,Muffin Spicy (m884),"['Muffin Spicy (m884)', 'Ice Cream Spicy (m244)', 'Stuffed Mushrooms Special (m544)']",0.2
+user_154_dinner,dinner,Beef Steak Special (m1393),"['Beef Steak Special (m1393)', 'Tomato Soup Premium (m1520)']",0.2375
+user_155_lunch,lunch,Sprite (m1920),"['Sprite (m1920)', 'Pho Mild (m497)', 'Croissant Special (m1814)', 'Grilled Salmon Deluxe (m645)']",0.35
+user_156_lunch,lunch,Americano Classic (m1359),"['Americano Classic (m1359)', 'French Fries Light (m400)', 'Gelato Mild (m1821)', 'Chicken Salad Deluxe (m1770)']",0.5166666666666666
+user_157_lunch,lunch,Pudding Deluxe (m1281),"['Pudding Deluxe (m1281)', 'Sorbet Deluxe (m1941)', 'Lamb Chops (m623)', 'Oysters Premium (m308)', 'Cola Mild (m356)']",0.5
+user_158_snacks,snacks,Shrimp Scampi Spicy (m818),"['Shrimp Scampi Spicy (m818)', 'Donut (m1348)']",0.05
+user_159_lunch,lunch,Smoothie Spicy (m179),"['Smoothie Spicy (m179)', 'Beef Carpaccio Special (m66)', 'Hot and Sour Soup Special (m701)', 'Pork Fried Rice Classic (m707)']",0.39166666666666666
+user_160_snacks,snacks,Grilled Eggplant Light (m1328),"['Grilled Eggplant Light (m1328)', 'Peach Tea Deluxe (m4)', 'Pineapple Juice Premium (m713)', 'Chocolate Cake Classic (m1637)', 'Wild Rice Deluxe (m1994)']",0.5
+user_161_lunch,lunch,Tuna Tartare Spicy (m1404),"['Tuna Tartare Spicy (m1404)', 'Jalapeño Poppers Deluxe (m1619)', 'Toast (m817)', 'BBQ Chicken Special (m1736)']",0.2875
+user_162_lunch,lunch,BBQ Chicken Classic (m863),"['BBQ Chicken Classic (m863)', 'Beef Kebab Classic (m449)', 'Mozzarella Sticks Premium (m989)']",0.2
+user_163_dinner,dinner,Sausage Deluxe (m156),"['Sausage Deluxe (m156)', 'Nachos Classic (m1886)', 'Greek Salad Light (m490)', 'Wild Rice (m798)']",0.19375
+user_164_breakfast,breakfast,Pork Ribs Premium (m1819),"['Pork Ribs Premium (m1819)', 'Ratatouille Mild (m1737)']",0.3
+user_165_dinner,dinner,Pork Chops Classic (m126),"['Pork Chops Classic (m126)', 'Quinoa Salad (m1043)', 'Taco Salad Special (m385)', 'Bagel Premium (m1343)', 'Carrot Cake Spicy (m1887)']",0.5
+user_166_breakfast,breakfast,Potato Skins Mild (m186),"['Potato Skins Mild (m186)', 'Fruit Punch Light (m1712)', 'Baked Potato Mild (m673)']",0.2625
+user_167_breakfast,breakfast,Creamed Spinach Spicy (m89),"['Creamed Spinach Spicy (m89)', 'Iced Tea Premium (m1841)']",0.3
+user_168_dinner,dinner,Split Pea Soup Mild (m1992),"['Split Pea Soup Mild (m1992)', 'French Fries (m642)', 'Hot and Sour Soup Spicy (m1241)', 'Cobbler Spicy (m123)', 'Polenta Light (m438)']",0.34375
+user_169_lunch,lunch,Onion Rings (m311),"['Onion Rings (m311)', 'Breakfast Burrito Special (m680)', 'Spring Rolls Special (m232)', 'Mac and Cheese Spicy (m1062)', 'Dumplings Spicy (m978)']",0.125
+user_170_breakfast,breakfast,Potato Skins Light (m940),"['Potato Skins Light (m940)', 'Butternut Squash Soup Light (m338)', 'Caprese Salad Premium (m947)', 'Ice Cream Classic (m1977)']",0.1
+user_171_lunch,lunch,Roasted Vegetables Spicy (m1248),"['Roasted Vegetables Spicy (m1248)', 'Mushroom Soup Classic (m1583)', 'Pepsi (m254)']",0.325
+user_172_breakfast,breakfast,Yams Mild (m538),"['Yams Mild (m538)', 'Carrot Ginger Soup Classic (m130)']",0.05
+user_173_lunch,lunch,Chef Salad Classic (m432),"['Chef Salad Classic (m432)', 'Chicken Rice Soup Special (m1165)', 'Vanilla Latte Spicy (m633)', 'Fruit Tart Classic (m516)', 'Cola Deluxe (m204)']",0.5625
+user_174_dinner,dinner,Mozzarella Sticks Spicy (m1636),"['Mozzarella Sticks Spicy (m1636)', 'Cucumber Salad Spicy (m665)', 'Green Beans Spicy (m1124)']",0.16875
+user_175_snacks,snacks,Lemonade (m996),"['Lemonade (m996)', 'French Fries Mild (m13)']",0.2375
+user_176_lunch,lunch,Nachos Premium (m1226),"['Nachos Premium (m1226)', 'Coleslaw Premium (m979)', 'Green Tea Premium (m1533)']",0.2625
+user_177_dinner,dinner,Cappuccino Deluxe (m1069),"['Cappuccino Deluxe (m1069)', 'Iced Tea Deluxe (m127)', 'Ice Cream Spicy (m244)', 'Panna Cotta Light (m524)', 'Raspberry Lemonade (m445)']",0.29166666666666663
+user_178_breakfast,breakfast,French Fries Deluxe (m758),"['French Fries Deluxe (m758)', 'Greek Salad Deluxe (m1384)', 'Pork Ribs Premium (m856)', 'Spinach Artichoke Dip Premium (m214)']",0.35
+user_179_dinner,dinner,Wild Rice (m798),"['Wild Rice (m798)', 'Sausage Spicy (m1795)']",0.2
+user_180_breakfast,breakfast,Pork Fried Rice Light (m1896),"['Pork Fried Rice Light (m1896)', 'Rice Pudding Premium (m1867)']",0.05
+user_181_dinner,dinner,Yogurt Spicy (m1014),"['Yogurt Spicy (m1014)', 'Hummus with Pita Mild (m166)', 'Pork Fried Rice Light (m1896)', 'Prosciutto Melon Deluxe (m176)', 'Steak Fajitas Classic (m1265)']",0.30000000000000004
+user_182_breakfast,breakfast,Lasagna Special (m1859),"['Lasagna Special (m1859)', 'English Muffin Light (m11)', 'Onion Rings Classic (m1350)', 'Beef Stew (m709)']",0.5166666666666666
+user_183_breakfast,breakfast,Vanilla Latte Special (m1400),"['Vanilla Latte Special (m1400)', 'Tuna Salad Spicy (m1774)', 'Broccoli Cheddar Soup Mild (m865)', 'Dumplings Light (m514)', 'Crème Brûlée Classic (m562)']",0.3125
+user_184_dinner,dinner,Vegetable Soup Classic (m1988),"['Vegetable Soup Classic (m1988)', 'Lamb Kebab Deluxe (m1851)']",0.2375
+user_185_lunch,lunch,Fish Tacos Special (m1659),"['Fish Tacos Special (m1659)', 'Vegetable Soup Premium (m1679)', 'Pasta Salad Mild (m1878)']",0.45
+user_186_dinner,dinner,Kale Salad Mild (m1353),"['Kale Salad Mild (m1353)', 'Tomato Soup Premium (m1081)', 'Grape Juice Mild (m1199)', 'Tuna Salad Classic (m1160)', 'Fried Pickles Classic (m1650)']",0.34375
+user_187_breakfast,breakfast,Parfait Spicy (m1642),"['Parfait Spicy (m1642)', 'Mango Juice Spicy (m1967)', 'Bacon Wrapped Dates Spicy (m65)', 'Chocolate Mousse Special (m1534)', 'Tuna Tartare (m1375)']",0.3125
+user_188_breakfast,breakfast,Parfait (m1293),"['Parfait (m1293)', 'Pepsi Light (m1754)', 'Ginger Ale (m1515)']",0.24166666666666667
+user_189_breakfast,breakfast,Lemonade (m913),"['Lemonade (m913)', 'Yogurt Premium (m30)', 'Cranberry Juice Classic (m575)', 'Iced Coffee Spicy (m1230)']",0.39166666666666666
+user_190_lunch,lunch,Couscous Light (m1763),"['Couscous Light (m1763)', 'Beef Lo Mein Premium (m1624)', 'Vegetable Soup Deluxe (m1634)', 'Banana Smoothie Classic (m1194)']",0.475
+user_191_lunch,lunch,Coleslaw Special (m1523),"['Coleslaw Special (m1523)', 'Tuna Tartare Mild (m1724)', 'Bean Soup Classic (m1439)']",0.45
+user_192_lunch,lunch,Pasta Salad Spicy (m1449),"['Pasta Salad Spicy (m1449)', 'Shrimp Cocktail (m1469)', 'Meatloaf Spicy (m831)', 'Butternut Squash Soup Spicy (m576)']",0.35
+user_193_breakfast,breakfast,Mac and Cheese Premium (m124),"['Mac and Cheese Premium (m124)', 'Roasted Vegetables Special (m224)']",0.2375
+user_194_breakfast,breakfast,Cheese Platter Special (m131),"['Cheese Platter Special (m131)', 'Cola Classic (m1704)']",0.2375
+user_195_snacks,snacks,Steamed Vegetables Classic (m1022),"['Steamed Vegetables Classic (m1022)', 'Bruschetta Mild (m1010)', 'Meatball Sub Light (m1155)', 'Pork Tenderloin Deluxe (m1844)', 'Beef Stew (m1615)']",0.125
+user_196_snacks,snacks,Hot and Sour Soup Spicy (m1278),"['Hot and Sour Soup Spicy (m1278)', 'Tres Leches Cake Special (m1358)', 'Green Beans (m325)']",0.075
+user_197_lunch,lunch,Pad Thai (m983),"['Pad Thai (m983)', 'Greek Salad Special (m505)', 'Cobb Salad Deluxe (m586)', 'Water (m1398)', 'Caesar Salad Premium (m1573)']",0.5416666666666666
+user_198_snacks,snacks,Beef Burrito Classic (m1543),"['Beef Burrito Classic (m1543)', 'Cupcakes Mild (m1076)', 'Herbal Tea Light (m371)', 'Clams Casino Deluxe (m1565)', 'Wild Rice Deluxe (m1994)']",0.5625
+user_199_snacks,snacks,Chicken Salad Classic (m1656),"['Chicken Salad Classic (m1656)', 'English Muffin (m353)', 'Herbal Tea Classic (m756)', 'Vegetable Soup Spicy (m700)']",0.475
+user_200_breakfast,breakfast,Roasted Vegetables Special (m247),"['Roasted Vegetables Special (m247)', 'Cupcakes Premium (m518)', 'Deviled Eggs Mild (m770)', 'Taco Salad Premium (m260)', 'Fruit Smoothie Bowl Classic (m1435)']",0.41666666666666663
+user_201_breakfast,breakfast,Lemonade (m996),"['Lemonade (m996)', 'Mediterranean Salad Mild (m1355)', 'Potato Salad Special (m1864)', 'Scrambled Eggs Light (m650)', 'Pasta Carbonara (m847)']",0.5
+user_202_dinner,dinner,Caesar Salad Mild (m1129),"['Caesar Salad Mild (m1129)', 'Breakfast Potatoes Classic (m1901)']",0.05
+user_203_lunch,lunch,Beef Steak (m1607),"['Beef Steak (m1607)', 'Gazpacho Mild (m1040)', 'Smoothie (m1016)', 'Fried Pickles Spicy (m1020)', 'Egg Salad Spicy (m1879)']",0.375
+user_204_lunch,lunch,Brussels Sprouts Spicy (m436),"['Brussels Sprouts Spicy (m436)', 'Mushroom Soup Light (m1442)', 'Quiche Light (m1251)']",0.24166666666666667
+user_205_dinner,dinner,Cheese Platter Special (m131),"['Cheese Platter Special (m131)', 'Tuna Tartare Special (m1276)']",0.125
+user_206_dinner,dinner,Pho Mild (m497),"['Pho Mild (m497)', 'Yogurt Premium (m99)', 'Quiche Premium (m239)']",0.22500000000000003
+user_207_dinner,dinner,Sausage Mild (m120),"['Sausage Mild (m120)', 'Bread Pudding Premium (m693)', 'Americano Spicy (m1862)', 'Fruit Tart Deluxe (m1170)']",0.2875
+user_208_breakfast,breakfast,Fish Tacos Mild (m1756),"['Fish Tacos Mild (m1756)', 'Fish Curry Mild (m1235)', 'Cupcakes Classic (m1793)', 'Gazpacho Light (m433)', 'Tomato Soup Classic (m1203)']",0.375
+user_209_breakfast,breakfast,Panna Cotta Premium (m1430),"['Panna Cotta Premium (m1430)', 'Bean Soup (m1261)', 'Pad Thai Spicy (m1329)', 'Milk Spicy (m982)']",0.26666666666666666
+user_210_lunch,lunch,Macarons Premium (m132),"['Macarons Premium (m132)', 'Shrimp Cocktail (m912)', 'Shrimp Scampi Spicy (m818)', 'Breakfast Sandwich Spicy (m1078)']",0.225
+user_211_snacks,snacks,Ginger Ale Deluxe (m415),"['Ginger Ale Deluxe (m415)', 'Orange Juice Mild (m1365)', 'Roasted Carrots Classic (m1612)']",0.075
+user_212_dinner,dinner,Breakfast Potatoes Light (m1648),"['Breakfast Potatoes Light (m1648)', 'Chicken Alfredo Premium (m591)', 'Fruit Salad Special (m786)', 'Gazpacho Light (m433)']",0.50625
+user_213_snacks,snacks,Smoothie Spicy (m179),"['Smoothie Spicy (m179)', 'Lentil Soup Special (m1166)', 'Fried Pickles Classic (m1650)']",0.2625
+user_214_lunch,lunch,Grilled Zucchini Classic (m1779),"['Grilled Zucchini Classic (m1779)', 'Buffalo Wings (m502)', 'Pepsi Classic (m1893)', 'Jalapeño Poppers Premium (m145)', 'Fruit Salad Special (m1025)']",0.4583333333333333
+user_215_lunch,lunch,Yogurt Classic (m1),"['Yogurt Classic (m1)', 'Nachos (m160)', 'Split Pea Soup Mild (m927)']",0.2625
+user_216_breakfast,breakfast,Cappuccino Mild (m393),"['Cappuccino Mild (m393)', 'Spinach Salad Deluxe (m1474)']",0.425
+user_217_snacks,snacks,Pumpkin Soup Light (m1746),"['Pumpkin Soup Light (m1746)', 'Clams Casino Light (m507)']",0.425
+user_218_breakfast,breakfast,Matcha Latte Premium (m197),"['Matcha Latte Premium (m197)', 'Veggie Burger Premium (m1812)']",0.2375
+user_219_breakfast,breakfast,Clam Chowder Special (m1461),"['Clam Chowder Special (m1461)', 'Grilled Zucchini Classic (m1779)']",0.3
+user_220_dinner,dinner,Beef Stew Spicy (m899),"['Beef Stew Spicy (m899)', 'Green Beans Spicy (m487)', 'Breakfast Tacos Deluxe (m1681)', 'Chef Salad Mild (m365)', 'Breakfast Sandwich Mild (m984)']",0.46875
+user_221_dinner,dinner,Chicken Rice Soup Mild (m1017),"['Chicken Rice Soup Mild (m1017)', 'Lemonade Premium (m115)']",0.175
+user_222_lunch,lunch,Asparagus Deluxe (m1676),"['Asparagus Deluxe (m1676)', 'Greek Salad Special (m505)', 'Lentil Soup Deluxe (m1238)']",0.325
+user_223_breakfast,breakfast,Lamb Chops Mild (m104),"['Lamb Chops Mild (m104)', 'Baked Beans Mild (m1647)', 'Ginger Ale Deluxe (m415)']",0.2625
+user_224_breakfast,breakfast,Caprese Salad Deluxe (m1733),"['Caprese Salad Deluxe (m1733)', 'Crème Brûlée Special (m619)', 'Oat Milk Deluxe (m1141)', 'Pork Fried Rice Premium (m617)', 'Cheese Platter Spicy (m895)']",0.375
+user_225_snacks,snacks,Coleslaw Premium (m979),"['Coleslaw Premium (m979)', 'Bacon Mild (m1318)', 'Sliders Classic (m194)', 'Caprese Salad Light (m1466)']",0.2875
+user_226_snacks,snacks,French Onion Soup (m1224),"['French Onion Soup (m1224)', 'Burger Premium (m1613)', 'Fruit Bowl Special (m1831)', 'Beef Burrito Special (m1829)', 'Mushroom Soup Light (m603)']",0.3125
+user_227_snacks,snacks,Avocado Toast Special (m962),"['Avocado Toast Special (m962)', 'Cheesecake Special (m1787)']",0.05
+user_228_snacks,snacks,Coffee Deluxe (m221),"['Coffee Deluxe (m221)', 'Cobbler Light (m1340)', 'Edamame (m836)']",0.45
+user_229_dinner,dinner,Burger Spicy (m326),"['Burger Spicy (m326)', 'Beef Steak Premium (m67)']",0.175
+user_230_dinner,dinner,Falafel Wrap Mild (m638),"['Falafel Wrap Mild (m638)', 'Biscuits and Gravy Light (m1987)', 'Pasta Salad Spicy (m541)', 'Pork Fried Rice Classic (m707)', 'Apple Juice Mild (m158)']",0.375
+user_231_lunch,lunch,Mediterranean Salad Spicy (m1234),"['Mediterranean Salad Spicy (m1234)', 'Ice Cream Classic (m1977)', 'Mushroom Soup Light (m603)', 'Chef Salad Special (m1403)', 'Ramen Light (m1412)']",0.4583333333333333
+user_232_lunch,lunch,Espresso Deluxe (m165),"['Espresso Deluxe (m165)', 'Brownies Mild (m425)', 'Cookies Special (m1463)', 'Bruschetta (m721)']",0.19375
+user_233_breakfast,breakfast,Greek Salad Classic (m1798),"['Greek Salad Classic (m1798)', 'Mushroom Soup Light (m1442)', 'Danish Premium (m1685)']",0.2625
+user_234_dinner,dinner,Pho (m1151),"['Pho (m1151)', 'Falafel Wrap Deluxe (m1784)', 'Green Beans Classic (m949)', 'Crème Brûlée Light (m1479)', 'Water Spicy (m1640)']",0.5625
+user_235_dinner,dinner,Fruit Bowl Light (m188),"['Fruit Bowl Light (m188)', 'Chicken Skewers Light (m1703)', 'Cheese Platter Mild (m1169)', 'Deviled Eggs Mild (m259)', 'Espresso Deluxe (m196)']",0.275
+user_236_lunch,lunch,Yogurt Premium (m30),"['Yogurt Premium (m30)', 'Scrambled Eggs Mild (m1275)', 'Wild Rice Spicy (m906)', 'Potato Skins Premium (m742)', 'Chocolate Mousse Light (m1268)']",0.25
+user_237_dinner,dinner,Broccoli Cheddar Soup Light (m1092),"['Broccoli Cheddar Soup Light (m1092)', 'Chicken Enchiladas Light (m1603)', 'Lasagna Special (m1859)']",0.29375
+user_238_dinner,dinner,Biscuits and Gravy Classic (m1053),"['Biscuits and Gravy Classic (m1053)', 'Grilled Chicken Classic (m396)']",0.14375
+user_239_dinner,dinner,Gelato Deluxe (m1397),"['Gelato Deluxe (m1397)', 'Cinnamon Roll Light (m1207)', 'Hot and Sour Soup Spicy (m581)', 'Fruit Smoothie Bowl Light (m838)', 'Tater Tots Mild (m1118)']",0.21875
+user_240_dinner,dinner,Cheesecake Deluxe (m1156),"['Cheesecake Deluxe (m1156)', 'Potato Salad Mild (m1209)']",0.2375
+user_241_dinner,dinner,Vegetable Soup Spicy (m1773),"['Vegetable Soup Spicy (m1773)', 'Gelato Mild (m1821)']",0.05
+user_242_snacks,snacks,Panna Cotta Light (m524),"['Panna Cotta Light (m524)', 'Shrimp Salad Classic (m1041)']",0.425
+user_243_lunch,lunch,Cobbler Classic (m936),"['Cobbler Classic (m936)', 'Samosas Premium (m935)', 'Chicken Skewers Classic (m1672)', 'Chicken Skewers Spicy (m100)']",0.31875
+user_244_snacks,snacks,Shrimp Cocktail (m1469),"['Shrimp Cocktail (m1469)', 'Steak Fajitas Light (m528)', 'Potato Skins Premium (m1872)', 'Waldorf Salad Spicy (m697)', 'Fruit Punch Premium (m767)']",0.3125
+user_245_breakfast,breakfast,Beef Kebab Special (m1036),"['Beef Kebab Special (m1036)', 'Creamed Spinach Mild (m1205)']",0.2375
+user_246_breakfast,breakfast,Fruit Punch Premium (m767),"['Fruit Punch Premium (m767)', 'Iced Coffee Deluxe (m407)', 'Potato Salad Mild (m708)']",0.325
+user_247_lunch,lunch,Grilled Zucchini Classic (m1049),"['Grilled Zucchini Classic (m1049)', 'Brussels Sprouts Spicy (m436)']",0.175
+user_248_snacks,snacks,Soy Milk Spicy (m435),"['Soy Milk Spicy (m435)', 'Nicoise Salad Mild (m1578)', 'Pork Ribs Special (m1413)', 'French Onion Soup Spicy (m765)']",0.1
+user_249_snacks,snacks,Fried Pickles Deluxe (m146),"['Fried Pickles Deluxe (m146)', 'Bagel Spicy (m147)']",0.05
+user_250_snacks,snacks,Clam Chowder (m814),"['Clam Chowder (m814)', 'Bean Soup Special (m1183)', 'Lemon Tart (m1965)', 'Red Velvet Cake Special (m1373)', 'Banana Split Mild (m5)']",0.5625
+user_251_breakfast,breakfast,Caprese Salad Premium (m1629),"['Caprese Salad Premium (m1629)', 'Pasta Salad Classic (m1924)']",0.05
+user_252_dinner,dinner,Cucumber Salad Deluxe (m827),"['Cucumber Salad Deluxe (m827)', 'Chicken Tortilla Soup Special (m828)', 'Tomato Soup (m1519)']",0.16875
+user_253_lunch,lunch,Mediterranean Salad Special (m466),"['Mediterranean Salad Special (m466)', 'Eggs Benedict Premium (m1861)']",0.14375
+user_254_lunch,lunch,Hot Tea Classic (m1264),"['Hot Tea Classic (m1264)', 'Corned Beef Hash Mild (m180)', 'Pad Thai (m1315)']",0.45
+user_255_dinner,dinner,Potato Salad Mild (m708),"['Potato Salad Mild (m708)', 'Clam Chowder Classic (m1986)', 'Shrimp Cocktail Deluxe (m282)']",0.16875
+user_256_lunch,lunch,Fish Tacos (m220),"['Fish Tacos (m220)', 'Gazpacho Mild (m1040)', 'Salmon Fillet Mild (m1392)', 'Tomato Soup Mild (m198)', 'Pork Fried Rice Light (m235)']",0.29166666666666663
+user_257_snacks,snacks,Ramen Special (m594),"['Ramen Special (m594)', 'Burger Classic (m972)', 'Ginger Ale Premium (m129)']",0.45
+user_258_dinner,dinner,Fruit Smoothie Bowl Premium (m1620),"['Fruit Smoothie Bowl Premium (m1620)', 'Cappuccino Light (m1708)']",0.27499999999999997
+user_259_lunch,lunch,Stuffing Premium (m70),"['Stuffing Premium (m70)', 'Avocado Toast Classic (m1522)', 'Croissant Spicy (m891)', 'Sprite Classic (m1788)']",0.35
+user_260_breakfast,breakfast,Hot and Sour Soup Spicy (m1241),"['Hot and Sour Soup Spicy (m1241)', 'Goat Cheese Crostini Classic (m1064)']",0.05
+user_261_snacks,snacks,Banana Smoothie Mild (m276),"['Banana Smoothie Mild (m276)', 'Pho Classic (m1590)', 'Bread Pudding Classic (m1109)', 'Cappuccino Spicy (m1065)']",0.5375
+user_262_dinner,dinner,Red Velvet Cake Spicy (m1006),"['Red Velvet Cake Spicy (m1006)', 'Grilled Eggplant Spicy (m900)', 'Falafel Wrap Deluxe (m1784)']",0.3
+user_263_dinner,dinner,Veggie Burger Special (m1668),"['Veggie Burger Special (m1668)', 'Ramen (m1752)']",0.14375
+user_264_dinner,dinner,Croissant Deluxe (m679),"['Croissant Deluxe (m679)', 'BBQ Chicken Spicy (m1034)', 'Herbal Tea Classic (m756)', 'Chicken Wings Spicy (m267)', 'Espresso Mild (m668)']",0.39999999999999997
+user_265_snacks,snacks,Panna Cotta Premium (m492),"['Panna Cotta Premium (m492)', 'Chef Salad Special (m379)', 'Muffin Mild (m61)', 'Dumplings Spicy (m978)']",0.475
+user_266_breakfast,breakfast,Banana Split Deluxe (m246),"['Banana Split Deluxe (m246)', 'Caprese Salad Premium (m947)', 'Carrot Ginger Soup Special (m91)']",0.075
+user_267_dinner,dinner,Quinoa Salad Special (m1478),"['Quinoa Salad Special (m1478)', 'Oat Milk Deluxe (m1141)', 'Butternut Squash Soup Special (m744)', 'Rice Pilaf Premium (m1427)', 'French Fries Spicy (m73)']",0.4375
+user_268_dinner,dinner,Breakfast Potatoes Special (m1588),"['Breakfast Potatoes Special (m1588)', 'Corn on the Cob Spicy (m1706)']",0.14375
+user_269_snacks,snacks,Cupcakes Classic (m1793),"['Cupcakes Classic (m1793)', 'Fruit Tart (m1510)', 'Omelet Premium (m572)', 'Potato Leek Soup Light (m24)', 'Key Lime Pie Deluxe (m1916)']",0.5
+user_270_lunch,lunch,Oysters Deluxe (m733),"['Oysters Deluxe (m733)', 'Butternut Squash Soup Light (m338)', 'Chicken Wings Deluxe (m1441)']",0.35625
+user_271_dinner,dinner,Fruit Bowl (m125),"['Fruit Bowl (m125)', 'Vegetable Soup Classic (m1988)']",0.2375
+user_272_breakfast,breakfast,Brownies Spicy (m1697),"['Brownies Spicy (m1697)', 'Panna Cotta Classic (m893)', 'Beef Kebab Deluxe (m416)', 'Baked Beans Premium (m1378)', 'Ramen Special (m594)']",0.41666666666666663
+user_273_snacks,snacks,Hot Tea Classic (m1264),"['Hot Tea Classic (m1264)', 'Hash Browns Classic (m1718)', 'Clam Chowder Classic (m537)']",0.45
+user_274_breakfast,breakfast,Spring Rolls Spicy (m1506),"['Spring Rolls Spicy (m1506)', 'Sushi Roll Deluxe (m227)']",0.05
+user_275_lunch,lunch,Cheese Platter Deluxe (m921),"['Cheese Platter Deluxe (m921)', 'Crepes Mild (m702)', 'Egg Salad Light (m1250)']",0.075
+user_276_breakfast,breakfast,Milk Premium (m1782),"['Milk Premium (m1782)', 'Chicken Souvlaki Premium (m961)', 'Brownies Spicy (m1697)']",0.45
+user_277_lunch,lunch,Mushroom Soup Light (m1563),"['Mushroom Soup Light (m1563)', 'Waffles Spicy (m521)', 'Mashed Potatoes Premium (m231)']",0.075
+user_278_breakfast,breakfast,Cobbler Light (m384),"['Cobbler Light (m384)', 'French Fries (m223)', 'Key Lime Pie Spicy (m206)', 'Pork Tenderloin Premium (m82)']",0.1
+user_279_lunch,lunch,Danish Light (m1485),"['Danish Light (m1485)', 'Sausage (m747)']",0.05
+user_280_lunch,lunch,Chocolate Milk Spicy (m121),"['Chocolate Milk Spicy (m121)', 'Mediterranean Salad Special (m821)', 'Chicken Parmesan Special (m1196)', 'Sausage (m747)']",0.475
+user_281_dinner,dinner,Americano Classic (m1359),"['Americano Classic (m1359)', 'Mushroom Soup Light (m1563)', 'Soy Milk Spicy (m71)', 'Éclair Classic (m829)', 'Yogurt Premium (m1813)']",0.4375
+user_282_lunch,lunch,Egg Salad Classic (m644),"['Egg Salad Classic (m644)', 'Banana Split Premium (m279)', 'Pasta Salad Spicy (m1449)', 'Flan (m1687)', 'Steak Fajitas Classic (m1265)']",0.3125
+user_283_snacks,snacks,Spring Rolls Special (m232),"['Spring Rolls Special (m232)', 'Pork Schnitzel (m907)']",0.05
+user_284_lunch,lunch,Hummus with Pita Deluxe (m1569),"['Hummus with Pita Deluxe (m1569)', 'English Muffin Classic (m68)', 'Mozzarella Sticks Spicy (m1060)']",0.075
+user_285_lunch,lunch,Calamari (m816),"['Calamari (m816)', 'Chicken Teriyaki (m606)']",0.3416666666666667
+user_286_breakfast,breakfast,Chicken Salad Light (m369),"['Chicken Salad Light (m369)', 'Croissant Mild (m1760)', 'Steamed Vegetables Premium (m1452)']",0.2625
+user_287_dinner,dinner,French Onion Soup Special (m589),"['French Onion Soup Special (m589)', 'Potato Skins Deluxe (m759)', 'Hummus with Pita Deluxe (m1417)']",0.17500000000000002
+user_288_dinner,dinner,Breakfast Tacos Deluxe (m1681),"['Breakfast Tacos Deluxe (m1681)', 'Caesar Salad Light (m1539)', 'Cupcakes Premium (m518)', 'Shrimp Salad Classic (m1041)']",0.44375
+user_289_lunch,lunch,Edamame (m1909),"['Edamame (m1909)', 'Biscuits and Gravy Mild (m1364)']",0.175
+user_290_snacks,snacks,Sorbet Premium (m368),"['Sorbet Premium (m368)', 'Carrot Cake (m909)', 'Tres Leches Cake (m187)', 'Quiche Premium (m998)', 'Chocolate Mousse Classic (m1273)']",0.375
+user_291_lunch,lunch,Mediterranean Salad Light (m167),"['Mediterranean Salad Light (m167)', 'Pho Mild (m497)']",0.3
+user_292_snacks,snacks,Ramen Special (m594),"['Ramen Special (m594)', 'Fruit Bowl Special (m1831)', 'Oat Milk Light (m109)', 'Fruit Punch (m732)', 'Cobbler (m467)']",0.5625
+user_293_lunch,lunch,Pork Ribs Premium (m1819),"['Pork Ribs Premium (m1819)', 'Lobster Bisque Mild (m1558)']",0.425
+user_294_dinner,dinner,Churros Classic (m993),"['Churros Classic (m993)', 'Fried Pickles Special (m322)']",0.14375
+user_295_breakfast,breakfast,Shrimp Cocktail Deluxe (m282),"['Shrimp Cocktail Deluxe (m282)', 'Quinoa Salad Mild (m1338)']",0.175
+user_296_dinner,dinner,Baklava Light (m860),"['Baklava Light (m860)', 'Key Lime Pie Deluxe (m1916)']",0.15000000000000002
+user_297_breakfast,breakfast,Asparagus Spicy (m1536),"['Asparagus Spicy (m1536)', 'Herbal Tea Premium (m651)', 'Cinnamon Roll Light (m1651)', 'Cheesecake (m316)', 'Mozzarella Sticks Deluxe (m300)']",0.625
+user_298_snacks,snacks,Pizza Margherita Spicy (m520),"['Pizza Margherita Spicy (m520)', 'Polenta Deluxe (m666)', 'Potato Salad (m1758)', 'Breakfast Tacos Mild (m1352)']",0.1
+user_299_dinner,dinner,Mocha Mild (m1502),"['Mocha Mild (m1502)', 'Pork Ribs Special (m1413)', 'Sprite (m1200)', 'Crab Cakes Classic (m1272)', 'Lamb Kebab Classic (m1750)']",0.39999999999999997
+user_300_dinner,dinner,Soy Milk Premium (m1454),"['Soy Milk Premium (m1454)', 'Pancakes Special (m55)', 'Potato Leek Soup Premium (m723)', 'Eggs Benedict Deluxe (m1623)']",0.2875
+user_301_snacks,snacks,Oysters Spicy (m866),"['Oysters Spicy (m866)', 'Apple Juice Light (m988)']",0.05
+user_302_lunch,lunch,Split Pea Soup Mild (m1992),"['Split Pea Soup Mild (m1992)', 'Onion Rings Classic (m1298)']",0.175
+user_303_snacks,snacks,Greek Salad Mild (m1497),"['Greek Salad Mild (m1497)', 'Falafel Wrap Deluxe (m1784)', 'Éclair Premium (m1985)']",0.075
+user_304_dinner,dinner,Fruit Tart (m1510),"['Fruit Tart (m1510)', 'Cola Deluxe (m204)', 'Cheese Platter Special (m131)', 'Chicken Tortilla Soup Special (m828)', 'Clams Casino Premium (m1699)']",0.275
+user_305_lunch,lunch,Chicken Tortilla Soup Deluxe (m1254),"['Chicken Tortilla Soup Deluxe (m1254)', 'Rice Pilaf (m392)', 'Beef Stew (m1615)']",0.325
+user_306_breakfast,breakfast,Fruit Bowl (m1004),"['Fruit Bowl (m1004)', 'Fruit Salad Special (m786)', 'Tiramisu Light (m573)']",0.2
+user_307_snacks,snacks,Chai Latte Deluxe (m96),"['Chai Latte Deluxe (m96)', 'Scone (m622)', 'Gazpacho Light (m433)']",0.2625
+user_308_snacks,snacks,Onion Rings Spicy (m1670),"['Onion Rings Spicy (m1670)', 'Cheese Platter Mild (m1169)', 'Key Lime Pie Spicy (m206)', 'Vegetable Stir Fry Classic (m675)']",0.5375
+user_309_dinner,dinner,Smoothie (m1016),"['Smoothie (m1016)', 'Vegetable Soup Premium (m1928)', 'Potato Salad Mild (m23)', 'Macarons Special (m292)', 'Couscous Mild (m841)']",0.4375
+user_310_breakfast,breakfast,Gelato Special (m153),"['Gelato Special (m153)', 'Banana Split Mild (m5)', 'Rice Pudding Deluxe (m1643)', 'Oatmeal Deluxe (m1399)', 'Potato Leek Soup Mild (m174)']",0.41666666666666663
+user_311_dinner,dinner,Tuna Salad (m1824),"['Tuna Salad (m1824)', 'Caprese Salad Deluxe (m688)', 'Macarons Mild (m791)']",0.16875
+user_312_lunch,lunch,Brownies Mild (m1854),"['Brownies Mild (m1854)', 'Fruit Salad Light (m105)', 'Key Lime Pie Spicy (m1386)', 'Roasted Carrots Special (m854)']",0.39166666666666666
+user_313_lunch,lunch,Chicken Parmesan Spicy (m1108),"['Chicken Parmesan Spicy (m1108)', 'Flan (m1687)', 'Beet Salad Premium (m670)']",0.2625
+user_314_dinner,dinner,Cobb Salad Deluxe (m586),"['Cobb Salad Deluxe (m586)', 'Chef Salad Deluxe (m1701)', 'Churros Premium (m1295)', 'Broccoli Cheddar Soup Spicy (m539)', 'Split Pea Soup Spicy (m1319)']",0.25
+user_315_lunch,lunch,Scone Mild (m1690),"['Scone Mild (m1690)', 'Flan Mild (m86)']",0.05
+user_316_snacks,snacks,Chef Salad Spicy (m661),"['Chef Salad Spicy (m661)', 'Mushroom Soup Classic (m1583)', 'Potato Salad Mild (m1209)', 'Quiche Deluxe (m656)', 'Bean Soup Classic (m1458)']",0.5
+user_317_lunch,lunch,Iced Tea Classic (m1501),"['Iced Tea Classic (m1501)', 'Crab Cakes Classic (m1272)', 'Cinnamon Roll Spicy (m751)', 'Sorbet Light (m1847)']",0.38125
+user_318_breakfast,breakfast,Shrimp Cocktail Mild (m1743),"['Shrimp Cocktail Mild (m1743)', 'Cookies Deluxe (m1759)']",0.3
+user_319_lunch,lunch,Bruschetta Special (m1038),"['Bruschetta Special (m1038)', 'Red Velvet Cake Spicy (m624)', 'Chicken Parmesan Spicy (m1108)', 'Vegetable Soup Classic (m1988)']",0.4125
+user_320_dinner,dinner,Lemonade (m913),"['Lemonade (m913)', 'Quinoa Salad Spicy (m943)', 'Deviled Eggs Spicy (m944)']",0.2625
+user_321_snacks,snacks,Lentil Soup Premium (m2000),"['Lentil Soup Premium (m2000)', 'Caprese Salad Light (m1466)', 'Edamame Premium (m307)']",0.45
+user_322_breakfast,breakfast,Deviled Eggs Spicy (m944),"['Deviled Eggs Spicy (m944)', 'Spinach Artichoke Dip Special (m347)']",0.2375
+user_323_lunch,lunch,Stuffed Mushrooms Special (m1677),"['Stuffed Mushrooms Special (m1677)', 'Cobb Salad Deluxe (m586)', 'Red Velvet Cake Spicy (m624)', 'Chicken Quesadilla Premium (m951)', 'Beet Salad Light (m556)']",0.375
+user_324_snacks,snacks,Bruschetta Light (m113),"['Bruschetta Light (m113)', 'Oat Milk Deluxe (m1141)', 'Lobster Bisque Deluxe (m269)', 'Pepsi Light (m1321)']",0.6
+user_325_dinner,dinner,Chicken Tortilla Soup Special (m420),"['Chicken Tortilla Soup Special (m420)', 'French Fries Light (m692)', 'Split Pea Soup Light (m1414)', 'Garden Salad Special (m1721)', 'Potato Salad (m1206)']",0.3125
+user_326_snacks,snacks,Roast Turkey Light (m1379),"['Roast Turkey Light (m1379)', 'Breakfast Burrito Deluxe (m826)', 'Pepsi Light (m1754)', 'Lamb Chops Mild (m104)', 'Chicken Skewers Special (m933)']",0.5
+user_327_breakfast,breakfast,Burger Deluxe (m705),"['Burger Deluxe (m705)', 'Fried Rice (m1527)', 'Macarons Special (m704)', 'Asian Salad Premium (m1407)']",0.475
+user_328_snacks,snacks,Pumpkin Soup (m902),"['Pumpkin Soup (m902)', 'Pork Tenderloin Special (m1791)', 'Jalapeño Poppers Classic (m1310)', 'Breakfast Potatoes Classic (m1901)', 'Cinnamon Roll Spicy (m751)']",0.125
+user_329_lunch,lunch,Mushroom Soup Classic (m1299),"['Mushroom Soup Classic (m1299)', 'Goat Cheese Crostini Light (m327)', 'Churros Spicy (m1336)', 'Calamari (m678)', 'French Onion Soup Deluxe (m1993)']",0.125
+user_330_dinner,dinner,Cobbler Light (m1340),"['Cobbler Light (m1340)', 'French Fries Mild (m13)']",0.2
+user_331_snacks,snacks,Crème Brûlée Special (m619),"['Crème Brûlée Special (m619)', 'Beef Burrito Special (m853)', 'Mozzarella Sticks Deluxe (m885)', 'Bruschetta Light (m113)']",0.475
+user_332_snacks,snacks,Crepes Light (m1162),"['Crepes Light (m1162)', 'Asparagus Special (m87)', 'Fruit Smoothie Bowl Spicy (m1385)', 'Roasted Carrots Classic (m1729)']",0.475
+user_333_lunch,lunch,Hot Chocolate Premium (m1153),"['Hot Chocolate Premium (m1153)', 'Corn on the Cob Mild (m1503)', 'Yogurt Premium (m1813)', 'Iced Tea Premium (m1841)']",0.39166666666666666
+user_334_snacks,snacks,Gazpacho Mild (m790),"['Gazpacho Mild (m790)', 'Gazpacho Light (m433)', 'Hummus with Pita Special (m1181)', 'Chicken Teriyaki Premium (m1894)', 'Asparagus Special (m1111)']",0.5
+user_335_lunch,lunch,Chicken Quesadilla Mild (m1786),"['Chicken Quesadilla Mild (m1786)', 'Nicoise Salad Deluxe (m1602)', 'Éclair Classic (m829)', 'Hash Browns Deluxe (m1143)', 'Ice Cream Classic (m533)']",0.3125
+user_336_snacks,snacks,Pork Ribs Spicy (m889),"['Pork Ribs Spicy (m889)', 'Spinach Salad Spicy (m118)', 'Rice Pudding Spicy (m1100)']",0.45
+user_337_snacks,snacks,Shrimp Cocktail Premium (m1009),"['Shrimp Cocktail Premium (m1009)', 'Potato Salad (m1206)', 'Sliders Classic (m194)', 'Bacon Wrapped Dates Premium (m1333)']",0.6
+user_338_dinner,dinner,Shrimp Scampi Classic (m1880),"['Shrimp Scampi Classic (m1880)', 'Smoothie Deluxe (m1091)', 'Oysters Premium (m308)']",0.29375
+user_339_dinner,dinner,Split Pea Soup Premium (m386),"['Split Pea Soup Premium (m386)', 'Ramen (m999)', 'Brussels Sprouts Classic (m800)', 'Hot and Sour Soup Classic (m1562)']",0.2875
+user_340_snacks,snacks,Oysters Classic (m256),"['Oysters Classic (m256)', 'Bacon Wrapped Dates Light (m1947)', 'Chicken Souvlaki Spicy (m618)', 'Potato Skins Mild (m186)', 'Calamari Light (m1213)']",0.125
+user_341_snacks,snacks,Water Premium (m1904),"['Water Premium (m1904)', 'Baklava Deluxe (m990)', 'Deviled Eggs Deluxe (m1126)']",0.45
+user_342_dinner,dinner,Cauliflower Mash Deluxe (m101),"['Cauliflower Mash Deluxe (m101)', 'Pineapple Juice Mild (m442)', 'Americano Classic (m1359)', 'Peach Tea Mild (m1137)']",0.47500000000000003
+user_343_breakfast,breakfast,Mushroom Soup Light (m603),"['Mushroom Soup Light (m603)', 'Quiche Classic (m871)', 'Cookies Special (m1463)', 'Yogurt Spicy (m1927)']",0.475
+user_344_breakfast,breakfast,Corn on the Cob Deluxe (m934),"['Corn on the Cob Deluxe (m934)', 'Cobbler Light (m384)', 'Cheese Platter Mild (m1169)', 'Omelet Spicy (m1023)']",0.35
+user_345_lunch,lunch,Beef Carpaccio Special (m1827),"['Beef Carpaccio Special (m1827)', 'Grilled Salmon Spicy (m1470)', 'Rice Pilaf Premium (m1427)', 'Carrot Ginger Soup Spicy (m752)']",0.35
+user_346_breakfast,breakfast,Gelato Special (m153),"['Gelato Special (m153)', 'Chicken Tortilla Soup Special (m420)', 'Grilled Chicken Classic (m396)', 'Grilled Zucchini Classic (m1779)', 'Shrimp Salad Light (m1728)']",0.25
+user_347_breakfast,breakfast,Vanilla Latte Spicy (m633),"['Vanilla Latte Spicy (m633)', 'Cannoli (m1090)', 'Beet Salad Deluxe (m986)', 'Oysters Premium (m308)']",0.225
+user_348_dinner,dinner,Bread Pudding Premium (m693),"['Bread Pudding Premium (m693)', 'Coffee Deluxe (m805)', 'Chocolate Mousse Premium (m613)', 'Lamb Chops Premium (m305)']",0.5166666666666666
+user_349_lunch,lunch,Coleslaw Special (m2),"['Coleslaw Special (m2)', 'Mango Juice Premium (m1314)', 'Carrot Cake Light (m75)', 'Pasta Carbonara Special (m1996)', 'Vegetable Soup Premium (m1679)']",0.5
+user_350_lunch,lunch,Tuna Salad Deluxe (m403),"['Tuna Salad Deluxe (m403)', 'Salmon Fillet Mild (m1392)', 'Dumplings Spicy (m431)', 'Tomato Juice (m51)']",0.39166666666666666
+user_351_dinner,dinner,Garlic Bread Light (m35),"['Garlic Bread Light (m35)', 'Iced Tea Spicy (m367)', 'Biscuits and Gravy (m641)', 'Meatball Sub Mild (m1891)']",0.45000000000000007
+user_352_breakfast,breakfast,Pho (m1595),"['Pho (m1595)', 'Biscuits and Gravy Classic (m217)', 'Steak Fajitas Deluxe (m484)', 'Goat Cheese Crostini Mild (m261)']",0.2875
+user_353_snacks,snacks,Chicken Wings Deluxe (m1300),"['Chicken Wings Deluxe (m1300)', 'Panna Cotta Special (m843)']",0.05
+user_354_lunch,lunch,Cola Mild (m205),"['Cola Mild (m205)', 'French Fries (m223)', 'Beef Burrito Deluxe (m21)', 'Red Velvet Cake Special (m1633)']",0.4125
+user_355_dinner,dinner,Cookies Mild (m465),"['Cookies Mild (m465)', 'Baked Beans (m429)', 'Chocolate Milk Light (m1191)', 'Ratatouille Spicy (m1698)', 'Gazpacho Special (m98)']",0.375
+user_356_breakfast,breakfast,Cola Classic (m1704),"['Cola Classic (m1704)', 'Egg Salad Mild (m1423)', 'Corned Beef Hash Mild (m180)', 'Carrot Ginger Soup Special (m1564)']",0.5166666666666666
+user_357_lunch,lunch,Stuffing Deluxe (m601),"['Stuffing Deluxe (m601)', 'Hash Browns Classic (m1538)']",0.175
+user_358_breakfast,breakfast,Nicoise Salad Premium (m660),"['Nicoise Salad Premium (m660)', 'Bacon Wrapped Dates Light (m1947)', 'Tuna Tartare Spicy (m1404)', 'Breakfast Sandwich Special (m898)', 'Flan Spicy (m1476)']",0.5625
+user_359_dinner,dinner,Lentil Soup Deluxe (m1610),"['Lentil Soup Deluxe (m1610)', 'Caprese Salad Spicy (m1963)']",0.15000000000000002
+user_360_snacks,snacks,Soy Milk Spicy (m401),"['Soy Milk Spicy (m401)', 'Lemonade (m996)']",0.4875
+user_361_breakfast,breakfast,Butternut Squash Soup (m530),"['Butternut Squash Soup (m530)', 'Pineapple Juice Mild (m442)', 'BBQ Chicken Classic (m863)']",0.45
+user_362_dinner,dinner,Strawberry Shortcake Mild (m629),"['Strawberry Shortcake Mild (m629)', 'Mediterranean Salad Mild (m181)', 'Chicken Quesadilla Mild (m1786)', 'Chef Salad Spicy (m661)']",0.42500000000000004
+user_363_breakfast,breakfast,Chicken Parmesan Spicy (m1108),"['Chicken Parmesan Spicy (m1108)', 'Samosas Mild (m1776)', 'Tuna Tartare Mild (m1128)', 'Pepsi (m254)']",0.475
+user_364_breakfast,breakfast,Mashed Potatoes Classic (m1313),"['Mashed Potatoes Classic (m1313)', 'Spinach Salad (m1644)']",0.175
+user_365_dinner,dinner,Spring Rolls Classic (m190),"['Spring Rolls Classic (m190)', 'Scone Premium (m1726)', 'Panna Cotta Special (m843)', 'Mango Juice Spicy (m1967)']",0.32499999999999996
+user_366_snacks,snacks,Fruit Salad Light (m719),"['Fruit Salad Light (m719)', 'Vegetable Soup Mild (m794)', 'Cucumber Salad (m1149)']",0.2625
+user_367_snacks,snacks,Coffee Deluxe (m805),"['Coffee Deluxe (m805)', 'Potato Skins Deluxe (m759)', 'Sorbet Deluxe (m1941)', 'Cauliflower Mash Spicy (m950)', 'BBQ Chicken Special (m1736)']",0.5625
+user_368_lunch,lunch,Bagel Mild (m375),"['Bagel Mild (m375)', 'Caprese Salad Spicy (m333)', 'Yogurt Premium (m99)', 'Chicken Noodle Soup Spicy (m1946)', 'Fruit Smoothie Bowl Mild (m457)']",0.25
+user_369_snacks,snacks,Greek Salad Special (m505),"['Greek Salad Special (m505)', 'Pineapple Juice Mild (m18)']",0.05
+user_370_dinner,dinner,Donut Spicy (m632),"['Donut Spicy (m632)', 'Ginger Ale Deluxe (m415)', 'Mediterranean Salad Light (m1472)', 'Cappuccino Light (m337)']",0.31875
+user_371_lunch,lunch,Kale Salad Classic (m1622),"['Kale Salad Classic (m1622)', 'Churros (m1575)', 'Americano Special (m294)']",0.325
+user_372_breakfast,breakfast,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Pork Fried Rice Special (m1769)', 'Cappuccino Spicy (m1305)', 'Gelato Light (m1258)', 'Hot Tea Premium (m1058)']",0.625
+user_373_lunch,lunch,Beef Kebab Classic (m485),"['Beef Kebab Classic (m485)', 'Fish Curry Spicy (m1800)', 'Ratatouille Premium (m1649)']",0.24166666666666667
+user_374_breakfast,breakfast,Chicken Rice Soup Special (m1165),"['Chicken Rice Soup Special (m1165)', 'Carrot Cake (m1720)', 'Mushroom Soup Light (m1563)', 'Mozzarella Sticks (m390)']",0.5375
+user_375_dinner,dinner,Egg Salad Mild (m1423),"['Egg Salad Mild (m1423)', 'Chicken Souvlaki Spicy (m618)', 'Chocolate Cake (m1926)', 'Chicken Rice Soup Mild (m1017)', 'Pasta Salad Light (m607)']",0.30000000000000004
+user_376_snacks,snacks,Iced Tea Mild (m1425),"['Iced Tea Mild (m1425)', 'Beef Lo Mein Premium (m1624)', 'Iced Coffee (m1499)', 'Mediterranean Salad Special (m726)', 'Gazpacho Spicy (m877)']",0.125
+user_377_lunch,lunch,Pork Schnitzel Premium (m1731),"['Pork Schnitzel Premium (m1731)', 'Hot and Sour Soup Spicy (m1278)', 'Tomato Soup Classic (m1658)']",0.2625
+user_378_dinner,dinner,Vegetable Stir Fry Premium (m861),"['Vegetable Stir Fry Premium (m861)', 'Pudding Light (m1552)']",0.175
+user_379_lunch,lunch,Chicken Quesadilla Premium (m951),"['Chicken Quesadilla Premium (m951)', 'Veggie Pizza Spicy (m1267)']",0.3416666666666667
+user_380_dinner,dinner,Edamame Premium (m307),"['Edamame Premium (m307)', 'Éclair Classic (m829)', 'Bacon Premium (m240)', 'Minestrone Premium (m1051)']",0.4125
+user_381_lunch,lunch,Salmon Teriyaki Light (m183),"['Salmon Teriyaki Light (m183)', 'Ramen (m1752)', 'Gazpacho Deluxe (m473)', 'Americano Deluxe (m862)', 'Chicken Noodle Soup Deluxe (m1473)']",0.5833333333333333
+user_382_snacks,snacks,Coleslaw Light (m440),"['Coleslaw Light (m440)', 'Dumplings Spicy (m431)', 'Shrimp Cocktail Classic (m1918)', 'Crab Cakes (m1547)']",0.6
+user_383_breakfast,breakfast,Grilled Salmon Deluxe (m645),"['Grilled Salmon Deluxe (m645)', 'Scrambled Eggs Premium (m525)', 'Waffles Mild (m273)', 'Corn Chowder Deluxe (m323)', 'Bacon Wrapped Dates Premium (m1097)']",0.3125
+user_384_dinner,dinner,Mushroom Soup Spicy (m1455),"['Mushroom Soup Spicy (m1455)', 'Vegetable Stir Fry Premium (m861)', 'Green Beans Classic (m949)', 'Sautéed Mushrooms Special (m602)', 'Raspberry Lemonade Spicy (m1589)']",0.47500000000000003
+user_385_dinner,dinner,Espresso Premium (m114),"['Espresso Premium (m114)', 'Cheesecake Deluxe (m1580)', 'Kale Salad Special (m1855)', 'Gelato Special (m389)', 'Rice Noodles Light (m1465)']",0.5
+user_386_breakfast,breakfast,Polenta Mild (m1032),"['Polenta Mild (m1032)', 'Sautéed Mushrooms (m1748)', 'Cereal Special (m78)', 'Caprese Salad Premium (m1923)', 'Chicken Parmesan Mild (m914)']",0.5
+user_387_breakfast,breakfast,Pancakes Premium (m480),"['Pancakes Premium (m480)', 'Beef Burrito Classic (m1543)', 'Cobbler Premium (m1605)']",0.2625
+user_388_breakfast,breakfast,Cheesecake Deluxe (m565),"['Cheesecake Deluxe (m565)', 'Grilled Salmon Mild (m946)', 'Soy Milk Deluxe (m376)']",0.5125
+user_389_lunch,lunch,Potato Skins Spicy (m910),"['Potato Skins Spicy (m910)', 'Tomato Juice Classic (m908)']",0.175
+user_390_breakfast,breakfast,Chicken Parmesan Classic (m264),"['Chicken Parmesan Classic (m264)', 'Corn Chowder Light (m410)']",0.05
+user_391_dinner,dinner,Steak Fajitas Light (m528),"['Steak Fajitas Light (m528)', 'Burger Premium (m958)', 'Potato Salad (m1964)']",0.275
+user_392_lunch,lunch,Breakfast Tacos Classic (m1840),"['Breakfast Tacos Classic (m1840)', 'French Fries Mild (m13)']",0.175
+user_393_lunch,lunch,Pudding Mild (m1526),"['Pudding Mild (m1526)', 'Potato Salad Mild (m1209)', 'Oat Milk Deluxe (m1141)']",0.325
+user_394_snacks,snacks,Custard Spicy (m1617),"['Custard Spicy (m1617)', 'Fruit Smoothie Bowl Classic (m1435)']",0.05
+user_395_breakfast,breakfast,Cupcakes Premium (m518),"['Cupcakes Premium (m518)', 'Red Velvet Cake Special (m1633)', 'Muffin Premium (m1888)']",0.45
+user_396_breakfast,breakfast,Potato Salad Spicy (m737),"['Potato Salad Spicy (m737)', 'Frittata (m1242)', 'Pasta Carbonara Deluxe (m1709)', 'Clam Chowder Premium (m359)']",0.6
+user_397_dinner,dinner,Vegetable Soup Classic (m1988),"['Vegetable Soup Classic (m1988)', 'Sorbet Deluxe (m1941)', 'Croissant Spicy (m251)', 'Minestrone Premium (m471)', 'Crème Brûlée Spicy (m1753)']",0.34375
+user_398_dinner,dinner,French Onion Soup Spicy (m765),"['French Onion Soup Spicy (m765)', 'Waldorf Salad (m1808)']",0.125
+user_399_snacks,snacks,Chocolate Milk Spicy (m121),"['Chocolate Milk Spicy (m121)', 'Deviled Eggs Premium (m1112)', 'Cappuccino Mild (m393)', 'Chai Latte Mild (m1560)']",0.6
+user_400_snacks,snacks,Bean Soup Premium (m1936),"['Bean Soup Premium (m1936)', 'Coleslaw Premium (m979)', 'Quinoa Salad Spicy (m1817)', 'Vegetable Curry Deluxe (m357)', 'Mushroom Soup Classic (m74)']",0.625
+user_401_breakfast,breakfast,Clam Chowder Light (m1467),"['Clam Chowder Light (m1467)', 'Split Pea Soup Classic (m1223)', 'Chicken Wings Deluxe (m1300)', 'Yams Deluxe (m1751)', 'Chicken Teriyaki Deluxe (m443)']",0.125
+user_402_snacks,snacks,Chicken Wings Deluxe (m1441),"['Chicken Wings Deluxe (m1441)', 'Bean Soup Classic (m1439)']",0.05
+user_403_dinner,dinner,Arugula Salad (m152),"['Arugula Salad (m152)', 'Calamari Classic (m846)', 'Apple Juice Deluxe (m587)', 'Waffles Deluxe (m503)']",0.32499999999999996
+user_404_lunch,lunch,Tomato Soup Mild (m1710),"['Tomato Soup Mild (m1710)', 'Breakfast Sandwich Special (m141)']",0.175
+user_405_dinner,dinner,Pumpkin Soup (m1135),"['Pumpkin Soup (m1135)', 'Bruschetta (m1357)']",0.14375
+user_406_snacks,snacks,Milk Light (m929),"['Milk Light (m929)', 'Potato Salad Mild (m1209)', 'Stuffed Peppers Spicy (m953)', 'Baked Potato Light (m317)']",0.475
+user_407_snacks,snacks,Potato Skins Deluxe (m772),"['Potato Skins Deluxe (m772)', 'Vegetable Soup Premium (m1928)', 'Pumpkin Soup Special (m1766)']",0.075
+user_408_dinner,dinner,Shrimp Scampi Deluxe (m1942),"['Shrimp Scampi Deluxe (m1942)', 'Dumplings Spicy (m925)', 'Cobb Salad (m372)', 'Vegetable Soup Premium (m959)']",0.2875
+user_409_dinner,dinner,Fried Pickles Deluxe (m146),"['Fried Pickles Deluxe (m146)', 'Chicken Noodle Soup (m119)', 'Chef Salad Special (m1403)', 'Pork Ribs Special (m1413)', 'Garden Salad Premium (m54)']",0.34375
+user_410_lunch,lunch,Crepes Premium (m26),"['Crepes Premium (m26)', 'Beef Stew Light (m136)', 'Crème Brûlée Deluxe (m1047)']",0.075
+user_411_lunch,lunch,Samosas Special (m669),"['Samosas Special (m669)', 'Pasta Salad Light (m607)', 'Cobbler Premium (m1816)']",0.075
+user_412_dinner,dinner,Lamb Chops Light (m1042),"['Lamb Chops Light (m1042)', 'Spinach Salad Classic (m324)', 'Avocado Toast Spicy (m848)', 'Pho (m374)']",0.5
+user_413_dinner,dinner,Split Pea Soup Spicy (m411),"['Split Pea Soup Spicy (m411)', 'Corn on the Cob Spicy (m1706)', 'Edamame Classic (m1037)', 'Churros Special (m1883)']",0.5375
+user_414_lunch,lunch,Mango Juice Special (m773),"['Mango Juice Special (m773)', 'Gelato (m22)', 'Creamed Spinach Mild (m1205)']",0.3875
+user_415_dinner,dinner,Tea Premium (m964),"['Tea Premium (m964)', 'Roasted Carrots Light (m417)']",0.2375
+user_416_lunch,lunch,Potato Leek Soup Premium (m1545),"['Potato Leek Soup Premium (m1545)', 'Corn on the Cob Deluxe (m934)', 'Potato Salad Special (m1864)', 'BBQ Chicken Special (m1736)']",0.4125
+user_417_lunch,lunch,Caprese Salad Spicy (m1963),"['Caprese Salad Spicy (m1963)', 'Stuffed Mushrooms Light (m1554)', 'Pudding Deluxe (m932)']",0.16875
+user_418_dinner,dinner,Corn Chowder Mild (m783),"['Corn Chowder Mild (m783)', 'Fruit Salad Deluxe (m647)', 'Bagel Mild (m375)', 'Mozzarella Sticks Special (m1532)', 'Biscuits and Gravy Classic (m1053)']",0.21875
+user_419_dinner,dinner,Hash Browns Classic (m1538),"['Hash Browns Classic (m1538)', 'Flan Mild (m86)', 'Potato Leek Soup Deluxe (m1122)']",0.16875
+user_420_snacks,snacks,Peach Tea Deluxe (m718),"['Peach Tea Deluxe (m718)', 'Cupcakes Classic (m1003)', 'Hot Chocolate Classic (m887)', 'Tomato Soup Mild (m1710)']",0.1
+user_421_snacks,snacks,Yogurt Classic (m1),"['Yogurt Classic (m1)', 'Cola Premium (m1559)', 'Lamb Kebab Deluxe (m1851)', 'Clams Casino Mild (m263)']",0.6
+user_422_snacks,snacks,Carrot Cake Light (m1950),"['Carrot Cake Light (m1950)', 'Brownies Spicy (m1697)', 'Macarons Mild (m791)', 'Cappuccino Light (m1708)', 'Pasta Carbonara Special (m1996)']",0.3125
+user_423_lunch,lunch,Spinach Artichoke Dip Special (m347),"['Spinach Artichoke Dip Special (m347)', 'Hot and Sour Soup Spicy (m581)', 'Fruit Salad Special (m1326)']",0.325
+user_424_breakfast,breakfast,French Toast Classic (m491),"['French Toast Classic (m491)', 'Macarons Light (m1884)', 'Chicken Rice Soup Deluxe (m1825)']",0.075
+user_425_snacks,snacks,Espresso Spicy (m1011),"['Espresso Spicy (m1011)', 'Meatball Sub Mild (m351)', 'Hot and Sour Soup Classic (m1562)']",0.45
+user_426_breakfast,breakfast,Lobster Bisque Mild (m495),"['Lobster Bisque Mild (m495)', 'Pancakes Premium (m480)', 'Croissant Spicy (m891)']",0.325
+user_427_snacks,snacks,Hot and Sour Soup Special (m1905),"['Hot and Sour Soup Special (m1905)', 'Carrot Cake Light (m1950)', 'Deviled Eggs Premium (m172)', 'Chef Salad Special (m1403)']",0.475
+user_428_breakfast,breakfast,Gazpacho Special (m1477),"['Gazpacho Special (m1477)', 'Soy Milk Spicy (m435)', 'Breakfast Sandwich Spicy (m1078)', 'Fried Pickles Classic (m1650)', 'Pumpkin Soup Special (m568)']",0.5
+user_429_snacks,snacks,Fruit Salad Classic (m712),"['Fruit Salad Classic (m712)', 'Chef Salad Special (m379)', 'Onion Rings Spicy (m1670)', 'Waffles Spicy (m521)', 'Deviled Eggs Mild (m259)']",0.625
+user_430_dinner,dinner,Pancakes Deluxe (m1154),"['Pancakes Deluxe (m1154)', 'Lentil Soup Special (m580)', 'Pho (m47)', 'Mediterranean Salad Mild (m1355)', 'Rice Pilaf (m392)']",0.34375
+user_431_dinner,dinner,Cola Deluxe (m204),"['Cola Deluxe (m204)', 'Vegetable Curry Special (m1030)']",0.3416666666666667
+user_432_lunch,lunch,Espresso Deluxe (m165),"['Espresso Deluxe (m165)', 'Mozzarella Sticks Deluxe (m1591)', 'Grilled Salmon Premium (m34)', 'French Fries Deluxe (m758)']",0.475
+user_433_snacks,snacks,Tomato Soup Premium (m1418),"['Tomato Soup Premium (m1418)', 'Gelato Light (m1258)', 'Bruschetta Special (m1038)', 'Split Pea Soup Spicy (m1319)']",0.475
+user_434_dinner,dinner,Vegetable Soup Special (m14),"['Vegetable Soup Special (m14)', 'Apple Juice Classic (m1738)', 'Biscuits and Gravy (m641)', 'Pudding Premium (m1749)', 'Chicken Souvlaki Premium (m434)']",0.40625
+user_435_breakfast,breakfast,Lentil Soup Special (m580),"['Lentil Soup Special (m580)', 'Pho (m47)', 'Meatball Sub Spicy (m402)']",0.45
+user_436_breakfast,breakfast,Toast (m817),"['Toast (m817)', 'Coleslaw Light (m1858)']",0.2375
+user_437_lunch,lunch,Omelet Mild (m1850),"['Omelet Mild (m1850)', 'Calamari Mild (m1929)', 'Bacon Classic (m1130)', 'Caprese Salad Premium (m947)']",0.2875
+user_438_dinner,dinner,Cucumber Salad (m1149),"['Cucumber Salad (m1149)', 'Potato Salad Spicy (m600)']",0.175
+user_439_snacks,snacks,Grilled Eggplant Light (m1890),"['Grilled Eggplant Light (m1890)', 'Chicken Fried Rice Premium (m248)', 'Taco Salad Classic (m475)']",0.45
+user_440_breakfast,breakfast,Greek Salad Special (m505),"['Greek Salad Special (m505)', 'Baklava Spicy (m664)', 'Deviled Eggs Classic (m930)', 'Scone Mild (m1690)']",0.225
+user_441_snacks,snacks,Arugula Salad (m152),"['Arugula Salad (m152)', 'Mediterranean Salad Mild (m1355)']",0.05
+user_442_breakfast,breakfast,Crème Brûlée Deluxe (m1047),"['Crème Brûlée Deluxe (m1047)', 'Raspberry Lemonade (m445)', 'Butternut Squash Soup Special (m744)', 'Cappuccino Spicy (m1305)']",0.6
+user_443_snacks,snacks,Beef Kebab Deluxe (m416),"['Beef Kebab Deluxe (m416)', 'Fish Tacos Deluxe (m1494)']",0.05
+user_444_snacks,snacks,Cinnamon Roll Spicy (m751),"['Cinnamon Roll Spicy (m751)', 'Edamame Premium (m307)', 'Sliders Light (m1277)', 'Quinoa Salad Spicy (m943)']",0.6
+user_445_dinner,dinner,Cheesecake Deluxe (m1156),"['Cheesecake Deluxe (m1156)', 'Tater Tots Mild (m1118)', 'Water Mild (m258)', 'Caprese Salad Spicy (m753)', 'Potato Salad Classic (m1537)']",0.5
+user_446_snacks,snacks,Hot and Sour Soup Spicy (m581),"['Hot and Sour Soup Spicy (m581)', 'Arugula Salad (m842)', 'English Muffin Classic (m68)']",0.075
+user_447_breakfast,breakfast,Shrimp Salad (m1954),"['Shrimp Salad (m1954)', 'Spinach Salad Mild (m139)', 'Tomato Juice (m299)']",0.325
+user_448_breakfast,breakfast,Crab Cakes Classic (m1457),"['Crab Cakes Classic (m1457)', 'Lentil Soup Classic (m992)']",0.05
+user_449_lunch,lunch,Asparagus Spicy (m1536),"['Asparagus Spicy (m1536)', 'Fruit Smoothie Bowl Deluxe (m1429)', 'Fish Tacos Mild (m1445)', 'Mashed Potatoes Premium (m231)']",0.5375
+user_450_breakfast,breakfast,Fruit Bowl Light (m188),"['Fruit Bowl Light (m188)', 'Herbal Tea Premium (m651)', 'Bacon Premium (m240)', 'Hot Tea Classic (m1948)', 'Brownies Deluxe (m966)']",0.375
+user_451_dinner,dinner,Cereal Special (m78),"['Cereal Special (m78)', 'Beef Stew Special (m1513)']",0.4666666666666667
+user_452_snacks,snacks,Cobb Salad Classic (m1586),"['Cobb Salad Classic (m1586)', 'Stuffing Premium (m70)', 'Chef Salad (m1171)', 'Strawberry Smoothie Classic (m88)', 'Mocha Classic (m285)']",0.5
+user_453_snacks,snacks,Broccoli Cheddar Soup (m1771),"['Broccoli Cheddar Soup (m1771)', 'English Muffin Light (m11)', 'Caprese Salad Premium (m947)', 'Iced Coffee (m477)', 'Beef Tacos (m1471)']",0.3125
+user_454_snacks,snacks,Lobster Bisque Special (m1481),"['Lobster Bisque Special (m1481)', 'Chocolate Cake Deluxe (m1507)', 'Grilled Salmon Mild (m946)', 'Beef Kebab Mild (m552)']",0.2875
+user_455_breakfast,breakfast,Chicken Souvlaki Classic (m1311),"['Chicken Souvlaki Classic (m1311)', 'Meatball Sub Light (m1155)', 'Breakfast Tacos Premium (m237)']",0.325
+user_456_snacks,snacks,Green Beans Spicy (m487),"['Green Beans Spicy (m487)', 'Crepes Mild (m702)', 'Pork Tenderloin Deluxe (m1844)', 'Panna Cotta Special (m1549)', 'Grilled Eggplant Spicy (m522)']",0.125
+user_457_lunch,lunch,Potato Leek Soup Premium (m1402),"['Potato Leek Soup Premium (m1402)', 'Quiche (m245)', 'Tomato Soup Light (m1541)', 'Mediterranean Salad Classic (m1971)']",0.2875
+user_458_dinner,dinner,Rice Noodles Mild (m1391),"['Rice Noodles Mild (m1391)', 'Corn on the Cob (m12)']",0.3
+user_459_snacks,snacks,Falafel Wrap Mild (m638),"['Falafel Wrap Mild (m638)', 'Fruit Smoothie Bowl Spicy (m1385)', 'Deviled Eggs Deluxe (m1284)', 'Creamed Spinach Classic (m1765)']",0.1
+user_460_breakfast,breakfast,Jalapeño Poppers Mild (m1767),"['Jalapeño Poppers Mild (m1767)', 'Chicken Alfredo (m1214)']",0.2375
+user_461_breakfast,breakfast,Chicken Rice Soup Mild (m1017),"['Chicken Rice Soup Mild (m1017)', 'Edamame Premium (m1186)']",0.175
+user_462_lunch,lunch,Matcha Latte Premium (m197),"['Matcha Latte Premium (m197)', 'Ramen Light (m1863)', 'Broccoli Cheddar Soup Light (m1092)']",0.3666666666666667
+user_463_dinner,dinner,Strawberry Shortcake Deluxe (m1232),"['Strawberry Shortcake Deluxe (m1232)', 'Lemonade (m996)', 'Split Pea Soup Premium (m386)', 'Pasta Salad Light (m526)']",0.2875
+user_464_dinner,dinner,Caesar Salad Special (m69),"['Caesar Salad Special (m69)', 'Cobbler Classic (m107)', 'Beef Stew (m1615)', 'Pudding Premium (m873)', 'Quinoa Salad Spicy (m777)']",0.39999999999999997
+user_465_snacks,snacks,Breakfast Burrito Special (m680),"['Breakfast Burrito Special (m680)', 'Asian Salad Classic (m352)', 'Chicken Skewers (m102)', 'Chicken Noodle Soup (m1856)', 'Muffin Spicy (m884)']",0.125
+user_466_lunch,lunch,Fish Tacos Deluxe (m1494),"['Fish Tacos Deluxe (m1494)', 'Coconut Water Light (m1616)']",0.425
+user_467_snacks,snacks,Yogurt Classic (m1820),"['Yogurt Classic (m1820)', 'Potato Leek Soup Premium (m1545)', 'Broccoli Cheddar Soup Spicy (m539)', 'Macarons Mild (m791)', 'Mushroom Soup Classic (m288)']",0.125
+user_468_lunch,lunch,Chicken Souvlaki (m27),"['Chicken Souvlaki (m27)', 'Greek Salad Deluxe (m1384)']",0.3
+user_469_lunch,lunch,Stuffed Mushrooms Premium (m208),"['Stuffed Mushrooms Premium (m208)', 'Baklava Classic (m1802)', 'Sprite Spicy (m509)']",0.2
+user_470_breakfast,breakfast,Tea Classic (m57),"['Tea Classic (m57)', 'Lentil Soup Special (m580)', 'Clam Chowder Special (m1345)', 'Macarons Special (m292)', 'Spring Rolls Spicy (m1506)']",0.375
+user_471_lunch,lunch,Clam Chowder Classic (m1986),"['Clam Chowder Classic (m1986)', 'Peach Tea Mild (m1686)', 'Breakfast Potatoes Special (m1588)', 'Lamb Kebab Classic (m1750)']",0.50625
+user_472_breakfast,breakfast,Mozzarella Sticks Premium (m1057),"['Mozzarella Sticks Premium (m1057)', 'Apple Pie Deluxe (m729)', 'Gazpacho Spicy (m877)']",0.2625
+user_473_snacks,snacks,Clams Casino Deluxe (m1565),"['Clams Casino Deluxe (m1565)', 'Hot and Sour Soup Spicy (m1241)']",0.425
+user_474_lunch,lunch,Chai Latte Deluxe (m96),"['Chai Latte Deluxe (m96)', 'Omelet Premium (m572)']",0.425
+user_475_dinner,dinner,Chicken Parmesan Special (m1196),"['Chicken Parmesan Special (m1196)', 'Beef Kebab Special (m1036)', 'Oysters Premium (m308)', 'Raspberry Lemonade Mild (m10)', 'Quiche (m245)']",0.375
+user_476_snacks,snacks,Steak Fajitas Classic (m1362),"['Steak Fajitas Classic (m1362)', 'Soy Milk Mild (m1796)', 'Cobbler Premium (m1605)']",0.45
+user_477_dinner,dinner,Coleslaw Spicy (m967),"['Coleslaw Spicy (m967)', 'Wild Rice Classic (m1114)', 'French Toast Deluxe (m725)', 'Sushi Roll Premium (m1035)', 'Eggs Benedict Special (m1956)']",0.35
+user_478_lunch,lunch,Potato Salad Light (m1509),"['Potato Salad Light (m1509)', 'Mushroom Soup Classic (m1299)', 'Gazpacho Deluxe (m473)', 'Fruit Punch (m732)']",0.225
+user_479_breakfast,breakfast,Beef Stroganoff Special (m1068),"['Beef Stroganoff Special (m1068)', 'Chicken Alfredo (m15)', 'Coleslaw (m1044)', 'Soy Milk Spicy (m401)']",0.475
+user_480_lunch,lunch,Scone Spicy (m1312),"['Scone Spicy (m1312)', 'Bacon Mild (m1318)']",0.05
+user_481_snacks,snacks,Tuna Tartare (m1599),"['Tuna Tartare (m1599)', 'Mushroom Soup Classic (m1299)', 'Coleslaw Light (m1858)']",0.075
+user_482_lunch,lunch,Lobster Bisque Mild (m495),"['Lobster Bisque Mild (m495)', 'Potato Leek Soup Mild (m1309)']",0.2375
+user_483_snacks,snacks,Cappuccino Spicy (m1305),"['Cappuccino Spicy (m1305)', 'Roasted Vegetables Light (m229)', 'French Onion Soup Deluxe (m1993)']",0.075
+user_484_breakfast,breakfast,Crème Brûlée Classic (m488),"['Crème Brûlée Classic (m488)', 'Herbal Tea Classic (m1113)']",0.2375
+user_485_dinner,dinner,Water Classic (m1262),"['Water Classic (m1262)', 'Salmon Fillet Mild (m1392)', 'Hash Browns Classic (m1538)']",0.2625
+user_486_dinner,dinner,Pudding Premium (m1749),"['Pudding Premium (m1749)', 'Strawberry Shortcake Deluxe (m1232)', 'Couscous Deluxe (m303)', 'Potato Leek Soup Mild (m621)']",0.42500000000000004
+user_487_breakfast,breakfast,Greek Salad Classic (m749),"['Greek Salad Classic (m749)', 'Caprese Salad Spicy (m1963)', 'Caesar Salad Light (m1539)']",0.2625
+user_488_dinner,dinner,Stuffing Special (m1932),"['Stuffing Special (m1932)', 'Baked Beans (m429)', 'Tuna Tartare Special (m1276)', 'Eggs Benedict Premium (m1861)', 'English Muffin (m1117)']",0.5625
+user_489_snacks,snacks,Croissant Premium (m1168),"['Croissant Premium (m1168)', 'Clams Casino Premium (m1930)', 'Creamed Spinach Classic (m1765)', 'BBQ Chicken Special (m1736)', 'Meatball Sub Classic (m924)']",0.3125
+user_490_lunch,lunch,Tuna Tartare Special (m1276),"['Tuna Tartare Special (m1276)', 'Coleslaw Deluxe (m722)', 'Potato Salad (m1964)']",0.2625
+user_491_breakfast,breakfast,Red Velvet Cake Spicy (m1006),"['Red Velvet Cake Spicy (m1006)', 'Asparagus Premium (m1529)', 'Quinoa Salad Spicy (m1817)', 'Spinach Artichoke Dip Special (m347)', 'Tiramisu Light (m573)']",0.29166666666666663
+user_492_lunch,lunch,Mediterranean Salad Special (m466),"['Mediterranean Salad Special (m466)', 'Coleslaw Special (m1523)']",0.2375
+user_493_lunch,lunch,Fruit Salad Deluxe (m647),"['Fruit Salad Deluxe (m647)', 'Yams Deluxe (m1751)', 'Cinnamon Roll (m397)', 'Shrimp Cocktail Spicy (m135)', 'Chai Latte Spicy (m987)']",0.41666666666666663
+user_494_lunch,lunch,Americano Deluxe (m862),"['Americano Deluxe (m862)', 'Sprite (m1200)', 'Quinoa Salad (m1043)']",0.325
+user_495_lunch,lunch,Arugula Salad Premium (m1070),"['Arugula Salad Premium (m1070)', 'Falafel Wrap (m1074)']",0.175
+user_496_breakfast,breakfast,Falafel Wrap (m1074),"['Falafel Wrap (m1074)', 'French Onion Soup Special (m589)']",0.05
+user_497_lunch,lunch,Coffee Spicy (m548),"['Coffee Spicy (m548)', 'Pasta Salad Classic (m1694)']",0.2375
+user_498_snacks,snacks,Banana Split Premium (m279),"['Banana Split Premium (m279)', 'Fruit Salad Special (m1326)']",0.2375
+user_499_dinner,dinner,Goat Cheese Crostini Special (m1990),"['Goat Cheese Crostini Special (m1990)', 'Butternut Squash Soup Classic (m1306)']",0.14375

@@ -1,0 +1,501 @@
+user_id,meal_occasion,lead_researcher,team,goodness_score
+user_0_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_1_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_2_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_3_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_4_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_5_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_6_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_7_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_8_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Mac and Cheese (m191)']",0.45
+user_9_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_10_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_11_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_12_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_13_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Mac and Cheese (m191)']",0.45
+user_14_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_15_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_16_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_17_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_18_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_19_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_20_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_21_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_22_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_23_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_24_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_25_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_26_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_27_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_28_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_29_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_30_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_31_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_32_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_33_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_34_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_35_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_36_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_37_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_38_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_39_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_40_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_41_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Peach Tea Deluxe (m4)']",0.425
+user_42_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_43_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_44_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_45_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_46_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_47_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_48_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_49_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_50_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_51_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625
+user_52_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_53_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_54_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_55_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_56_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_57_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Pasta Salad Classic (m40)']",0.425
+user_58_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_59_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_60_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_61_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_62_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_63_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_64_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_65_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_66_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_67_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_68_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_69_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_70_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_71_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_72_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_73_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_74_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_75_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_76_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_77_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_78_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_79_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_80_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_81_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_82_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_83_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_84_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_85_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_86_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_87_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_88_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_89_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_90_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_91_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_92_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_93_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_94_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_95_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_96_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_97_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_98_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_99_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_100_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_101_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_102_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_103_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_104_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_105_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_106_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_107_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_108_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_109_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_110_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_111_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_112_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_113_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_114_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_115_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_116_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_117_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_118_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_119_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_120_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_121_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_122_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_123_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_124_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_125_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_126_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_127_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_128_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",0.45
+user_129_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_130_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_131_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_132_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",0.45
+user_133_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_134_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_135_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_136_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_137_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_138_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_139_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_140_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_141_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_142_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_143_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_144_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_145_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_146_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_147_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_148_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_149_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_150_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_151_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_152_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",0.45
+user_153_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_154_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_155_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_156_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_157_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_158_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_159_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_160_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_161_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_162_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_163_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_164_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_165_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_166_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_167_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_168_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_169_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_170_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_171_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_172_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_173_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_174_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_175_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_176_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_177_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_178_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_179_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Mac and Cheese (m191)']",0.45
+user_180_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_181_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Pasta Salad Classic (m40)']",0.425
+user_182_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_183_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_184_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_185_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_186_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_187_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_188_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_189_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_190_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_191_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_192_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_193_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_194_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_195_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_196_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_197_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_198_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_199_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_200_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_201_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_202_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_203_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_204_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_205_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tea Classic (m57)']",0.425
+user_206_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Pasta Salad Classic (m40)']",0.425
+user_207_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_208_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_209_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_210_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_211_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_212_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_213_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_214_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_215_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_216_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_217_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_218_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_219_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_220_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_221_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_222_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_223_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_224_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_225_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_226_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_227_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_228_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_229_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_230_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Mac and Cheese (m191)']",0.45
+user_231_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_232_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_233_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_234_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_235_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_236_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_237_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Banana Split Mild (m5)']",0.425
+user_238_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_239_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_240_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_241_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_242_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_243_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_244_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_245_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_246_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_247_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_248_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_249_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_250_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_251_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_252_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Peach Tea Deluxe (m4)']",0.425
+user_253_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_254_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_255_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_256_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_257_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_258_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_259_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_260_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_261_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_262_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_263_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Banana Split Mild (m5)']",0.425
+user_264_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tea Classic (m57)']",0.425
+user_265_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_266_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_267_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Peach Tea Deluxe (m4)']",0.425
+user_268_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Banana Split Mild (m5)']",0.425
+user_269_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_270_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_271_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_272_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_273_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_274_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_275_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_276_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_277_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_278_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_279_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_280_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_281_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_282_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_283_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_284_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_285_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_286_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_287_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Mac and Cheese (m191)']",0.45
+user_288_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625
+user_289_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_290_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_291_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_292_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_293_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_294_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_295_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_296_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_297_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_298_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_299_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Pasta Salad Classic (m40)']",0.425
+user_300_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_301_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_302_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_303_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_304_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Pasta Salad Classic (m40)']",0.425
+user_305_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_306_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_307_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_308_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_309_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_310_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_311_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Peach Tea Deluxe (m4)']",0.425
+user_312_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_313_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_314_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_315_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_316_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_317_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_318_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_319_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_320_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625
+user_321_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_322_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_323_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_324_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_325_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Peach Tea Deluxe (m4)']",0.425
+user_326_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_327_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_328_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_329_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_330_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_331_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_332_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_333_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_334_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_335_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_336_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_337_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_338_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625
+user_339_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_340_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_341_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_342_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tea Classic (m57)']",0.425
+user_343_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_344_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_345_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_346_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_347_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_348_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_349_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_350_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_351_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tea Classic (m57)']",0.425
+user_352_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_353_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_354_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_355_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tea Classic (m57)']",0.425
+user_356_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_357_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_358_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_359_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_360_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_361_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_362_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_363_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_364_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_365_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Pasta Salad Classic (m40)']",0.425
+user_366_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_367_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_368_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_369_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_370_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_371_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_372_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_373_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_374_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_375_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_376_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_377_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_378_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_379_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_380_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625
+user_381_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_382_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_383_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_384_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",0.45
+user_385_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_386_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_387_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_388_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_389_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_390_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_391_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Pasta Salad Classic (m40)']",0.425
+user_392_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_393_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_394_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_395_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_396_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_397_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_398_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tea Classic (m57)']",0.425
+user_399_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_400_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_401_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_402_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_403_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_404_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_405_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625
+user_406_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_407_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_408_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Banana Split Mild (m5)']",0.425
+user_409_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_410_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_411_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_412_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_413_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_414_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Peach Tea Deluxe (m4)']",0.45625
+user_415_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625
+user_416_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_417_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_418_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_419_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_420_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_421_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_422_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_423_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_424_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_425_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_426_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_427_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_428_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_429_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_430_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_431_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_432_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_433_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_434_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Peach Tea Deluxe (m4)']",0.425
+user_435_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_436_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_437_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_438_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_439_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_440_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_441_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_442_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_443_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_444_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_445_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Peach Tea Deluxe (m4)']",0.425
+user_446_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_447_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_448_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_449_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_450_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_451_dinner,dinner,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_452_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_453_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_454_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_455_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_456_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_457_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_458_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Cereal Special (m78)']",0.425
+user_459_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_460_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_461_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_462_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_463_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Peach Tea Deluxe (m4)']",0.425
+user_464_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_465_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_466_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_467_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_468_lunch,lunch,Cranberry Juice Spicy (m320),['Cranberry Juice Spicy (m320)'],0.4
+user_469_lunch,lunch,Spinach Salad Spicy (m118),['Spinach Salad Spicy (m118)'],0.4
+user_470_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_471_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_472_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_473_snacks,snacks,Tomato Juice (m51),['Tomato Juice (m51)'],0.4
+user_474_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_475_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tomato Juice (m51)']",0.425
+user_476_snacks,snacks,Peach Tea Deluxe (m4),['Peach Tea Deluxe (m4)'],0.4
+user_477_dinner,dinner,Beef Burrito Deluxe (m21),"['Beef Burrito Deluxe (m21)', 'Stuffed Mushrooms Classic (m154)']",0.45
+user_478_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_479_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_480_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_481_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_482_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_483_snacks,snacks,Hummus with Pita Classic (m6),['Hummus with Pita Classic (m6)'],0.4
+user_484_breakfast,breakfast,Donut Special (m31),['Donut Special (m31)'],0.4
+user_485_dinner,dinner,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Raspberry Lemonade Mild (m10)']",0.425
+user_486_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Tea Classic (m57)']",0.425
+user_487_breakfast,breakfast,Milk Spicy (m16),['Milk Spicy (m16)'],0.4
+user_488_dinner,dinner,Pork Schnitzel Mild (m32),"['Pork Schnitzel Mild (m32)', 'Banana Split Mild (m5)']",0.425
+user_489_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_490_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_491_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_492_lunch,lunch,Chicken Wings Deluxe (m52),"['Chicken Wings Deluxe (m52)', 'Banana Split Mild (m5)']",0.425
+user_493_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_494_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_495_lunch,lunch,Fish Tacos Spicy (m1561),['Fish Tacos Spicy (m1561)'],0.4
+user_496_breakfast,breakfast,Cereal Special (m78),['Cereal Special (m78)'],0.4
+user_497_lunch,lunch,Donut Special (m31),['Donut Special (m31)'],0.4
+user_498_snacks,snacks,Banana Split Mild (m5),['Banana Split Mild (m5)'],0.4
+user_499_dinner,dinner,Green Beans (m29),"['Green Beans (m29)', 'Banana Split Mild (m5)']",0.45625

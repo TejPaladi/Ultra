@@ -1,0 +1,6 @@
+Method,Unique Meals Used,Top 10 Concentration (%),Avg Bundle Size
+M0 (Random),1162,2.422145328719723,3.468
+M1 (String Matching),449,41.05,4.0
+M3 (Boosted Bandit),467,41.05,4.0
+Knapsack,19,78.09076682316119,1.278
+Knapsack (Marginal Utility),37,52.26666666666666,3.0
