@@ -1,0 +1,6 @@
+Method,Unique Researchers,Top 10 Concentration (%),Avg Team Size
+M0 (Random),1123,2.9154518950437316,3.43
+M1 (String Matching),447,38.41676367869616,3.436
+M3 (Boosted Bandit),458,38.56812933025404,3.464
+Knapsack,547,5.970149253731343,1.742
+Knapsack (Mariginal utiility),1214,3.5312581742087366,7.646
